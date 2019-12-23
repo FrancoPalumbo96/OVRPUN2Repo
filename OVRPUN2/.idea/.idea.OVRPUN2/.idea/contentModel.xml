@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
     <e p="C:\Users\palum\.Rider2019.2\system\extResources" t="IncludeRecursive" />
@@ -1005,6 +1005,7 @@
             </e>
           </e>
         </e>
+        <e p="RobotOVR.cs" t="Include" />
         <e p="Scripts" t="Include">
           <e p="GameControllers" t="Include">
             <e p="GameSetup.cs" t="Include" />
