@@ -2656,4 +2656,4 @@ ScriptsOnlyBuild:
   scenePathNames:
   - Assets/Scenes/MainMenuTestFps.unity
   - Assets/Scenes/MultiplayerScene.unity
-  playerPath: D:/sandbox/OVRPUN2Repo/OVRPUN2/Builds/Build/OVRPUN2.exe
+  playerPath: D:/sandbox/OVRPUN2Repo/OVRPUN2/Builds/Build1/OVRPUN2.exe

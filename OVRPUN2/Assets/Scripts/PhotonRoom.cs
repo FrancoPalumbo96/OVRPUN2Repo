@@ -19,6 +19,7 @@ public class PhotonRoom : MonoBehaviourPunCallbacks, IInRoomCallbacks
 
     public List<Vector3> spawnPoints;
 
+    public static int players;
     // Start is called before the first frame update
     private void Awake()
     {
@@ -27,8 +28,12 @@ public class PhotonRoom : MonoBehaviourPunCallbacks, IInRoomCallbacks
         {
             PhotonRoom.room = this;
             spawnPoints = new List<Vector3> {
-                new Vector3(1,1,1),
-                new Vector3(-1,1, 1)
+                new Vector3(3f,1,0f),
+                new Vector3(3,1,3),
+                new Vector3(3,1,-3),
+                new Vector3(-3f,1, 0f),
+                new Vector3(-3f,1, 3f),
+                new Vector3(-3f,1, -3f),
             };
         }
         else
@@ -92,6 +97,10 @@ public class PhotonRoom : MonoBehaviourPunCallbacks, IInRoomCallbacks
     {
         PhotonNetwork.Instantiate(Path.Combine("PhotonPrefabs", "PhotonNetworkPlayer"), transform.position,
             Quaternion.identity, 0);
+    }
+
+    public static void AddPlayer() {
+        players = players + 1;
     }
 
 }

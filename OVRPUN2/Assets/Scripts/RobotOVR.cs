@@ -9,38 +9,36 @@ public class RobotOVR : MonoBehaviour {
     private static RobotOVR instance = null;
     public GameObject ovrPrefab;
     private PhotonView PV;
-    private VRRig vrRig;
+
 
     private VRRig _rig;
 
-    public static int numOfRobot;
+   
     // Start is called before the first frame update
     void Awake() {
+        _rig = GetComponent<VRRig>();
 
-        vrRig = GetComponent<VRRig>();
+   
         if (instance == null) {
             instance = this;
             Debug.Log("INSTANCE EQUAL TO THIS");
-            numOfRobot = 0;
+            /*GameObject cube = GameObject.CreatePrimitive(PrimitiveType.Cube);
+            cube.transform.position = new Vector3(0, 2f, 0);*/
         }
         else if(instance != this) {
             Debug.Log("DOBLE ROBOT DELETED");
-            numOfRobot = 1;
-            Destroy(vrRig);
+           
+            Destroy(_rig);
             return;
         }
         
         PV = GetComponent<PhotonView>();
         if (PV.IsMine) {
 
-            GameObject ovr = Instantiate(ovrPrefab, this.transform.position, ovrPrefab.transform.rotation);
+            GameObject ovr = Instantiate(ovrPrefab, transform.position, ovrPrefab.transform.rotation);
             _rig = GetComponent<VRRig>();
 
             string ovrName = ovr.name;
-            Debug.Log(ovrName);
-            Debug.Log(ovrName + "/OVRPlayerController/OVRCameraRig/TrackingSpace/CenterEyeAnchor");
-            Debug.Log(GameObject.Find(ovrName + "/OVRPlayerController/OVRCameraRig/TrackingSpace/CenterEyeAnchor")
-                .name);
 
             _rig.head.vrTarget = GameObject
                 .Find(ovrName + "/OVRPlayerController/OVRCameraRig/TrackingSpace/CenterEyeAnchor").transform;
@@ -49,14 +47,7 @@ public class RobotOVR : MonoBehaviour {
             _rig.rightHand.vrTarget = GameObject
                 .Find(ovrName + "/OVRPlayerController/OVRCameraRig/TrackingSpace/RightHandAnchor").transform;
         }
-        else {
-            Destroy(vrRig);
-        }
+       
     }
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
 }
