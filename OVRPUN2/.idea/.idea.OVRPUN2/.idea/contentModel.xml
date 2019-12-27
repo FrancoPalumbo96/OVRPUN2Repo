@@ -1005,6 +1005,7 @@
             </e>
           </e>
         </e>
+        <e p="PlayerOVRTest.cs" t="Include" />
         <e p="Scripts" t="Include">
           <e p="GameControllers" t="Include">
             <e p="GameSetup.cs" t="Include" />
