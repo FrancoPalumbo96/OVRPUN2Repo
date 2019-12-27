@@ -21,10 +21,4 @@ public class PhotonPlayer : MonoBehaviour
                 GameSetup.GS.spawnPoints[spawnPicker].position, GameSetup.GS.spawnPoints[spawnPicker].rotation, 0);
         }
     }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
 }
