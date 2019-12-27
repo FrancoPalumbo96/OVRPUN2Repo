@@ -16,6 +16,9 @@ public class PhotonRoom : MonoBehaviourPunCallbacks, IInRoomCallbacks
     public int multiplayerScene;
 
     public int currentScene;
+
+    public List<Vector3> spawnPoints;
+
     // Start is called before the first frame update
     private void Awake()
     {
@@ -23,6 +26,10 @@ public class PhotonRoom : MonoBehaviourPunCallbacks, IInRoomCallbacks
         if (PhotonRoom.room == null)
         {
             PhotonRoom.room = this;
+            spawnPoints = new List<Vector3> {
+                new Vector3(1,1,1),
+                new Vector3(-1,1, 1)
+            };
         }
         else
         {
@@ -30,6 +37,11 @@ public class PhotonRoom : MonoBehaviourPunCallbacks, IInRoomCallbacks
             {
                 Destroy(PhotonRoom.room.gameObject);
                 PhotonRoom.room = this;
+                spawnPoints = new List<Vector3> {
+                    new Vector3(1,0,1),
+                    new Vector3(-1,0, 1)
+                };
+                
             }
         }
         DontDestroyOnLoad(this.gameObject);

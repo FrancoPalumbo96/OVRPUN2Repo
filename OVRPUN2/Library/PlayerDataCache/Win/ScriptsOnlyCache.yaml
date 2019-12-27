@@ -39,6 +39,8 @@ ScriptsOnlyBuild:
     - Photon.Pun.Demo.PunBasics.PlayerUI
     - Photon.Pun.Demo.SlotRacer.PlayerControl
     - Photon.Pun.Demo.SlotRacer.Utils.SplineWalker
+    PhotonUnityNetworking.Editor.dll:
+    - Photon.Pun.PunSceneSettings
     PhotonUnityNetworking.dll:
     - Photon.Pun.PhotonAnimatorView
     - Photon.Pun.PhotonRigidbodyView
@@ -67,89 +69,6 @@ ScriptsOnlyBuild:
     - UnityEngine.UI.Slider
     - UnityEngine.UI.Text
   sceneClasses:
-    Assets/Scenes/DobleOVR2.unity:
-    - Class: 1
-      Script: {instanceID: 0}
-    - Class: 4
-      Script: {instanceID: 0}
-    - Class: 20
-      Script: {instanceID: 0}
-    - Class: 21
-      Script: {instanceID: 0}
-    - Class: 23
-      Script: {instanceID: 0}
-    - Class: 28
-      Script: {instanceID: 0}
-    - Class: 33
-      Script: {instanceID: 0}
-    - Class: 43
-      Script: {instanceID: 0}
-    - Class: 48
-      Script: {instanceID: 0}
-    - Class: 54
-      Script: {instanceID: 0}
-    - Class: 64
-      Script: {instanceID: 0}
-    - Class: 74
-      Script: {instanceID: 0}
-    - Class: 81
-      Script: {instanceID: 0}
-    - Class: 90
-      Script: {instanceID: 0}
-    - Class: 91
-      Script: {instanceID: 0}
-    - Class: 95
-      Script: {instanceID: 0}
-    - Class: 104
-      Script: {instanceID: 0}
-    - Class: 108
-      Script: {instanceID: 0}
-    - Class: 114
-      Script: {instanceID: 9960}
-    - Class: 114
-      Script: {instanceID: 10182}
-    - Class: 114
-      Script: {instanceID: 10332}
-    - Class: 114
-      Script: {instanceID: 10448}
-    - Class: 114
-      Script: {instanceID: 10596}
-    - Class: 114
-      Script: {instanceID: 11180}
-    - Class: 114
-      Script: {instanceID: 11360}
-    - Class: 114
-      Script: {instanceID: 11536}
-    - Class: 114
-      Script: {instanceID: 11550}
-    - Class: 114
-      Script: {instanceID: 11724}
-    - Class: 114
-      Script: {instanceID: 11856}
-    - Class: 114
-      Script: {instanceID: 12226}
-    - Class: 114
-      Script: {instanceID: 12444}
-    - Class: 114
-      Script: {instanceID: 12492}
-    - Class: 114
-      Script: {instanceID: 12600}
-    - Class: 114
-      Script: {instanceID: 12844}
-    - Class: 114
-      Script: {instanceID: 13030}
-    - Class: 114
-      Script: {instanceID: 13202}
-    - Class: 115
-      Script: {instanceID: 0}
-    - Class: 136
-      Script: {instanceID: 0}
-    - Class: 137
-      Script: {instanceID: 0}
-    - Class: 143
-      Script: {instanceID: 0}
-    - Class: 157
-      Script: {instanceID: 0}
     Assets/Scenes/MainMenuTestFps.unity:
     - Class: 1
       Script: {instanceID: 0}
@@ -192,109 +111,109 @@ ScriptsOnlyBuild:
     - Class: 109
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 9860}
+      Script: {instanceID: 9858}
     - Class: 114
-      Script: {instanceID: 9960}
+      Script: {instanceID: 9958}
     - Class: 114
-      Script: {instanceID: 10064}
+      Script: {instanceID: 10062}
     - Class: 114
-      Script: {instanceID: 10106}
+      Script: {instanceID: 10104}
     - Class: 114
-      Script: {instanceID: 10146}
+      Script: {instanceID: 10144}
     - Class: 114
-      Script: {instanceID: 10182}
+      Script: {instanceID: 10180}
     - Class: 114
-      Script: {instanceID: 10210}
+      Script: {instanceID: 10208}
     - Class: 114
-      Script: {instanceID: 10278}
+      Script: {instanceID: 10276}
     - Class: 114
-      Script: {instanceID: 10332}
+      Script: {instanceID: 10330}
     - Class: 114
-      Script: {instanceID: 10448}
+      Script: {instanceID: 10446}
     - Class: 114
-      Script: {instanceID: 10596}
+      Script: {instanceID: 10594}
     - Class: 114
-      Script: {instanceID: 10694}
+      Script: {instanceID: 10692}
     - Class: 114
-      Script: {instanceID: 10882}
+      Script: {instanceID: 10880}
     - Class: 114
-      Script: {instanceID: 10886}
+      Script: {instanceID: 10884}
     - Class: 114
-      Script: {instanceID: 10914}
+      Script: {instanceID: 10912}
     - Class: 114
-      Script: {instanceID: 10940}
+      Script: {instanceID: 10938}
     - Class: 114
-      Script: {instanceID: 10944}
+      Script: {instanceID: 10942}
     - Class: 114
-      Script: {instanceID: 11020}
+      Script: {instanceID: 11018}
     - Class: 114
-      Script: {instanceID: 11140}
+      Script: {instanceID: 11138}
     - Class: 114
-      Script: {instanceID: 11180}
+      Script: {instanceID: 11178}
     - Class: 114
-      Script: {instanceID: 11360}
+      Script: {instanceID: 11358}
     - Class: 114
-      Script: {instanceID: 11456}
+      Script: {instanceID: 11454}
     - Class: 114
-      Script: {instanceID: 11486}
+      Script: {instanceID: 11484}
     - Class: 114
-      Script: {instanceID: 11524}
+      Script: {instanceID: 11522}
     - Class: 114
-      Script: {instanceID: 11536}
+      Script: {instanceID: 11534}
     - Class: 114
-      Script: {instanceID: 11550}
+      Script: {instanceID: 11548}
     - Class: 114
-      Script: {instanceID: 11602}
+      Script: {instanceID: 11600}
     - Class: 114
-      Script: {instanceID: 11724}
+      Script: {instanceID: 11722}
     - Class: 114
-      Script: {instanceID: 11810}
+      Script: {instanceID: 11808}
     - Class: 114
-      Script: {instanceID: 11856}
+      Script: {instanceID: 11854}
     - Class: 114
-      Script: {instanceID: 11886}
+      Script: {instanceID: 11884}
     - Class: 114
-      Script: {instanceID: 11936}
+      Script: {instanceID: 11934}
     - Class: 114
-      Script: {instanceID: 11992}
+      Script: {instanceID: 11990}
     - Class: 114
-      Script: {instanceID: 12106}
+      Script: {instanceID: 12104}
     - Class: 114
-      Script: {instanceID: 12114}
+      Script: {instanceID: 12112}
     - Class: 114
-      Script: {instanceID: 12130}
+      Script: {instanceID: 12128}
     - Class: 114
-      Script: {instanceID: 12226}
+      Script: {instanceID: 12224}
     - Class: 114
-      Script: {instanceID: 12444}
+      Script: {instanceID: 12442}
     - Class: 114
-      Script: {instanceID: 12470}
+      Script: {instanceID: 12468}
+    - Class: 114
+      Script: {instanceID: 12488}
     - Class: 114
       Script: {instanceID: 12490}
     - Class: 114
-      Script: {instanceID: 12492}
+      Script: {instanceID: 12500}
     - Class: 114
-      Script: {instanceID: 12502}
+      Script: {instanceID: 12598}
     - Class: 114
-      Script: {instanceID: 12600}
+      Script: {instanceID: 12668}
     - Class: 114
-      Script: {instanceID: 12670}
+      Script: {instanceID: 12738}
     - Class: 114
-      Script: {instanceID: 12740}
+      Script: {instanceID: 12842}
     - Class: 114
-      Script: {instanceID: 12844}
+      Script: {instanceID: 13028}
     - Class: 114
-      Script: {instanceID: 13030}
+      Script: {instanceID: 13200}
     - Class: 114
-      Script: {instanceID: 13202}
+      Script: {instanceID: 13334}
     - Class: 114
-      Script: {instanceID: 13336}
+      Script: {instanceID: 13380}
     - Class: 114
-      Script: {instanceID: 13382}
+      Script: {instanceID: 13394}
     - Class: 114
-      Script: {instanceID: 13396}
-    - Class: 114
-      Script: {instanceID: 13418}
+      Script: {instanceID: 13426}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -351,13 +270,13 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 11580}
+      Script: {instanceID: 11578}
     - Class: 114
-      Script: {instanceID: 11602}
+      Script: {instanceID: 11600}
     - Class: 114
-      Script: {instanceID: 11736}
+      Script: {instanceID: 11734}
     - Class: 114
-      Script: {instanceID: 13202}
+      Script: {instanceID: 13200}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -1079,7 +998,7 @@ ScriptsOnlyBuild:
     className: OnClickRpc
   - hash:
       serializedVersion: 2
-      Hash: b235093caa896829642d36a098bb017b
+      Hash: f7ff1c9c74366f0c761d777c77fbeb5f
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: PhotonRoom
@@ -1499,7 +1418,7 @@ ScriptsOnlyBuild:
     className: BallEjector
   - hash:
       serializedVersion: 2
-      Hash: ec9cfd716e8b048ce509c8dd26bd2705
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: GameSetup
@@ -2737,5 +2656,4 @@ ScriptsOnlyBuild:
   scenePathNames:
   - Assets/Scenes/MainMenuTestFps.unity
   - Assets/Scenes/MultiplayerScene.unity
-  - Assets/Scenes/DobleOVR2.unity
-  playerPath: D:/sandbox/OVRPUN2Repo/OVRPUN2/Builds/Build3/OVRPUN2.exe
+  playerPath: D:/sandbox/OVRPUN2Repo/OVRPUN2/Builds/Build/OVRPUN2.exe

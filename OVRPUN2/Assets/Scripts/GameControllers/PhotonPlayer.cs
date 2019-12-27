@@ -10,15 +10,21 @@ public class PhotonPlayer : MonoBehaviour
     private PhotonView PV;
 
     public GameObject myAvatar;
+    
+    private List<Vector3> spawnPoints;
+
+    
     // Start is called before the first frame update
-    void Start()
-    {
+    void Start() {
+        Debug.Log(RobotOVR.numOfRobot);
+        spawnPoints = PhotonRoom.room.spawnPoints;
         PV = GetComponent<PhotonView>();
-        int spawnPicker = Random.Range(0, GameSetup.GS.spawnPoints.Length);
+        Debug.Log(PhotonRoom.room.spawnPoints.Count);
+        //int spawnPicker = Random.Range(0, spawnPoints.Count);
         if (PV.IsMine)
         {
             myAvatar = PhotonNetwork.Instantiate(Path.Combine("PhotonPrefabs", "Robot"/*"PlayerAvatarOVR"*/), 
-                GameSetup.GS.spawnPoints[spawnPicker].position, GameSetup.GS.spawnPoints[spawnPicker].rotation, 0);
+                spawnPoints[RobotOVR.numOfRobot], Quaternion.identity, 0);
         }
     }
 }

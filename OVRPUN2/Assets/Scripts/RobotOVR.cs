@@ -12,16 +12,20 @@ public class RobotOVR : MonoBehaviour {
     private VRRig vrRig;
 
     private VRRig _rig;
+
+    public static int numOfRobot;
     // Start is called before the first frame update
-    void Start() {
+    void Awake() {
 
         vrRig = GetComponent<VRRig>();
         if (instance == null) {
             instance = this;
             Debug.Log("INSTANCE EQUAL TO THIS");
+            numOfRobot = 0;
         }
         else if(instance != this) {
             Debug.Log("DOBLE ROBOT DELETED");
+            numOfRobot = 1;
             Destroy(vrRig);
             return;
         }
