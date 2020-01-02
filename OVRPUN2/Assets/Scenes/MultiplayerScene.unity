@@ -263,6 +263,7 @@ GameObject:
   - component: {fileID: 732757923}
   - component: {fileID: 732757930}
   - component: {fileID: 732757929}
+  - component: {fileID: 732757931}
   m_Layer: 0
   m_Name: GrabbableCubes
   m_TagString: Untagged
@@ -410,9 +411,26 @@ MonoBehaviour:
   OwnershipTransfer: 0
   ObservedComponents:
   - {fileID: 732757929}
+  - {fileID: 732757931}
   viewIdField: 999
   InstantiationId: 0
   isRuntimeInstantiated: 0
+--- !u!114 &732757931
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 732757922}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 64179f3720bbfe947b7724caa67b7c1d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_SynchronizeVelocity: 1
+  m_SynchronizeAngularVelocity: 1
+  m_TeleportEnabled: 0
+  m_TeleportIfDistanceGreaterThan: 3
 --- !u!1 &850454328
 GameObject:
   m_ObjectHideFlags: 0
