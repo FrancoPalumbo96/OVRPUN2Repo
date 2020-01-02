@@ -35,11 +35,12 @@ public class OVRGrabbablePandu : OVRGrabbable {
 	/// <summary>
 	/// Notifies the object that it has been grabbed.
 	/// </summary>
-	virtual public void GrabBegin(OVRGrabber hand, Collider grabPoint)
+	public override void GrabBegin(OVRGrabber hand, Collider grabPoint)
     {
         m_grabbedBy = hand;
         m_grabbedCollider = grabPoint;
         gameObject.GetComponent<Rigidbody>().isKinematic = true;
+        Debug.Log("Calling transfer");
         ownershipOption.Transfer();
 
     }
