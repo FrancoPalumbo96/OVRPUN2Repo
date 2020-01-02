@@ -16,17 +16,17 @@ permissions and limitations under the License.
 
 using System;
 using Photon.Pun;
+using Photon.Realtime;
 using UnityEngine;
 using Random = Unity.Mathematics.Random;
 
 /// <summary>
 /// An object that can be grabbed and thrown by OVRGrabber.
 /// </summary>
-public class OVRGrabbablePandu : OVRGrabbable
-{
-    
+public class OVRGrabbablePandu : OVRGrabbable {
 
-    private PhotonView photonView;
+
+	private OwnershipTransfer ownershipOption;
 	/// <summary>
 	/// If true, the object can currently be grabbed.
 	/// </summary>
@@ -40,18 +40,25 @@ public class OVRGrabbablePandu : OVRGrabbable
         m_grabbedBy = hand;
         m_grabbedCollider = grabPoint;
         gameObject.GetComponent<Rigidbody>().isKinematic = true;
-        photonView.RequestOwnership();
+        ownershipOption.Transfer();
+
     }
 	
 
 
-    protected virtual void Start()
-    {
+    protected virtual void Start() {
+	    ownershipOption = GetComponent<OwnershipTransfer>();
         m_grabbedKinematic = GetComponent<Rigidbody>().isKinematic;
-        photonView = GetComponent<PhotonView>();
+    }
+    
 
+
+    public void OnOwnershipRequest(PhotonView targetView, Player requestingPlayer) {
+	    
     }
 
-    
+    public void OnOwnershipTransfered(PhotonView targetView, Player previousOwner) {
+	    
+    }
 }
 
