@@ -14,15 +14,14 @@ public class OwnershipTransfer : MonoBehaviourPun
         _ovrGrabbable = GetComponent<OVRGrabbable>();
     }
 
+    //Change to events
     private void Update()
     {
         if (_ovrGrabbable.isGrabbed)
         {
-            if (!calledTransfer)
-            {
-                calledTransfer = true;
-                Transfer();
-            }
+            if (calledTransfer) return;
+            calledTransfer = true;
+            Transfer();
         }
         else
         {
