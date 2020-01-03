@@ -30,7 +30,7 @@ public class OwnershipTransfer : MonoBehaviourPun
     }
 
     public void Transfer() {
-        Debug.Log("Change efewfs");
+        
         base.photonView.RequestOwnership();
     }
     

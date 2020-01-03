@@ -20,46 +20,36 @@ using Photon.Realtime;
 using UnityEngine;
 using Random = Unity.Mathematics.Random;
 
+/// <inheritdoc />
 /// <summary>
 /// An object that can be grabbed and thrown by OVRGrabber.
 /// </summary>
 public class OVRGrabbablePandu : OVRGrabbable {
 
 
-	private OwnershipTransfer ownershipOption;
+	//private OwnershipTransfer ownershipOption;
+	private PhotonView photonView;
 	/// <summary>
 	/// If true, the object can currently be grabbed.
 	/// </summary>
-    
+
 
 	/// <summary>
 	/// Notifies the object that it has been grabbed.
 	/// </summary>
-	public override void GrabBegin(OVRGrabber hand, Collider grabPoint)
-    {
-        m_grabbedBy = hand;
-        m_grabbedCollider = grabPoint;
-        gameObject.GetComponent<Rigidbody>().isKinematic = true;
-        Debug.Log("Calling transfer");
-        ownershipOption.Transfer();
-
-    }
+	public override void GrabBegin(OVRGrabber hand, Collider grabPoint) {
+		base.GrabBegin(hand, grabPoint);
 	
+		if(photonView == null) return;
+		photonView.RequestOwnership();
+		
+	}
 
-
-    protected virtual void Start() {
-	    ownershipOption = GetComponent<OwnershipTransfer>();
-        m_grabbedKinematic = GetComponent<Rigidbody>().isKinematic;
-    }
+	protected override void Start() {
+	    base.Start();
+	    //ownershipOption = GetComponent<OwnershipTransfer>();
+	    photonView = GetComponent<PhotonView>();
+	}
     
-
-
-    public void OnOwnershipRequest(PhotonView targetView, Player requestingPlayer) {
-	    
-    }
-
-    public void OnOwnershipTransfered(PhotonView targetView, Player previousOwner) {
-	    
-    }
 }
 

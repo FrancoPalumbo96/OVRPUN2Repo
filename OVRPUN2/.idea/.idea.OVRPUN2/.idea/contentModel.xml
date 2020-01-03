@@ -1009,6 +1009,11 @@
           </e>
         </e>
         <e p="PlayerOVRTest.cs" t="Include" />
+        <e p="Racing Cars" t="Include">
+          <e p="Skybox" t="Include">
+            <e p="README.txt" t="Include" />
+          </e>
+        </e>
         <e p="Scripts" t="Include">
           <e p="GameControllers" t="Include">
             <e p="GameSetup.cs" t="Include" />

@@ -387,16 +387,16 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 9116580521213753540, guid: 7bf211a7cdb3eb4419c2db2fb9ac26c5,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 5630be27dbf658146badce7b585be36c, type: 2}
     - target: {fileID: 9116580521213753538, guid: 7bf211a7cdb3eb4419c2db2fb9ac26c5,
         type: 3}
       propertyPath: viewIdField
       value: 7
       objectReference: {fileID: 0}
+    - target: {fileID: 9116580521213753540, guid: 7bf211a7cdb3eb4419c2db2fb9ac26c5,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 5630be27dbf658146badce7b585be36c, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7bf211a7cdb3eb4419c2db2fb9ac26c5, type: 3}
 --- !u!4 &329113343 stripped
@@ -472,16 +472,16 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 9116580521213753540, guid: 7bf211a7cdb3eb4419c2db2fb9ac26c5,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 5630be27dbf658146badce7b585be36c, type: 2}
     - target: {fileID: 9116580521213753538, guid: 7bf211a7cdb3eb4419c2db2fb9ac26c5,
         type: 3}
       propertyPath: viewIdField
       value: 8
       objectReference: {fileID: 0}
+    - target: {fileID: 9116580521213753540, guid: 7bf211a7cdb3eb4419c2db2fb9ac26c5,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 5630be27dbf658146badce7b585be36c, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7bf211a7cdb3eb4419c2db2fb9ac26c5, type: 3}
 --- !u!4 &370639830 stripped
@@ -680,16 +680,16 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 9116580521213753540, guid: 7bf211a7cdb3eb4419c2db2fb9ac26c5,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 5630be27dbf658146badce7b585be36c, type: 2}
     - target: {fileID: 9116580521213753538, guid: 7bf211a7cdb3eb4419c2db2fb9ac26c5,
         type: 3}
       propertyPath: viewIdField
       value: 10
       objectReference: {fileID: 0}
+    - target: {fileID: 9116580521213753540, guid: 7bf211a7cdb3eb4419c2db2fb9ac26c5,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 5630be27dbf658146badce7b585be36c, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7bf211a7cdb3eb4419c2db2fb9ac26c5, type: 3}
 --- !u!4 &951228254 stripped
@@ -857,16 +857,16 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 9116580521213753540, guid: 7bf211a7cdb3eb4419c2db2fb9ac26c5,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 5630be27dbf658146badce7b585be36c, type: 2}
     - target: {fileID: 9116580521213753538, guid: 7bf211a7cdb3eb4419c2db2fb9ac26c5,
         type: 3}
       propertyPath: viewIdField
       value: 9
       objectReference: {fileID: 0}
+    - target: {fileID: 9116580521213753540, guid: 7bf211a7cdb3eb4419c2db2fb9ac26c5,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 5630be27dbf658146badce7b585be36c, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7bf211a7cdb3eb4419c2db2fb9ac26c5, type: 3}
 --- !u!4 &1103330433 stripped
@@ -1166,7 +1166,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 2053972442}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 02d61468f8b77ae4b92c344bc9a600fb, type: 3}
+  m_Script: {fileID: 11500000, guid: 1757f1a1fd7316e46882c206dbe4ef4f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   m_allowOffhandGrab: 1
@@ -1389,7 +1389,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 2085947449}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 02d61468f8b77ae4b92c344bc9a600fb, type: 3}
+  m_Script: {fileID: 11500000, guid: 1757f1a1fd7316e46882c206dbe4ef4f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   m_allowOffhandGrab: 1
@@ -1564,16 +1564,16 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 9116580521213753540, guid: 7bf211a7cdb3eb4419c2db2fb9ac26c5,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 5630be27dbf658146badce7b585be36c, type: 2}
     - target: {fileID: 9116580521213753538, guid: 7bf211a7cdb3eb4419c2db2fb9ac26c5,
         type: 3}
       propertyPath: viewIdField
       value: 6
       objectReference: {fileID: 0}
+    - target: {fileID: 9116580521213753540, guid: 7bf211a7cdb3eb4419c2db2fb9ac26c5,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 5630be27dbf658146badce7b585be36c, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7bf211a7cdb3eb4419c2db2fb9ac26c5, type: 3}
 --- !u!4 &2133788932 stripped
@@ -1746,5 +1746,40 @@ PrefabInstance:
       propertyPath: viewIdField
       value: 1
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    - target: {fileID: 9116580521213753540, guid: 7bf211a7cdb3eb4419c2db2fb9ac26c5,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: b6973f474207554449a5c1e111f3c63d, type: 2}
+    - target: {fileID: 9116580521213753537, guid: 7bf211a7cdb3eb4419c2db2fb9ac26c5,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 9116580521213753537, guid: 7bf211a7cdb3eb4419c2db2fb9ac26c5, type: 3}
+    - {fileID: 9116580521213753548, guid: 7bf211a7cdb3eb4419c2db2fb9ac26c5, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 7bf211a7cdb3eb4419c2db2fb9ac26c5, type: 3}
+--- !u!1 &9116580521951838182 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 9116580521213753595, guid: 7bf211a7cdb3eb4419c2db2fb9ac26c5,
+    type: 3}
+  m_PrefabInstance: {fileID: 9116580521951838181}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &9116580521951838183
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9116580521951838182}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1757f1a1fd7316e46882c206dbe4ef4f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_allowOffhandGrab: 1
+  m_snapPosition: 0
+  m_snapOrientation: 0
+  m_snapOffset: {fileID: 0}
+  m_grabPoints: []
