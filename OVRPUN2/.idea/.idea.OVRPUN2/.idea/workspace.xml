@@ -1,27 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3927592f-fa18-40a1-9ed4-925adcf8bc41" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.OVRPUN2/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.OVRPUN2/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.OVRPUN2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.OVRPUN2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/OVRGrabbablePandu.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/OVRGrabbablePandu.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/MultiplayerScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/MultiplayerScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/OwnershipTransfer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/OwnershipTransfer.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/InspectorExpandedItems.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/InspectorExpandedItems.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp-Editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp-Editor.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/BuiltinAssemblies.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Oculus.VR.Editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Oculus.VR.Editor.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Oculus.VR.Scripts.Editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Oculus.VR.Scripts.Editor.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Oculus.VR.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Oculus.VR.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/StateCache/Hierarchy/544365-mainStage.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/Hierarchy/544365-mainStage.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/StateCache/SceneView/c7e9f1-mainStage.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/SceneView/c7e9f1-mainStage.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/assetDatabase3" beforeDir="false" afterPath="$PROJECT_DIR$/Library/assetDatabase3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/17/1757f1a1fd7316e46882c206dbe4ef4f" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/17/1757f1a1fd7316e46882c206dbe4ef4f" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/1f/1ff2f4d947f3dc144a63582fc92b5868" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/1f/1ff2f4d947f3dc144a63582fc92b5868" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe0.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe0.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" afterDir="false" />
-    </list>
+    <list default="true" id="3927592f-fa18-40a1-9ed4-925adcf8bc41" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,16 +74,16 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/OwnershipTransfer.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="5" column="42" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
+            <state relative-caret-position="493">
+              <caret line="32" column="8" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="8" />
               <folding>
-                <marker date="1578073524554" expanded="false" signature="6:96" ph="..." />
-                <marker date="1578073524554" expanded="true" signature="147:693" ph="{...}" />
-                <marker date="1578073524554" expanded="true" signature="253:319" ph="{...}" />
-                <marker date="1578073524554" expanded="true" signature="369:606" ph="{...}" />
-                <marker date="1578073524554" expanded="true" signature="412:531" ph="{...}" />
-                <marker date="1578073524554" expanded="true" signature="544:600" ph="{...}" />
-                <marker date="1578073524554" expanded="true" signature="635:686" ph="{...}" />
+                <marker date="1578074459530" expanded="false" signature="6:96" ph="..." />
+                <marker date="1578074459530" expanded="true" signature="147:702" ph="{...}" />
+                <marker date="1578074459530" expanded="true" signature="253:319" ph="{...}" />
+                <marker date="1578074459530" expanded="true" signature="369:606" ph="{...}" />
+                <marker date="1578074459530" expanded="true" signature="412:531" ph="{...}" />
+                <marker date="1578074459530" expanded="true" signature="544:600" ph="{...}" />
+                <marker date="1578074459530" expanded="true" signature="635:695" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -1064,9 +1044,9 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/GameControllers/PhotonPlayer.cs" />
         <option value="$PROJECT_DIR$/Assets/OnClickRequestOwnership.cs" />
         <option value="$PROJECT_DIR$/Assets/MaterialPerOwner.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/OwnershipTransfer.cs" />
         <option value="$PROJECT_DIR$/Assets/Oculus/VR/Scripts/Util/OVRGrabbable.cs" />
         <option value="$PROJECT_DIR$/Assets/OVRGrabbablePandu.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/OwnershipTransfer.cs" />
       </list>
     </option>
   </component>
@@ -1161,7 +1141,7 @@
       <workItem from="1577465464386" duration="7296000" />
       <workItem from="1577989541470" duration="4957000" />
       <workItem from="1577995674727" duration="738000" />
-      <workItem from="1578069566156" duration="2757000" />
+      <workItem from="1578069566156" duration="3500000" />
     </task>
     <task id="LOCAL-00001" summary="aaaah">
       <created>1576774743314</created>
@@ -1174,7 +1154,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29342000" />
+    <option name="totallyTimeSpent" value="30085000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -2514,22 +2494,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/OwnershipTransfer.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="5" column="42" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
-          <folding>
-            <marker date="1578073524554" expanded="false" signature="6:96" ph="..." />
-            <marker date="1578073524554" expanded="true" signature="147:693" ph="{...}" />
-            <marker date="1578073524554" expanded="true" signature="253:319" ph="{...}" />
-            <marker date="1578073524554" expanded="true" signature="369:606" ph="{...}" />
-            <marker date="1578073524554" expanded="true" signature="412:531" ph="{...}" />
-            <marker date="1578073524554" expanded="true" signature="544:600" ph="{...}" />
-            <marker date="1578073524554" expanded="true" signature="635:686" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Oculus/VR/Scripts/Util/OVRGrabbable.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -2565,6 +2529,22 @@
             <marker date="1578074407838" expanded="true" signature="4556:4636" ph="{...}" />
             <marker date="1578074407838" expanded="true" signature="4658:4830" ph="{...}" />
             <marker date="1578074407838" expanded="true" signature="4697:4824" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/OwnershipTransfer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="32" column="8" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="8" />
+          <folding>
+            <marker date="1578074459530" expanded="false" signature="6:96" ph="..." />
+            <marker date="1578074459530" expanded="true" signature="147:702" ph="{...}" />
+            <marker date="1578074459530" expanded="true" signature="253:319" ph="{...}" />
+            <marker date="1578074459530" expanded="true" signature="369:606" ph="{...}" />
+            <marker date="1578074459530" expanded="true" signature="412:531" ph="{...}" />
+            <marker date="1578074459530" expanded="true" signature="544:600" ph="{...}" />
+            <marker date="1578074459530" expanded="true" signature="635:695" ph="{...}" />
           </folding>
         </state>
       </provider>
