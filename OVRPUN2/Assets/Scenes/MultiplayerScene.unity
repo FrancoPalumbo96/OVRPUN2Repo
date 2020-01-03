@@ -1255,7 +1255,7 @@ MonoBehaviour:
   Group: 0
   prefixField: -1
   Synchronization: 3
-  OwnershipTransfer: 0
+  OwnershipTransfer: 1
   ObservedComponents:
   - {fileID: 2053972446}
   - {fileID: 2053972444}
@@ -1478,7 +1478,7 @@ MonoBehaviour:
   Group: 0
   prefixField: -1
   Synchronization: 0
-  OwnershipTransfer: 0
+  OwnershipTransfer: 1
   ObservedComponents:
   - {fileID: 0}
   viewIdField: 11
@@ -1681,6 +1681,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 109168097}
     m_Modifications:
+    - target: {fileID: 0}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 9116580521213753595, guid: 7bf211a7cdb3eb4419c2db2fb9ac26c5,
         type: 3}
       propertyPath: m_Name
@@ -1750,36 +1754,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: b6973f474207554449a5c1e111f3c63d, type: 2}
-    - target: {fileID: 9116580521213753537, guid: 7bf211a7cdb3eb4419c2db2fb9ac26c5,
-        type: 3}
-      propertyPath: m_Enabled
-      value: 0
-      objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 9116580521213753537, guid: 7bf211a7cdb3eb4419c2db2fb9ac26c5, type: 3}
-    - {fileID: 9116580521213753548, guid: 7bf211a7cdb3eb4419c2db2fb9ac26c5, type: 3}
+      objectReference: {fileID: 2100000, guid: 40c46f7afce4c064da5737c8ef58d436, type: 2}
+    m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7bf211a7cdb3eb4419c2db2fb9ac26c5, type: 3}
---- !u!1 &9116580521951838182 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 9116580521213753595, guid: 7bf211a7cdb3eb4419c2db2fb9ac26c5,
-    type: 3}
-  m_PrefabInstance: {fileID: 9116580521951838181}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &9116580521951838183
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 9116580521951838182}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 1757f1a1fd7316e46882c206dbe4ef4f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_allowOffhandGrab: 1
-  m_snapPosition: 0
-  m_snapOrientation: 0
-  m_snapOffset: {fileID: 0}
-  m_grabPoints: []

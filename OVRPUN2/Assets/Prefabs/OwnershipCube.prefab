@@ -13,9 +13,8 @@ GameObject:
   - component: {fileID: 9116580521213753540}
   - component: {fileID: 9116580521213753541}
   - component: {fileID: 9116580521213753594}
+  - component: {fileID: 855878499744190537}
   - component: {fileID: 9116580521213753538}
-  - component: {fileID: 9116580521213753537}
-  - component: {fileID: 9116580521213753548}
   - component: {fileID: 9116580521213753549}
   - component: {fileID: 9116580521213753536}
   m_Layer: 0
@@ -114,6 +113,23 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0
+--- !u!114 &855878499744190537
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9116580521213753595}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1757f1a1fd7316e46882c206dbe4ef4f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_allowOffhandGrab: 1
+  m_snapPosition: 0
+  m_snapOrientation: 0
+  m_snapOffset: {fileID: 0}
+  m_grabPoints: []
 --- !u!114 &9116580521213753538
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -137,35 +153,6 @@ MonoBehaviour:
   viewIdField: 0
   InstantiationId: 0
   isRuntimeInstantiated: 0
---- !u!114 &9116580521213753537
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 9116580521213753595}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 02d61468f8b77ae4b92c344bc9a600fb, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_allowOffhandGrab: 1
-  m_snapPosition: 0
-  m_snapOrientation: 0
-  m_snapOffset: {fileID: 0}
-  m_grabPoints: []
---- !u!114 &9116580521213753548
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 9116580521213753595}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 1ff2f4d947f3dc144a63582fc92b5868, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!114 &9116580521213753549
 MonoBehaviour:
   m_ObjectHideFlags: 0
