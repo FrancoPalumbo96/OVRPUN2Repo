@@ -2,31 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3927592f-fa18-40a1-9ed4-925adcf8bc41" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.OVRPUN2/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.OVRPUN2/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.OVRPUN2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.OVRPUN2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MaterialPerOwner.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MaterialPerOwner.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/OVRGrabbablePandu.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/OVRGrabbablePandu.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/OnClickRequestOwnership.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/OnClickRequestOwnership.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Photon/PhotonUnityNetworking/Resources/PhotonServerSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Photon/PhotonUnityNetworking/Resources/PhotonServerSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PlayerOVRTest.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/PlayerOVRTest.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/MultiplayerScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/MultiplayerScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/VideoPlayerPUN.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/VideoPlayerPUN.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp-Editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp-Editor.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/BuiltinAssemblies.stamp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ShaderCache/EditorEncounteredVariants" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ShaderCache/EditorEncounteredVariants" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/StateCache/Hierarchy/544365-mainStage.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/Hierarchy/544365-mainStage.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/StateCache/SceneView/c7e9f1-mainStage.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/SceneView/c7e9f1-mainStage.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/assetDatabase3" beforeDir="false" afterPath="$PROJECT_DIR$/Library/assetDatabase3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/03/0370871d1a940ef40a917701595becee" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/03/0370871d1a940ef40a917701595becee" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/17/1757f1a1fd7316e46882c206dbe4ef4f" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/17/1757f1a1fd7316e46882c206dbe4ef4f" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/ac/ac2c0339aced1b246b05a27d20e95a39" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/ac/ac2c0339aced1b246b05a27d20e95a39" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/cd/cd71a1d7b01b9ce47809c12672e347d0" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/cd/cd71a1d7b01b9ce47809c12672e347d0" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/0f/0f504c33170967343b8ae4f02df16eb6" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/0f/0f504c33170967343b8ae4f02df16eb6" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe0.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe0.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -185,16 +169,16 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/VideoPlayerPUN.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="272">
+              <caret line="16" column="36" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
               <folding>
-                <marker date="1578337031260" expanded="true" signature="7:62" ph="..." />
-                <marker date="1578337031260" expanded="true" signature="127:879" ph="{...}" />
-                <marker date="1578337031260" expanded="true" signature="241:431" ph="{...}" />
-                <marker date="1578337031260" expanded="true" signature="302:425" ph="/* if (photonView.IsMine) { ... */" />
-                <marker date="1578337031260" expanded="true" signature="498:597" ph="{...}" />
-                <marker date="1578337031260" expanded="true" signature="682:877" ph="{...}" />
-                <marker date="1578337031260" expanded="true" signature="714:772" ph="{...}" />
-                <marker date="1578337031260" expanded="true" signature="804:871" ph="{...}" />
+                <marker date="1578338148521" expanded="true" signature="7:62" ph="..." />
+                <marker date="1578338148521" expanded="true" signature="127:898" ph="{...}" />
+                <marker date="1578338148521" expanded="true" signature="241:350" ph="{...}" />
+                <marker date="1578338148521" expanded="true" signature="404:474" ph="{...}" />
+                <marker date="1578338148521" expanded="true" signature="521:612" ph="{...}" />
+                <marker date="1578338148521" expanded="true" signature="697:896" ph="{...}" />
+                <marker date="1578338148521" expanded="true" signature="707:890" ph="/* if (stream.IsWriting) { ... */" />
               </folding>
             </state>
           </provider>
@@ -1265,7 +1249,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31376000" />
+    <option name="totallyTimeSpent" value="32506000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -2811,16 +2795,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/VideoPlayerPUN.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="272">
+          <caret line="16" column="36" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
           <folding>
-            <marker date="1578337031260" expanded="true" signature="7:62" ph="..." />
-            <marker date="1578337031260" expanded="true" signature="127:879" ph="{...}" />
-            <marker date="1578337031260" expanded="true" signature="241:431" ph="{...}" />
-            <marker date="1578337031260" expanded="true" signature="302:425" ph="/* if (photonView.IsMine) { ... */" />
-            <marker date="1578337031260" expanded="true" signature="498:597" ph="{...}" />
-            <marker date="1578337031260" expanded="true" signature="682:877" ph="{...}" />
-            <marker date="1578337031260" expanded="true" signature="714:772" ph="{...}" />
-            <marker date="1578337031260" expanded="true" signature="804:871" ph="{...}" />
+            <marker date="1578338148521" expanded="true" signature="7:62" ph="..." />
+            <marker date="1578338148521" expanded="true" signature="127:898" ph="{...}" />
+            <marker date="1578338148521" expanded="true" signature="241:350" ph="{...}" />
+            <marker date="1578338148521" expanded="true" signature="404:474" ph="{...}" />
+            <marker date="1578338148521" expanded="true" signature="521:612" ph="{...}" />
+            <marker date="1578338148521" expanded="true" signature="697:896" ph="{...}" />
+            <marker date="1578338148521" expanded="true" signature="707:890" ph="/* if (stream.IsWriting) { ... */" />
           </folding>
         </state>
       </provider>
