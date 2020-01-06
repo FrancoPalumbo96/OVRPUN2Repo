@@ -35,5 +35,6 @@ MonoBehaviour:
   - Fire
   - RespawnSpaceship
   - ColorRpc
+  - setVideoTime
   DisableAutoOpenWizard: 1
   ShowSettings: 1
