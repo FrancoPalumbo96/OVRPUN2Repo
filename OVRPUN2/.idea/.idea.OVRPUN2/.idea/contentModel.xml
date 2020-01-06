@@ -1034,6 +1034,7 @@
           <e p="TouchController.cs" t="Include" />
           <e p="VRRig.cs" t="Include" />
         </e>
+        <e p="SerializationTest.cs" t="Include" />
       </e>
       <e p="Library" t="ExcludeRecursive" />
       <e p="obj" t="ExcludeRecursive" />

@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3927592f-fa18-40a1-9ed4-925adcf8bc41" name="Default Changelist" comment="" />
+    <list default="true" id="3927592f-fa18-40a1-9ed4-925adcf8bc41" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.OVRPUN2/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.OVRPUN2/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/MultiplayerScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/MultiplayerScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp-Editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp-Editor.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ShaderCache/EditorEncounteredVariants" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ShaderCache/EditorEncounteredVariants" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/StateCache/Hierarchy/544365-mainStage.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/Hierarchy/544365-mainStage.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/StateCache/SceneView/c7e9f1-mainStage.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/SceneView/c7e9f1-mainStage.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/assetDatabase3" beforeDir="false" afterPath="$PROJECT_DIR$/Library/assetDatabase3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe0.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe0.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/Oculus.VR.Editor.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Oculus.VR.Editor.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/Oculus.VR.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Oculus.VR.csprojAssemblyReference.cache" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,7 +25,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Oculus/VR/Scripts/Util/OVRGrabbable.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
+            <state relative-caret-position="1989">
               <caret line="118" column="64" selection-start-line="118" selection-start-column="64" selection-end-line="118" selection-end-column="64" />
               <folding>
                 <marker date="1578074407838" expanded="true" signature="0:971" ph="/* Copyright : Copyright (c) Facebook Technologies, LLC and its affiliates. All rights reserved. ... */" />
@@ -39,6 +51,8 @@
                 <marker date="1578074407838" expanded="true" signature="3100:3185" ph="/// The contact point(s) where the object was grabbed. ... " />
                 <marker date="1578074407838" expanded="true" signature="3218:3267" ph="{...}" />
                 <marker date="1578074407838" expanded="true" signature="3270:3350" ph="/// Notifies the object that it has been grabbed. ... " />
+                <marker date="1578074407838" expanded="true" signature="3418:3597" ph="{...}" />
+                <marker date="1578074407838" expanded="true" signature="3600:3681" ph="/// Notifies the object that it has been released. ... " />
                 <marker date="1578074407838" expanded="true" signature="3759:4023" ph="{...}" />
                 <marker date="1578074407838" expanded="true" signature="4041:4520" ph="{...}" />
                 <marker date="1578074407838" expanded="true" signature="4085:4514" ph="{...}" />
@@ -51,10 +65,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/OVRGrabbablePandu.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="711">
+            <state relative-caret-position="765">
               <caret line="49" column="10" selection-start-line="49" selection-start-column="10" selection-end-line="49" selection-end-column="10" />
               <folding>
                 <marker date="1578074444237" expanded="true" signature="0:971" ph="/* Copyright : Copyright (c) Facebook Technologies, LLC and its affiliates. All rights reserved. ... */" />
@@ -66,6 +80,20 @@
                 <marker date="1578074444237" expanded="true" signature="1410:1490" ph="/* Notifies the object that it has been grabbed. ... */" />
                 <marker date="1578074444237" expanded="true" signature="1560:1670" ph="{...}" />
                 <marker date="1578074444237" expanded="true" signature="1705:1834" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/SerializationTest.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+              <folding>
+                <marker date="1578332602873" expanded="false" signature="6:96" ph="..." />
+                <marker date="1578332602873" expanded="true" signature="160:269" ph="{...}" />
+                <marker date="1578332602873" expanded="true" signature="251:267" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -1023,6 +1051,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameControllers/GameSetup.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameControllers/PlayerMovement.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/PhotonGuide/NetworkedPlayer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/SerializationTest.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/OwnershipTransfer.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Oculus/VR/Scripts/OVRManager.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Oculus/VR/Scripts/Util/OVRPlayerController.cs" root0="FORCE_HIGHLIGHTING" />
@@ -1047,6 +1076,7 @@
         <option value="$PROJECT_DIR$/Assets/Oculus/VR/Scripts/Util/OVRGrabbable.cs" />
         <option value="$PROJECT_DIR$/Assets/OVRGrabbablePandu.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/OwnershipTransfer.cs" />
+        <option value="$PROJECT_DIR$/Assets/SerializationTest.cs" />
       </list>
     </option>
   </component>
@@ -1055,7 +1085,7 @@
       <facet id="riderModule/invalid/Default Android Facet" />
     </ignored-facets>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="229" />
     <option name="y" value="25" />
     <option name="width" value="974" />
@@ -1072,6 +1102,9 @@
     <panes>
       <pane id="AssemblyExplorer" />
       <pane id="FileSystemExplorer" />
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
       <pane id="UnityExplorer">
         <subPane>
           <expand>
@@ -1083,9 +1116,6 @@
           <select />
         </subPane>
         <option name="show-hidden-items" value="false" />
-      </pane>
-      <pane id="SolutionExplorer">
-        <option name="show-all-files" value="false" />
       </pane>
     </panes>
   </component>
@@ -1142,6 +1172,7 @@
       <workItem from="1577989541470" duration="4957000" />
       <workItem from="1577995674727" duration="738000" />
       <workItem from="1578069566156" duration="3500000" />
+      <workItem from="1578330744939" duration="669000" />
     </task>
     <task id="LOCAL-00001" summary="aaaah">
       <created>1576774743314</created>
@@ -1154,7 +1185,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30085000" />
+    <option name="totallyTimeSpent" value="30754000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1169,7 +1200,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.06130064" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14712153" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Captures" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -1585,6 +1616,78 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/OnClickRequestOwnership.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1577990964195" expanded="false" signature="6:96" ph="..." />
+            <marker date="1577990964195" expanded="true" signature="154:968" ph="{...}" />
+            <marker date="1577990964195" expanded="true" signature="183:779" ph="{...}" />
+            <marker date="1577990964195" expanded="true" signature="266:504" ph="{...}" />
+            <marker date="1577990964195" expanded="true" signature="504:773" ph="{...}" />
+            <marker date="1577990964195" expanded="true" signature="610:719" ph="{...}" />
+            <marker date="1577990964195" expanded="true" signature="832:966" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Oculus/VR/Scripts/Util/OVRGrabbable.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1989">
+          <caret line="118" column="64" selection-start-line="118" selection-start-column="64" selection-end-line="118" selection-end-column="64" />
+          <folding>
+            <marker date="1578074407838" expanded="true" signature="0:971" ph="/* Copyright : Copyright (c) Facebook Technologies, LLC and its affiliates. All rights reserved. ... */" />
+            <marker date="1578074407838" expanded="false" signature="979:1005" ph="..." />
+            <marker date="1578074407838" expanded="true" signature="1007:1095" ph="/// An object that can be grabbed and thrown by OVRGrabber. ... " />
+            <marker date="1578074407838" expanded="true" signature="1137:4832" ph="{...}" />
+            <marker date="1578074407838" expanded="true" signature="1608:1688" ph="/// If true, the object can currently be grabbed. ... " />
+            <marker date="1578074407838" expanded="true" signature="1721:1776" ph="{...}" />
+            <marker date="1578074407838" expanded="true" signature="1779:1855" ph="/// If true, the object is currently grabbed. ... " />
+            <marker date="1578074407838" expanded="true" signature="1881:1937" ph="{...}" />
+            <marker date="1578074407838" expanded="true" signature="1940:2049" ph="/// If true, the object's position will snap to match snapOffset when grabbed. ... " />
+            <marker date="1578074407838" expanded="true" signature="2078:2129" ph="{...}" />
+            <marker date="1578074407838" expanded="true" signature="2132:2244" ph="/// If true, the object's orientation will snap to match snapOffset when grabbed. ... " />
+            <marker date="1578074407838" expanded="true" signature="2276:2330" ph="{...}" />
+            <marker date="1578074407838" expanded="true" signature="2333:2445" ph="/// An offset relative to the OVRGrabber where this object can snap when grabbed. ... " />
+            <marker date="1578074407838" expanded="true" signature="2477:2526" ph="{...}" />
+            <marker date="1578074407838" expanded="true" signature="2529:2618" ph="/// Returns the OVRGrabber currently grabbing this object. ... " />
+            <marker date="1578074407838" expanded="true" signature="2650:2698" ph="{...}" />
+            <marker date="1578074407838" expanded="true" signature="2701:2783" ph="/// The transform at which this object was grabbed. ... " />
+            <marker date="1578074407838" expanded="true" signature="2821:2885" ph="{...}" />
+            <marker date="1578074407838" expanded="true" signature="2888:2987" ph="/// The Rigidbody of the collider that was used to grab this object. ... " />
+            <marker date="1578074407838" expanded="true" signature="3025:3097" ph="{...}" />
+            <marker date="1578074407838" expanded="true" signature="3100:3185" ph="/// The contact point(s) where the object was grabbed. ... " />
+            <marker date="1578074407838" expanded="true" signature="3218:3267" ph="{...}" />
+            <marker date="1578074407838" expanded="true" signature="3270:3350" ph="/// Notifies the object that it has been grabbed. ... " />
+            <marker date="1578074407838" expanded="true" signature="3418:3597" ph="{...}" />
+            <marker date="1578074407838" expanded="true" signature="3600:3681" ph="/// Notifies the object that it has been released. ... " />
+            <marker date="1578074407838" expanded="true" signature="3759:4023" ph="{...}" />
+            <marker date="1578074407838" expanded="true" signature="4041:4520" ph="{...}" />
+            <marker date="1578074407838" expanded="true" signature="4085:4514" ph="{...}" />
+            <marker date="1578074407838" expanded="true" signature="4243:4403" ph="{...}" />
+            <marker date="1578074407838" expanded="true" signature="4556:4636" ph="{...}" />
+            <marker date="1578074407838" expanded="true" signature="4658:4830" ph="{...}" />
+            <marker date="1578074407838" expanded="true" signature="4697:4824" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/OwnershipTransfer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="32" column="8" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="8" />
+          <folding>
+            <marker date="1578074459530" expanded="false" signature="6:96" ph="..." />
+            <marker date="1578074459530" expanded="true" signature="147:702" ph="{...}" />
+            <marker date="1578074459530" expanded="true" signature="253:319" ph="{...}" />
+            <marker date="1578074459530" expanded="true" signature="369:606" ph="{...}" />
+            <marker date="1578074459530" expanded="true" signature="412:531" ph="{...}" />
+            <marker date="1578074459530" expanded="true" signature="544:600" ph="{...}" />
+            <marker date="1578074459530" expanded="true" signature="635:695" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/GameControllers/PhotonPlayer.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
@@ -1629,7 +1732,6 @@
           <caret line="885" selection-start-line="885" selection-end-line="885" />
           <folding>
             <marker date="1576696845185" expanded="true" signature="0:487" ph="/*   Provides the operations and a state for games using the ... */" />
-            <marker date="1576696845185" expanded="true" signature="594:180270" ph="{...}" />
             <marker date="1576696845185" expanded="false" signature="607:1001" ph="..." />
             <marker date="1576696845185" expanded="false" signature="1019:10471" ph="Enums" />
             <marker date="1576696845185" expanded="true" signature="1038:1199" ph="/// State values for a client, which handles switching Photon server types, some operations, etc. ... " />
@@ -2455,7 +2557,6 @@
           <caret line="24" column="9" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
           <folding>
             <marker date="1576780392486" expanded="false" signature="6:36" ph="..." />
-            <marker date="1576780392486" expanded="true" signature="120:1316" ph="{...}" />
             <marker date="1576780392486" expanded="true" signature="241:629" ph="{...}" />
             <marker date="1576780392486" expanded="true" signature="321:623" ph="{...}" />
             <marker date="1576780392486" expanded="true" signature="707:1314" ph="{...}" />
@@ -2471,7 +2572,6 @@
           <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
           <folding>
             <marker date="1576781420089" expanded="false" signature="6:85" ph="..." />
-            <marker date="1576781420089" expanded="true" signature="133:597" ph="{...}" />
             <marker date="1576781420089" expanded="true" signature="192:250" ph="{...}" />
             <marker date="1576781420089" expanded="true" signature="281:466" ph="{...}" />
             <marker date="1576781420089" expanded="true" signature="491:595" ph="{...}" />
@@ -2479,79 +2579,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/OnClickRequestOwnership.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <marker date="1577990964195" expanded="false" signature="6:96" ph="..." />
-            <marker date="1577990964195" expanded="true" signature="154:968" ph="{...}" />
-            <marker date="1577990964195" expanded="true" signature="183:779" ph="{...}" />
-            <marker date="1577990964195" expanded="true" signature="266:504" ph="{...}" />
-            <marker date="1577990964195" expanded="true" signature="504:773" ph="{...}" />
-            <marker date="1577990964195" expanded="true" signature="610:719" ph="{...}" />
-            <marker date="1577990964195" expanded="true" signature="832:966" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Oculus/VR/Scripts/Util/OVRGrabbable.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="118" column="64" selection-start-line="118" selection-start-column="64" selection-end-line="118" selection-end-column="64" />
-          <folding>
-            <marker date="1578074407838" expanded="true" signature="0:971" ph="/* Copyright : Copyright (c) Facebook Technologies, LLC and its affiliates. All rights reserved. ... */" />
-            <marker date="1578074407838" expanded="false" signature="979:1005" ph="..." />
-            <marker date="1578074407838" expanded="true" signature="1007:1095" ph="/// An object that can be grabbed and thrown by OVRGrabber. ... " />
-            <marker date="1578074407838" expanded="true" signature="1137:4832" ph="{...}" />
-            <marker date="1578074407838" expanded="true" signature="1608:1688" ph="/// If true, the object can currently be grabbed. ... " />
-            <marker date="1578074407838" expanded="true" signature="1721:1776" ph="{...}" />
-            <marker date="1578074407838" expanded="true" signature="1779:1855" ph="/// If true, the object is currently grabbed. ... " />
-            <marker date="1578074407838" expanded="true" signature="1881:1937" ph="{...}" />
-            <marker date="1578074407838" expanded="true" signature="1940:2049" ph="/// If true, the object's position will snap to match snapOffset when grabbed. ... " />
-            <marker date="1578074407838" expanded="true" signature="2078:2129" ph="{...}" />
-            <marker date="1578074407838" expanded="true" signature="2132:2244" ph="/// If true, the object's orientation will snap to match snapOffset when grabbed. ... " />
-            <marker date="1578074407838" expanded="true" signature="2276:2330" ph="{...}" />
-            <marker date="1578074407838" expanded="true" signature="2333:2445" ph="/// An offset relative to the OVRGrabber where this object can snap when grabbed. ... " />
-            <marker date="1578074407838" expanded="true" signature="2477:2526" ph="{...}" />
-            <marker date="1578074407838" expanded="true" signature="2529:2618" ph="/// Returns the OVRGrabber currently grabbing this object. ... " />
-            <marker date="1578074407838" expanded="true" signature="2650:2698" ph="{...}" />
-            <marker date="1578074407838" expanded="true" signature="2701:2783" ph="/// The transform at which this object was grabbed. ... " />
-            <marker date="1578074407838" expanded="true" signature="2821:2885" ph="{...}" />
-            <marker date="1578074407838" expanded="true" signature="2888:2987" ph="/// The Rigidbody of the collider that was used to grab this object. ... " />
-            <marker date="1578074407838" expanded="true" signature="3025:3097" ph="{...}" />
-            <marker date="1578074407838" expanded="true" signature="3100:3185" ph="/// The contact point(s) where the object was grabbed. ... " />
-            <marker date="1578074407838" expanded="true" signature="3218:3267" ph="{...}" />
-            <marker date="1578074407838" expanded="true" signature="3270:3350" ph="/// Notifies the object that it has been grabbed. ... " />
-            <marker date="1578074407838" expanded="true" signature="3759:4023" ph="{...}" />
-            <marker date="1578074407838" expanded="true" signature="4041:4520" ph="{...}" />
-            <marker date="1578074407838" expanded="true" signature="4085:4514" ph="{...}" />
-            <marker date="1578074407838" expanded="true" signature="4243:4403" ph="{...}" />
-            <marker date="1578074407838" expanded="true" signature="4556:4636" ph="{...}" />
-            <marker date="1578074407838" expanded="true" signature="4658:4830" ph="{...}" />
-            <marker date="1578074407838" expanded="true" signature="4697:4824" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/OwnershipTransfer.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="32" column="8" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="8" />
-          <folding>
-            <marker date="1578074459530" expanded="false" signature="6:96" ph="..." />
-            <marker date="1578074459530" expanded="true" signature="147:702" ph="{...}" />
-            <marker date="1578074459530" expanded="true" signature="253:319" ph="{...}" />
-            <marker date="1578074459530" expanded="true" signature="369:606" ph="{...}" />
-            <marker date="1578074459530" expanded="true" signature="412:531" ph="{...}" />
-            <marker date="1578074459530" expanded="true" signature="544:600" ph="{...}" />
-            <marker date="1578074459530" expanded="true" signature="635:695" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/OVRGrabbablePandu.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="711">
+        <state relative-caret-position="765">
           <caret line="49" column="10" selection-start-line="49" selection-start-column="10" selection-end-line="49" selection-end-column="10" />
           <folding>
             <marker date="1578074444237" expanded="true" signature="0:971" ph="/* Copyright : Copyright (c) Facebook Technologies, LLC and its affiliates. All rights reserved. ... */" />
@@ -2563,6 +2593,18 @@
             <marker date="1578074444237" expanded="true" signature="1410:1490" ph="/* Notifies the object that it has been grabbed. ... */" />
             <marker date="1578074444237" expanded="true" signature="1560:1670" ph="{...}" />
             <marker date="1578074444237" expanded="true" signature="1705:1834" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/SerializationTest.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+          <folding>
+            <marker date="1578332602873" expanded="false" signature="6:96" ph="..." />
+            <marker date="1578332602873" expanded="true" signature="160:269" ph="{...}" />
+            <marker date="1578332602873" expanded="true" signature="251:267" ph="{...}" />
           </folding>
         </state>
       </provider>
