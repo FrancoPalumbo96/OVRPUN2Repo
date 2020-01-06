@@ -2,15 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3927592f-fa18-40a1-9ed4-925adcf8bc41" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.OVRPUN2/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.OVRPUN2/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.OVRPUN2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.OVRPUN2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/MultiplayerScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/MultiplayerScene.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/VideoPlayerPUN.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/VideoPlayerPUN.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/InspectorExpandedItems.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/InspectorExpandedItems.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/SceneVisibilityState.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/SceneVisibilityState.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp-Editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp-Editor.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ShaderCache/EditorEncounteredVariants" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ShaderCache/EditorEncounteredVariants" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/StateCache/Hierarchy/544365-mainStage.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/Hierarchy/544365-mainStage.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/StateCache/SceneView/c7e9f1-mainStage.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/SceneView/c7e9f1-mainStage.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/assetDatabase3" beforeDir="false" afterPath="$PROJECT_DIR$/Library/assetDatabase3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/metadata/0f/0f504c33170967343b8ae4f02df16eb6" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/0f/0f504c33170967343b8ae4f02df16eb6" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe0.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe0.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe1.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe1.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe2.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe2.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe3.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe3.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe4.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe4.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe5.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe5.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe6.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe6.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe7.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe7.log" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,7 +35,7 @@
         <entry file="file://$PROJECT_DIR$/Assets/Photon/PhotonUnityNetworking/Code/Editor/PhotonViewInspector.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-7">
-              <caret line="253" column="43" lean-forward="true" selection-start-line="253" selection-start-column="43" selection-end-line="253" selection-end-column="43" />
+              <caret line="253" column="43" selection-start-line="253" selection-start-column="43" selection-end-line="253" selection-end-column="43" />
               <folding>
                 <marker date="1576696845200" expanded="true" signature="0:445" ph="/*   Custom inspector for the PhotonView component. ... */" />
                 <marker date="1576696845200" expanded="false" signature="453:522" ph="..." />
@@ -166,34 +177,53 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/VideoPlayerPUN.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="36" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
+            <state relative-caret-position="459">
+              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
               <folding>
-                <marker date="1578338148521" expanded="true" signature="7:62" ph="..." />
-                <marker date="1578338148521" expanded="true" signature="127:898" ph="{...}" />
-                <marker date="1578338148521" expanded="true" signature="241:350" ph="{...}" />
-                <marker date="1578338148521" expanded="true" signature="404:474" ph="{...}" />
-                <marker date="1578338148521" expanded="true" signature="521:612" ph="{...}" />
-                <marker date="1578338148521" expanded="true" signature="697:896" ph="{...}" />
-                <marker date="1578338148521" expanded="true" signature="707:890" ph="/* if (stream.IsWriting) { ... */" />
+                <marker date="1578338614764" expanded="true" signature="7:62" ph="..." />
+                <marker date="1578338614764" expanded="true" signature="111:604" ph="{...}" />
+                <marker date="1578338614764" expanded="true" signature="225:334" ph="{...}" />
+                <marker date="1578338614764" expanded="true" signature="388:458" ph="{...}" />
+                <marker date="1578338614764" expanded="true" signature="505:596" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/GameControllers/PhotonPlayer.cs">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/TouchController.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="25" selection-start-line="25" selection-end-line="25" />
+            <state relative-caret-position="102">
+              <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="21" selection-end-column="5" />
               <folding>
-                <marker date="1577473368084" expanded="false" signature="6:113" ph="..." />
-                <marker date="1577473368084" expanded="true" signature="156:1018" ph="{...}" />
-                <marker date="1577473368084" expanded="true" signature="344:1016" ph="{...}" />
-                <marker date="1577473368084" expanded="true" signature="417:951" ph="{...}" />
+                <marker date="1576696845807" expanded="false" signature="6:92" ph="..." />
+                <marker date="1576696845807" expanded="true" signature="138:612" ph="{...}" />
+                <marker date="1576696845807" expanded="true" signature="228:418" ph="{...}" />
+                <marker date="1576696845807" expanded="true" signature="469:610" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/TouchButtonAction.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="371">
+              <caret line="35" column="11" selection-start-line="35" selection-start-column="11" selection-end-line="35" selection-end-column="11" />
+              <folding>
+                <marker date="1578344123198" expanded="false" signature="6:96" ph="..." />
+                <marker date="1578344123198" expanded="true" signature="173:1889" ph="{...}" />
+                <marker date="1578344123198" expanded="true" signature="401:1206" ph="{...}" />
+                <marker date="1578344123198" expanded="true" signature="600:860" ph="{...}" />
+                <marker date="1578344123198" expanded="true" signature="860:1127" ph="{...}" />
+                <marker date="1578344123198" expanded="true" signature="1239:1339" ph="{...}" />
+                <marker date="1578344123198" expanded="true" signature="1384:1613" ph="{...}" />
+                <marker date="1578344123198" expanded="true" signature="1419:1519" ph="/* for (int i = 0; i &lt; 1; i++) { ... */" />
+                <marker date="1578344123198" expanded="true" signature="1659:1735" ph="{...}" />
+                <marker date="1578344123198" expanded="true" signature="1793:1887" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -1102,25 +1132,27 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/RobotOVR.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Oculus/VR/Scripts/Util/OVRGrabbable.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/VRRig.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/SceneManagerTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/TouchButtonAction.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Photon/PhotonUnityNetworking/Code/Editor/PhotonViewInspector.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/VideoPlayerPUN.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Oculus/VR/Scripts/Util/OVRGrabber.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PhotonGuide/NetworkController.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PhotonRoom.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Photon/PhotonUnityNetworking/Code/PhotonView.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameControllers/OVRPlayerControllerPUN.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameControllers/PhotonPlayer.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameControllers/GameSetup.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameControllers/PlayerMovement.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/PhotonGuide/NetworkedPlayer.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/OwnershipTransfer.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Oculus/VR/Scripts/OVRManager.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Oculus/VR/Scripts/Util/OVRPlayerController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Photon/PhotonRealtime/Code/LoadBalancingClient.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/RobotOVR.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/VRRig.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/TouchController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PhotonGuide/NetworkController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PhotonRoom.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameControllers/OVRPlayerControllerPUN.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameControllers/PhotonPlayer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameControllers/GameSetup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameControllers/PlayerMovement.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -1142,6 +1174,7 @@
         <option value="$PROJECT_DIR$/Assets/OVRGrabbablePandu.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/OwnershipTransfer.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/VideoPlayerPUN.cs" />
+        <option value="$PROJECT_DIR$/Assets/TouchButtonAction.cs" />
       </list>
     </option>
   </component>
@@ -1249,7 +1282,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32506000" />
+    <option name="totallyTimeSpent" value="35959000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -2739,7 +2772,7 @@
     <entry file="file://$PROJECT_DIR$/Assets/Photon/PhotonUnityNetworking/Code/Editor/PhotonViewInspector.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-7">
-          <caret line="253" column="43" lean-forward="true" selection-start-line="253" selection-start-column="43" selection-end-line="253" selection-end-column="43" />
+          <caret line="253" column="43" selection-start-line="253" selection-start-column="43" selection-end-line="253" selection-end-column="43" />
           <folding>
             <marker date="1576696845200" expanded="true" signature="0:445" ph="/*   Custom inspector for the PhotonView component. ... */" />
             <marker date="1576696845200" expanded="false" signature="453:522" ph="..." />
@@ -2793,18 +2826,48 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/TouchController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="21" selection-end-column="5" />
+          <folding>
+            <marker date="1576696845807" expanded="false" signature="6:92" ph="..." />
+            <marker date="1576696845807" expanded="true" signature="138:612" ph="{...}" />
+            <marker date="1576696845807" expanded="true" signature="228:418" ph="{...}" />
+            <marker date="1576696845807" expanded="true" signature="469:610" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/VideoPlayerPUN.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="36" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
+        <state relative-caret-position="459">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
           <folding>
-            <marker date="1578338148521" expanded="true" signature="7:62" ph="..." />
-            <marker date="1578338148521" expanded="true" signature="127:898" ph="{...}" />
-            <marker date="1578338148521" expanded="true" signature="241:350" ph="{...}" />
-            <marker date="1578338148521" expanded="true" signature="404:474" ph="{...}" />
-            <marker date="1578338148521" expanded="true" signature="521:612" ph="{...}" />
-            <marker date="1578338148521" expanded="true" signature="697:896" ph="{...}" />
-            <marker date="1578338148521" expanded="true" signature="707:890" ph="/* if (stream.IsWriting) { ... */" />
+            <marker date="1578338614764" expanded="true" signature="7:62" ph="..." />
+            <marker date="1578338614764" expanded="true" signature="111:604" ph="{...}" />
+            <marker date="1578338614764" expanded="true" signature="225:334" ph="{...}" />
+            <marker date="1578338614764" expanded="true" signature="388:458" ph="{...}" />
+            <marker date="1578338614764" expanded="true" signature="505:596" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/TouchButtonAction.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="371">
+          <caret line="35" column="11" selection-start-line="35" selection-start-column="11" selection-end-line="35" selection-end-column="11" />
+          <folding>
+            <marker date="1578344123198" expanded="false" signature="6:96" ph="..." />
+            <marker date="1578344123198" expanded="true" signature="173:1889" ph="{...}" />
+            <marker date="1578344123198" expanded="true" signature="401:1206" ph="{...}" />
+            <marker date="1578344123198" expanded="true" signature="600:860" ph="{...}" />
+            <marker date="1578344123198" expanded="true" signature="860:1127" ph="{...}" />
+            <marker date="1578344123198" expanded="true" signature="1239:1339" ph="{...}" />
+            <marker date="1578344123198" expanded="true" signature="1384:1613" ph="{...}" />
+            <marker date="1578344123198" expanded="true" signature="1419:1519" ph="/* for (int i = 0; i &lt; 1; i++) { ... */" />
+            <marker date="1578344123198" expanded="true" signature="1659:1735" ph="{...}" />
+            <marker date="1578344123198" expanded="true" signature="1793:1887" ph="{...}" />
           </folding>
         </state>
       </provider>
