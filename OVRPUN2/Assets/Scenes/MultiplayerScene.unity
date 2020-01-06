@@ -459,24 +459,6 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 329113342}
   m_PrefabAsset: {fileID: 0}
---- !u!1 &329113344 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 9116580521213753595, guid: 7bf211a7cdb3eb4419c2db2fb9ac26c5,
-    type: 3}
-  m_PrefabInstance: {fileID: 329113342}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &329113345
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 329113344}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 49ad058735e4b544789ead1e0fb365ae, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1001 &370639829
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1608,6 +1590,7 @@ GameObject:
   - component: {fileID: 1962515549}
   - component: {fileID: 1962515550}
   - component: {fileID: 1962515548}
+  - component: {fileID: 1962515551}
   m_Layer: 5
   m_Name: Image
   m_TagString: Untagged
@@ -1701,6 +1684,28 @@ VideoPlayer:
   m_Looping: 1
   m_WaitForFirstFrame: 1
   m_FrameReadyEventEnabled: 0
+--- !u!114 &1962515551
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1962515546}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aa584fbee541324448dd18d8409c7a41, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  ObservedComponentsFoldoutOpen: 1
+  Group: 0
+  prefixField: -1
+  Synchronization: 0
+  OwnershipTransfer: 0
+  ObservedComponents:
+  - {fileID: 0}
+  viewIdField: 11
+  InstantiationId: 0
+  isRuntimeInstantiated: 0
 --- !u!1001 &2053972441
 PrefabInstance:
   m_ObjectHideFlags: 0
