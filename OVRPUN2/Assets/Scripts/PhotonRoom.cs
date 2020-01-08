@@ -108,4 +108,12 @@ public class PhotonRoom : MonoBehaviourPunCallbacks, IInRoomCallbacks
         players = players + 1;
     }
 
+    public void SelectRobot() {
+        selectPlayer = 0;
+    }
+
+    public void SelectGhost() {
+        selectPlayer = 1;
+    }
+
 }

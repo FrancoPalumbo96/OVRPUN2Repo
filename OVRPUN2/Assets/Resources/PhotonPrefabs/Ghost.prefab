@@ -15,6 +15,7 @@ GameObject:
   - component: {fileID: 98464361058345797}
   - component: {fileID: 2261651862144120568}
   - component: {fileID: 5813648882430665800}
+  - component: {fileID: -2470035787895690502}
   m_Layer: 0
   m_Name: Ghost
   m_TagString: MainCamera
@@ -120,10 +121,10 @@ MonoBehaviour:
   ObservedComponentsFoldoutOpen: 1
   Group: 0
   prefixField: -1
-  Synchronization: 0
+  Synchronization: 3
   OwnershipTransfer: 0
   ObservedComponents:
-  - {fileID: 0}
+  - {fileID: -2470035787895690502}
   viewIdField: 0
   InstantiationId: 0
   isRuntimeInstantiated: 0
@@ -173,6 +174,21 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3819800688694797492}
   m_Mesh: {fileID: 10207, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!114 &-2470035787895690502
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3819800688694797492}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 627855c7f81362d41938ffe0b1475957, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_SynchronizePosition: 1
+  m_SynchronizeRotation: 1
+  m_SynchronizeScale: 0
 --- !u!1 &7831089909783335266
 GameObject:
   m_ObjectHideFlags: 0
