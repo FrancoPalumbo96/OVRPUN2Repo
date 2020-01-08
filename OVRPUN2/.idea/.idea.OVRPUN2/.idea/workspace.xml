@@ -2,28 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3927592f-fa18-40a1-9ed4-925adcf8bc41" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.OVRPUN2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.OVRPUN2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/PhotonPrefabs/Ghost.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/PhotonPrefabs/Ghost.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/MainMenuScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/MainMenuScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PhotonRoom.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/PhotonRoom.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/GhostCamera.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/GhostCamera.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/SceneVisibilityState.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/SceneVisibilityState.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp-Editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp-Editor.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ShaderCache/EditorEncounteredVariants" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ShaderCache/EditorEncounteredVariants" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/StateCache/Hierarchy/544365-mainStage.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/Hierarchy/544365-mainStage.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/StateCache/SceneView/c7e9f1-mainStage.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/SceneView/c7e9f1-mainStage.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/assetDatabase3" beforeDir="false" afterPath="$PROJECT_DIR$/Library/assetDatabase3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/07/07abaaa5cbaa81a48beb175e75e7d7ae" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/07/07abaaa5cbaa81a48beb175e75e7d7ae" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/07/07abaaa5cbaa81a48beb175e75e7d7ae.info" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/07/07abaaa5cbaa81a48beb175e75e7d7ae.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/26/26ee538472351d4478ae08fd037fb063" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/26/26ee538472351d4478ae08fd037fb063" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe0.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe0.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe1.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe1.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe2.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe2.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe3.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe3.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe4.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe4.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe5.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe5.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe6.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe6.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe7.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe7.log" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -69,37 +51,38 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/GhostCamera.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="40" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
+            <state relative-caret-position="-816">
+              <caret line="37" column="43" selection-start-line="37" selection-start-column="43" selection-end-line="37" selection-end-column="43" />
               <folding>
-                <marker date="1578503698046" expanded="true" signature="60:3904" ph="{...}" />
-                <marker date="1578503698046" expanded="true" signature="67:140" ph="/// Normal speed of camera movement. ... " />
-                <marker date="1578503698046" expanded="true" signature="184:274" ph="/// Speed of camera movement when shift is held down, ... " />
-                <marker date="1578503698046" expanded="true" signature="322:389" ph="/// Sensitivity for free look. ... " />
-                <marker date="1578503698046" expanded="true" signature="438:532" ph="/// Amount to zoom the camera when using the mouse wheel. ... " />
-                <marker date="1578503698046" expanded="true" signature="578:684" ph="/// Amount to zoom the camera when using the mouse wheel (fast mode). ... " />
-                <marker date="1578503698046" expanded="true" signature="734:829" ph="/// Set to true when free looking (on right mouse button). ... " />
-                <marker date="1578503698046" expanded="true" signature="882:3415" ph="{...}" />
-                <marker date="1578503698046" expanded="true" signature="1137:1264" ph="{...}" />
-                <marker date="1578503698046" expanded="true" signature="1338:1464" ph="{...}" />
-                <marker date="1578503698046" expanded="true" signature="1535:1663" ph="{...}" />
-                <marker date="1578503698046" expanded="true" signature="1736:1865" ph="{...}" />
-                <marker date="1578503698046" expanded="true" signature="1903:2026" ph="{...}" />
-                <marker date="1578503698046" expanded="true" signature="2064:2188" ph="{...}" />
-                <marker date="1578503698046" expanded="true" signature="2258:2379" ph="{...}" />
-                <marker date="1578503698046" expanded="true" signature="2451:2573" ph="{...}" />
-                <marker date="1578503698046" expanded="true" signature="2595:2925" ph="{...}" />
-                <marker date="1578503698046" expanded="true" signature="3006:3218" ph="{...}" />
-                <marker date="1578503698046" expanded="true" signature="3265:3313" ph="{...}" />
-                <marker date="1578503698046" expanded="true" signature="3362:3409" ph="{...}" />
-                <marker date="1578503698046" expanded="true" signature="3437:3472" ph="{...}" />
-                <marker date="1578503698046" expanded="true" signature="3478:3539" ph="/// Enable free looking. ... " />
-                <marker date="1578503698046" expanded="true" signature="3570:3688" ph="{...}" />
-                <marker date="1578503698046" expanded="true" signature="3694:3756" ph="/// Disable free looking. ... " />
-                <marker date="1578503698046" expanded="true" signature="3786:3902" ph="{...}" />
+                <marker date="1578508126658" expanded="true" signature="6:36" ph="..." />
+                <marker date="1578508126658" expanded="true" signature="81:3969" ph="{...}" />
+                <marker date="1578508126658" expanded="true" signature="88:161" ph="/// Normal speed of camera movement. ... " />
+                <marker date="1578508126658" expanded="true" signature="205:295" ph="/// Speed of camera movement when shift is held down, ... " />
+                <marker date="1578508126658" expanded="true" signature="343:410" ph="/// Sensitivity for free look. ... " />
+                <marker date="1578508126658" expanded="true" signature="459:553" ph="/// Amount to zoom the camera when using the mouse wheel. ... " />
+                <marker date="1578508126658" expanded="true" signature="599:705" ph="/// Amount to zoom the camera when using the mouse wheel (fast mode). ... " />
+                <marker date="1578508126658" expanded="true" signature="755:850" ph="/// Set to true when free looking (on right mouse button). ... " />
+                <marker date="1578508126658" expanded="true" signature="903:3480" ph="{...}" />
+                <marker date="1578508126658" expanded="true" signature="1202:1329" ph="{...}" />
+                <marker date="1578508126658" expanded="true" signature="1403:1529" ph="{...}" />
+                <marker date="1578508126658" expanded="true" signature="1600:1728" ph="{...}" />
+                <marker date="1578508126658" expanded="true" signature="1801:1930" ph="{...}" />
+                <marker date="1578508126658" expanded="true" signature="1968:2091" ph="{...}" />
+                <marker date="1578508126658" expanded="true" signature="2129:2253" ph="{...}" />
+                <marker date="1578508126658" expanded="true" signature="2323:2444" ph="{...}" />
+                <marker date="1578508126658" expanded="true" signature="2516:2638" ph="{...}" />
+                <marker date="1578508126658" expanded="true" signature="2660:2990" ph="{...}" />
+                <marker date="1578508126658" expanded="true" signature="3071:3283" ph="{...}" />
+                <marker date="1578508126658" expanded="true" signature="3330:3378" ph="{...}" />
+                <marker date="1578508126658" expanded="true" signature="3427:3474" ph="{...}" />
+                <marker date="1578508126658" expanded="true" signature="3502:3537" ph="{...}" />
+                <marker date="1578508126658" expanded="true" signature="3543:3604" ph="/// Enable free looking. ... " />
+                <marker date="1578508126658" expanded="true" signature="3635:3753" ph="{...}" />
+                <marker date="1578508126658" expanded="true" signature="3759:3821" ph="/// Disable free looking. ... " />
+                <marker date="1578508126658" expanded="true" signature="3851:3967" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -144,10 +127,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/PhotonRoom.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="833">
+            <state relative-caret-position="1802">
               <caret line="115" column="25" selection-start-line="115" selection-start-column="25" selection-end-line="115" selection-end-column="25" />
               <folding>
                 <marker date="1578506737664" expanded="false" signature="6:185" ph="..." />
@@ -1095,10 +1078,10 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/OwnershipTransfer.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/VideoPlayerPUN.cs" />
         <option value="$PROJECT_DIR$/Assets/TouchButtonAction.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/GhostCamera.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/PhotonLobby.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/GameControllers/PhotonPlayer.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/PhotonRoom.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GhostCamera.cs" />
       </list>
     </option>
   </component>
@@ -1194,7 +1177,7 @@
       <workItem from="1577989541470" duration="4957000" />
       <workItem from="1577995674727" duration="738000" />
       <workItem from="1578069566156" duration="3500000" />
-      <workItem from="1578502540901" duration="3473000" />
+      <workItem from="1578502540901" duration="3691000" />
     </task>
     <task id="LOCAL-00001" summary="aaaah">
       <created>1576774743314</created>
@@ -1207,7 +1190,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39432000" />
+    <option name="totallyTimeSpent" value="39650000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -2724,40 +2707,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/GhostCamera.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="40" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
-          <folding>
-            <marker date="1578503698046" expanded="true" signature="60:3904" ph="{...}" />
-            <marker date="1578503698046" expanded="true" signature="67:140" ph="/// Normal speed of camera movement. ... " />
-            <marker date="1578503698046" expanded="true" signature="184:274" ph="/// Speed of camera movement when shift is held down, ... " />
-            <marker date="1578503698046" expanded="true" signature="322:389" ph="/// Sensitivity for free look. ... " />
-            <marker date="1578503698046" expanded="true" signature="438:532" ph="/// Amount to zoom the camera when using the mouse wheel. ... " />
-            <marker date="1578503698046" expanded="true" signature="578:684" ph="/// Amount to zoom the camera when using the mouse wheel (fast mode). ... " />
-            <marker date="1578503698046" expanded="true" signature="734:829" ph="/// Set to true when free looking (on right mouse button). ... " />
-            <marker date="1578503698046" expanded="true" signature="882:3415" ph="{...}" />
-            <marker date="1578503698046" expanded="true" signature="1137:1264" ph="{...}" />
-            <marker date="1578503698046" expanded="true" signature="1338:1464" ph="{...}" />
-            <marker date="1578503698046" expanded="true" signature="1535:1663" ph="{...}" />
-            <marker date="1578503698046" expanded="true" signature="1736:1865" ph="{...}" />
-            <marker date="1578503698046" expanded="true" signature="1903:2026" ph="{...}" />
-            <marker date="1578503698046" expanded="true" signature="2064:2188" ph="{...}" />
-            <marker date="1578503698046" expanded="true" signature="2258:2379" ph="{...}" />
-            <marker date="1578503698046" expanded="true" signature="2451:2573" ph="{...}" />
-            <marker date="1578503698046" expanded="true" signature="2595:2925" ph="{...}" />
-            <marker date="1578503698046" expanded="true" signature="3006:3218" ph="{...}" />
-            <marker date="1578503698046" expanded="true" signature="3265:3313" ph="{...}" />
-            <marker date="1578503698046" expanded="true" signature="3362:3409" ph="{...}" />
-            <marker date="1578503698046" expanded="true" signature="3437:3472" ph="{...}" />
-            <marker date="1578503698046" expanded="true" signature="3478:3539" ph="/// Enable free looking. ... " />
-            <marker date="1578503698046" expanded="true" signature="3570:3688" ph="{...}" />
-            <marker date="1578503698046" expanded="true" signature="3694:3756" ph="/// Disable free looking. ... " />
-            <marker date="1578503698046" expanded="true" signature="3786:3902" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/GameControllers/PhotonPlayer.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="782">
@@ -2795,7 +2744,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/PhotonRoom.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="833">
+        <state relative-caret-position="1802">
           <caret line="115" column="25" selection-start-line="115" selection-start-column="25" selection-end-line="115" selection-end-column="25" />
           <folding>
             <marker date="1578506737664" expanded="false" signature="6:185" ph="..." />
@@ -2817,6 +2766,41 @@
             <marker date="1578506737664" expanded="true" signature="2708:2746" ph="{...}" />
             <marker date="1578506737664" expanded="true" signature="2778:2811" ph="{...}" />
             <marker date="1578506737664" expanded="true" signature="2843:2876" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/GhostCamera.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-816">
+          <caret line="37" column="43" selection-start-line="37" selection-start-column="43" selection-end-line="37" selection-end-column="43" />
+          <folding>
+            <marker date="1578508126658" expanded="true" signature="6:36" ph="..." />
+            <marker date="1578508126658" expanded="true" signature="81:3969" ph="{...}" />
+            <marker date="1578508126658" expanded="true" signature="88:161" ph="/// Normal speed of camera movement. ... " />
+            <marker date="1578508126658" expanded="true" signature="205:295" ph="/// Speed of camera movement when shift is held down, ... " />
+            <marker date="1578508126658" expanded="true" signature="343:410" ph="/// Sensitivity for free look. ... " />
+            <marker date="1578508126658" expanded="true" signature="459:553" ph="/// Amount to zoom the camera when using the mouse wheel. ... " />
+            <marker date="1578508126658" expanded="true" signature="599:705" ph="/// Amount to zoom the camera when using the mouse wheel (fast mode). ... " />
+            <marker date="1578508126658" expanded="true" signature="755:850" ph="/// Set to true when free looking (on right mouse button). ... " />
+            <marker date="1578508126658" expanded="true" signature="903:3480" ph="{...}" />
+            <marker date="1578508126658" expanded="true" signature="1202:1329" ph="{...}" />
+            <marker date="1578508126658" expanded="true" signature="1403:1529" ph="{...}" />
+            <marker date="1578508126658" expanded="true" signature="1600:1728" ph="{...}" />
+            <marker date="1578508126658" expanded="true" signature="1801:1930" ph="{...}" />
+            <marker date="1578508126658" expanded="true" signature="1968:2091" ph="{...}" />
+            <marker date="1578508126658" expanded="true" signature="2129:2253" ph="{...}" />
+            <marker date="1578508126658" expanded="true" signature="2323:2444" ph="{...}" />
+            <marker date="1578508126658" expanded="true" signature="2516:2638" ph="{...}" />
+            <marker date="1578508126658" expanded="true" signature="2660:2990" ph="{...}" />
+            <marker date="1578508126658" expanded="true" signature="3071:3283" ph="{...}" />
+            <marker date="1578508126658" expanded="true" signature="3330:3378" ph="{...}" />
+            <marker date="1578508126658" expanded="true" signature="3427:3474" ph="{...}" />
+            <marker date="1578508126658" expanded="true" signature="3502:3537" ph="{...}" />
+            <marker date="1578508126658" expanded="true" signature="3543:3604" ph="/// Enable free looking. ... " />
+            <marker date="1578508126658" expanded="true" signature="3635:3753" ph="{...}" />
+            <marker date="1578508126658" expanded="true" signature="3759:3821" ph="/// Disable free looking. ... " />
+            <marker date="1578508126658" expanded="true" signature="3851:3967" ph="{...}" />
           </folding>
         </state>
       </provider>

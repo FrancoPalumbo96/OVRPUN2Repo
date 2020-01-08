@@ -1,6 +1,7 @@
-﻿using UnityEngine;
+﻿using Photon.Pun;
+using UnityEngine;
 
-public class GhostCamera : MonoBehaviour
+public class GhostCamera : MonoBehaviourPun
 {
     /// <summary>
     /// Normal speed of camera movement.
@@ -34,6 +35,7 @@ public class GhostCamera : MonoBehaviour
 
     void Update()
     {
+        if(!base.photonView.IsMine) return;
         var fastMode = Input.GetKey(KeyCode.LeftShift) || Input.GetKey(KeyCode.RightShift);
         var movementSpeed = fastMode ? this.fastMovementSpeed : this.movementSpeed;
 
