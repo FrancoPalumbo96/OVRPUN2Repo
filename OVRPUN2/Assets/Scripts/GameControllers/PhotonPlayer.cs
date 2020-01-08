@@ -18,7 +18,8 @@ public class PhotonPlayer : MonoBehaviour
     void Start() {
         
         PV = GetComponent<PhotonView>();
-       
+
+        MyEvents.current.onPlayerEnteredRoom();
         Debug.LogWarning("Message should print to everyone -> possibility on sending event");
         if (PV.IsMine)
         {
