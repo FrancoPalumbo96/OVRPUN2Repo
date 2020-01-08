@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3927592f-fa18-40a1-9ed4-925adcf8bc41" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.OVRPUN2/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.OVRPUN2/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.OVRPUN2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.OVRPUN2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/MultiplayerScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/MultiplayerScene.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/GameControllers/PhotonPlayer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/GameControllers/PhotonPlayer.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/TouchButtonAction.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TouchButtonAction.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/SceneVisibilityState.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/SceneVisibilityState.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp-Editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp-Editor.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/StateCache/Hierarchy/544365-mainStage.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/Hierarchy/544365-mainStage.json" afterDir="false" />
@@ -15,7 +12,6 @@
       <change beforePath="$PROJECT_DIR$/Library/assetDatabase3" beforeDir="false" afterPath="$PROJECT_DIR$/Library/assetDatabase3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/metadata/52/526a7c67098ea2b4cbae386bbd314e9a" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/52/526a7c67098ea2b4cbae386bbd314e9a" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/metadata/c0/c03f2281668737c44a9710dd03d996cc" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/c0/c03f2281668737c44a9710dd03d996cc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe0.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe0.log" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -43,22 +39,22 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/TouchButtonAction.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="541">
-              <caret line="83" column="4" selection-start-line="83" selection-start-column="4" selection-end-line="83" selection-end-column="4" />
+            <state relative-caret-position="677">
+              <caret line="91" column="68" selection-start-line="91" selection-start-column="68" selection-end-line="91" selection-end-column="68" />
               <folding>
-                <marker date="1578514839869" expanded="false" signature="6:121" ph="..." />
-                <marker date="1578514839869" expanded="true" signature="173:2703" ph="{...}" />
-                <marker date="1578514839869" expanded="true" signature="449:562" ph="{...}" />
-                <marker date="1578514839869" expanded="true" signature="612:1507" ph="{...}" />
-                <marker date="1578514839869" expanded="true" signature="889:1184" ph="{...}" />
-                <marker date="1578514839869" expanded="true" signature="1184:1499" ph="{...}" />
-                <marker date="1578514839869" expanded="true" signature="1540:1640" ph="{...}" />
-                <marker date="1578514839869" expanded="true" signature="1685:1914" ph="{...}" />
-                <marker date="1578514839869" expanded="true" signature="1720:1820" ph="/* for (int i = 0; i &lt; 1; i++) { ... */" />
-                <marker date="1578514839869" expanded="true" signature="1969:2049" ph="{...}" />
-                <marker date="1578514839869" expanded="true" signature="2116:2313" ph="{...}" />
-                <marker date="1578514839869" expanded="true" signature="2319:2566" ph="/* private void Update() { ... */" />
-                <marker date="1578514839869" expanded="true" signature="2634:2691" ph="{...}" />
+                <marker date="1578515802718" expanded="false" signature="6:121" ph="..." />
+                <marker date="1578515802718" expanded="true" signature="173:2728" ph="{...}" />
+                <marker date="1578515802718" expanded="true" signature="449:563" ph="{...}" />
+                <marker date="1578515802718" expanded="true" signature="613:1531" ph="{...}" />
+                <marker date="1578515802718" expanded="true" signature="913:1208" ph="{...}" />
+                <marker date="1578515802718" expanded="true" signature="1208:1523" ph="{...}" />
+                <marker date="1578515802718" expanded="true" signature="1564:1664" ph="{...}" />
+                <marker date="1578515802718" expanded="true" signature="1709:1938" ph="{...}" />
+                <marker date="1578515802718" expanded="true" signature="1744:1844" ph="/* for (int i = 0; i &lt; 1; i++) { ... */" />
+                <marker date="1578515802718" expanded="true" signature="1993:2073" ph="{...}" />
+                <marker date="1578515802718" expanded="true" signature="2140:2337" ph="{...}" />
+                <marker date="1578515802718" expanded="true" signature="2343:2590" ph="/* private void Update() { ... */" />
+                <marker date="1578515802718" expanded="true" signature="2659:2716" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -67,8 +63,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/MyEvents.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+            <state relative-caret-position="170">
+              <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
               <folding>
                 <marker date="1578514782795" expanded="true" signature="6:92" ph="..." />
                 <marker date="1578514782795" expanded="true" signature="132:464" ph="{...}" />
@@ -105,15 +101,15 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/GameControllers/PhotonPlayer.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="21" column="47" selection-start-line="21" selection-start-column="47" selection-end-line="21" selection-end-column="47" />
+            <state relative-caret-position="306">
+              <caret line="22" column="12" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
               <folding>
-                <marker date="1578514782742" expanded="false" signature="6:113" ph="..." />
-                <marker date="1578514782742" expanded="true" signature="155:2185" ph="{...}" />
-                <marker date="1578514782742" expanded="true" signature="366:2183" ph="{...}" />
-                <marker date="1578514782742" expanded="true" signature="583:2118" ph="{...}" />
-                <marker date="1578514782742" expanded="true" signature="937:1925" ph="{...}" />
-                <marker date="1578514782742" expanded="true" signature="1938:2108" ph="/* myAvatar = PhotonNetwork.Instantiate(Path.Combine(&quot;PhotonPrefabs&quot;, &quot;Robot&quot;/*&quot;PlayerAvatarOVR&quot;##1##), ... */" />
+                <marker date="1578515795983" expanded="false" signature="6:113" ph="..." />
+                <marker date="1578515795983" expanded="true" signature="155:2212" ph="{...}" />
+                <marker date="1578515795983" expanded="true" signature="366:2210" ph="{...}" />
+                <marker date="1578515795983" expanded="true" signature="610:2145" ph="{...}" />
+                <marker date="1578515795983" expanded="true" signature="964:1952" ph="{...}" />
+                <marker date="1578515795983" expanded="true" signature="1965:2135" ph="/* myAvatar = PhotonNetwork.Instantiate(Path.Combine(&quot;PhotonPrefabs&quot;, &quot;Robot&quot;/*&quot;PlayerAvatarOVR&quot;##1##), ... */" />
               </folding>
             </state>
           </provider>
@@ -122,8 +118,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/OVRGrabbablePandu.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="592">
-              <caret line="43" column="8" selection-start-line="43" selection-start-column="8" selection-end-line="43" selection-end-column="38" />
+            <state relative-caret-position="575">
+              <caret line="42" column="38" lean-forward="true" selection-start-line="42" selection-start-column="8" selection-end-line="42" selection-end-column="38" />
               <folding>
                 <marker date="1578074444237" expanded="true" signature="0:971" ph="/* Copyright : Copyright (c) Facebook Technologies, LLC and its affiliates. All rights reserved. ... */" />
                 <marker date="1578074444237" expanded="false" signature="979:1087" ph="..." />
@@ -1189,7 +1185,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43264000" />
+    <option name="totallyTimeSpent" value="44225000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1863,39 +1859,6 @@
             <marker date="1578508126658" expanded="true" signature="3635:3753" ph="{...}" />
             <marker date="1578508126658" expanded="true" signature="3759:3821" ph="/// Disable free looking. ... " />
             <marker date="1578508126658" expanded="true" signature="3851:3967" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/TouchController.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-          <folding>
-            <marker date="1576696845807" expanded="false" signature="6:92" ph="..." />
-            <marker date="1576696845807" expanded="true" signature="138:612" ph="{...}" />
-            <marker date="1576696845807" expanded="true" signature="228:418" ph="{...}" />
-            <marker date="1576696845807" expanded="true" signature="469:610" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/PhotonLobby.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
-          <folding>
-            <marker date="1578503999305" expanded="false" signature="6:168" ph="..." />
-            <marker date="1578503999305" expanded="true" signature="222:2102" ph="{...}" />
-            <marker date="1578503999305" expanded="true" signature="413:447" ph="{...}" />
-            <marker date="1578503999305" expanded="true" signature="518:619" ph="{...}" />
-            <marker date="1578503999305" expanded="true" signature="667:909" ph="{...}" />
-            <marker date="1578503999305" expanded="true" signature="988:1092" ph="{...}" />
-            <marker date="1578503999305" expanded="true" signature="1171:1270" ph="{...}" />
-            <marker date="1578503999305" expanded="true" signature="1302:1581" ph="{...}" />
-            <marker date="1578503999305" expanded="true" signature="1623:1796" ph="{...}" />
-            <marker date="1578503999305" expanded="true" signature="1833:1885" ph="{...}" />
-            <marker date="1578503999305" expanded="true" signature="1926:2094" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -2772,8 +2735,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/OVRGrabbablePandu.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="592">
-          <caret line="43" column="8" selection-start-line="43" selection-start-column="8" selection-end-line="43" selection-end-column="38" />
+        <state relative-caret-position="575">
+          <caret line="42" column="38" lean-forward="true" selection-start-line="42" selection-start-column="8" selection-end-line="42" selection-end-column="38" />
           <folding>
             <marker date="1578074444237" expanded="true" signature="0:971" ph="/* Copyright : Copyright (c) Facebook Technologies, LLC and its affiliates. All rights reserved. ... */" />
             <marker date="1578074444237" expanded="false" signature="979:1087" ph="..." />
@@ -2788,10 +2751,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/TouchController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <marker date="1576696845807" expanded="false" signature="6:92" ph="..." />
+            <marker date="1576696845807" expanded="true" signature="138:612" ph="{...}" />
+            <marker date="1576696845807" expanded="true" signature="228:418" ph="{...}" />
+            <marker date="1576696845807" expanded="true" signature="469:610" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/MyEvents.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+        <state relative-caret-position="170">
+          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
           <folding>
             <marker date="1578514782795" expanded="true" signature="6:92" ph="..." />
             <marker date="1578514782795" expanded="true" signature="132:464" ph="{...}" />
@@ -2802,39 +2778,59 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/PhotonLobby.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+          <folding>
+            <marker date="1578503999305" expanded="false" signature="6:168" ph="..." />
+            <marker date="1578503999305" expanded="true" signature="222:2102" ph="{...}" />
+            <marker date="1578503999305" expanded="true" signature="413:447" ph="{...}" />
+            <marker date="1578503999305" expanded="true" signature="518:619" ph="{...}" />
+            <marker date="1578503999305" expanded="true" signature="667:909" ph="{...}" />
+            <marker date="1578503999305" expanded="true" signature="988:1092" ph="{...}" />
+            <marker date="1578503999305" expanded="true" signature="1171:1270" ph="{...}" />
+            <marker date="1578503999305" expanded="true" signature="1302:1581" ph="{...}" />
+            <marker date="1578503999305" expanded="true" signature="1623:1796" ph="{...}" />
+            <marker date="1578503999305" expanded="true" signature="1833:1885" ph="{...}" />
+            <marker date="1578503999305" expanded="true" signature="1926:2094" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/GameControllers/PhotonPlayer.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="21" column="47" selection-start-line="21" selection-start-column="47" selection-end-line="21" selection-end-column="47" />
+        <state relative-caret-position="306">
+          <caret line="22" column="12" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
           <folding>
-            <marker date="1578514782742" expanded="false" signature="6:113" ph="..." />
-            <marker date="1578514782742" expanded="true" signature="155:2185" ph="{...}" />
-            <marker date="1578514782742" expanded="true" signature="366:2183" ph="{...}" />
-            <marker date="1578514782742" expanded="true" signature="583:2118" ph="{...}" />
-            <marker date="1578514782742" expanded="true" signature="937:1925" ph="{...}" />
-            <marker date="1578514782742" expanded="true" signature="1938:2108" ph="/* myAvatar = PhotonNetwork.Instantiate(Path.Combine(&quot;PhotonPrefabs&quot;, &quot;Robot&quot;/*&quot;PlayerAvatarOVR&quot;##1##), ... */" />
+            <marker date="1578515795983" expanded="false" signature="6:113" ph="..." />
+            <marker date="1578515795983" expanded="true" signature="155:2212" ph="{...}" />
+            <marker date="1578515795983" expanded="true" signature="366:2210" ph="{...}" />
+            <marker date="1578515795983" expanded="true" signature="610:2145" ph="{...}" />
+            <marker date="1578515795983" expanded="true" signature="964:1952" ph="{...}" />
+            <marker date="1578515795983" expanded="true" signature="1965:2135" ph="/* myAvatar = PhotonNetwork.Instantiate(Path.Combine(&quot;PhotonPrefabs&quot;, &quot;Robot&quot;/*&quot;PlayerAvatarOVR&quot;##1##), ... */" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/TouchButtonAction.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="541">
-          <caret line="83" column="4" selection-start-line="83" selection-start-column="4" selection-end-line="83" selection-end-column="4" />
+        <state relative-caret-position="677">
+          <caret line="91" column="68" selection-start-line="91" selection-start-column="68" selection-end-line="91" selection-end-column="68" />
           <folding>
-            <marker date="1578514839869" expanded="false" signature="6:121" ph="..." />
-            <marker date="1578514839869" expanded="true" signature="173:2703" ph="{...}" />
-            <marker date="1578514839869" expanded="true" signature="449:562" ph="{...}" />
-            <marker date="1578514839869" expanded="true" signature="612:1507" ph="{...}" />
-            <marker date="1578514839869" expanded="true" signature="889:1184" ph="{...}" />
-            <marker date="1578514839869" expanded="true" signature="1184:1499" ph="{...}" />
-            <marker date="1578514839869" expanded="true" signature="1540:1640" ph="{...}" />
-            <marker date="1578514839869" expanded="true" signature="1685:1914" ph="{...}" />
-            <marker date="1578514839869" expanded="true" signature="1720:1820" ph="/* for (int i = 0; i &lt; 1; i++) { ... */" />
-            <marker date="1578514839869" expanded="true" signature="1969:2049" ph="{...}" />
-            <marker date="1578514839869" expanded="true" signature="2116:2313" ph="{...}" />
-            <marker date="1578514839869" expanded="true" signature="2319:2566" ph="/* private void Update() { ... */" />
-            <marker date="1578514839869" expanded="true" signature="2634:2691" ph="{...}" />
+            <marker date="1578515802718" expanded="false" signature="6:121" ph="..." />
+            <marker date="1578515802718" expanded="true" signature="173:2728" ph="{...}" />
+            <marker date="1578515802718" expanded="true" signature="449:563" ph="{...}" />
+            <marker date="1578515802718" expanded="true" signature="613:1531" ph="{...}" />
+            <marker date="1578515802718" expanded="true" signature="913:1208" ph="{...}" />
+            <marker date="1578515802718" expanded="true" signature="1208:1523" ph="{...}" />
+            <marker date="1578515802718" expanded="true" signature="1564:1664" ph="{...}" />
+            <marker date="1578515802718" expanded="true" signature="1709:1938" ph="{...}" />
+            <marker date="1578515802718" expanded="true" signature="1744:1844" ph="/* for (int i = 0; i &lt; 1; i++) { ... */" />
+            <marker date="1578515802718" expanded="true" signature="1993:2073" ph="{...}" />
+            <marker date="1578515802718" expanded="true" signature="2140:2337" ph="{...}" />
+            <marker date="1578515802718" expanded="true" signature="2343:2590" ph="/* private void Update() { ... */" />
+            <marker date="1578515802718" expanded="true" signature="2659:2716" ph="{...}" />
           </folding>
         </state>
       </provider>

@@ -17,15 +17,15 @@ public class TouchButtonAction : MonoBehaviourPun {
     private float timePassed = 10f;
 
     private void Start() {
-        MyEvents.current.playerEnteredRoom += SyncVideNewPlayer(videoPlayer.time, videoPlayer.isPlaying);
+        MyEvents.current.playerEnteredRoom += SyncVideoNewPlayer(videoPlayer.time, videoPlayer.isPlaying);
     }
 
     private void OnTriggerEnter(Collider other) {
         Debug.Log(other.gameObject.name);
         if(!other.gameObject.name.Contains("coll_hands:b_l_index2")) return;
+        if(photonView != null) photonView.RequestOwnership();
         if(waiting)return;
         if(!photonView.IsMine) return;
-        photonView.RequestOwnership();
         StartCoroutine(Wait());
         if (!isOn) {
             GetComponent<Renderer>().material.color = Color.red;
@@ -89,7 +89,7 @@ public class TouchButtonAction : MonoBehaviourPun {
         timePassed = waitTime;
     }*/
 
-    private System.Action SyncVideNewPlayer(double time, bool on) {
+    private System.Action SyncVideoNewPlayer(double time, bool on) {
         SyncVideo(time, on);
         return null;
     }
