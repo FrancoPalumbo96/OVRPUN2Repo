@@ -282,7 +282,7 @@ GameObject:
   - component: {fileID: 242914908}
   - component: {fileID: 242914907}
   m_Layer: 5
-  m_Name: Canvas
+  m_Name: MovieCanvas
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -365,7 +365,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: -90, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -6.6, y: 3.27}
+  m_AnchoredPosition: {x: -9.89, y: 3.27}
   m_SizeDelta: {x: 1280, y: 720}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1001 &258509039
@@ -928,7 +928,7 @@ GameObject:
   - component: {fileID: 693762564}
   - component: {fileID: 693762566}
   m_Layer: 5
-  m_Name: Fulbito
+  m_Name: Video
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -994,7 +994,7 @@ VideoPlayer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 693762559}
   m_Enabled: 1
-  m_VideoClip: {fileID: 32900000, guid: 0aab09f05b8c810449e8bac7b0840491, type: 3}
+  m_VideoClip: {fileID: 32900000, guid: 0a4626289caa37644b6a88a6a16f3a2c, type: 3}
   m_TargetCameraAlpha: 1
   m_TargetCamera3DLayout: 0
   m_TargetCamera: {fileID: 0}
@@ -2435,7 +2435,7 @@ Transform:
   m_GameObject: {fileID: 2142810242}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: -0.5, z: 0}
-  m_LocalScale: {x: 15, y: 1, z: 15}
+  m_LocalScale: {x: 30, y: 1, z: 30}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 1

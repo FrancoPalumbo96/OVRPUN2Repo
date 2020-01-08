@@ -13,10 +13,14 @@ public class TouchButtonAction : MonoBehaviourPun {
     
     private bool waiting = false;
 
+    private float waitTime = 10f;
+    private float timePassed = 10f;
+
     private void OnTriggerEnter(Collider other) {
         Debug.Log(other.gameObject.name);
         if(!other.gameObject.name.Contains("coll_hands:b_l_index2")) return;
         if(waiting)return;
+        if(!photonView.IsMine) return;
         StartCoroutine(Wait());
         if (!isOn) {
             GetComponent<Renderer>().material.color = Color.red;
@@ -24,7 +28,8 @@ public class TouchButtonAction : MonoBehaviourPun {
             isOn = true;
             transform.position = new Vector3(pos.x, yOnPos, pos.z);
             videoPlayer.Play();
-            
+            SyncVideo(videoPlayer.time, isOn);
+
         }
         else {
             GetComponent<Renderer>().material.color = Color.green;
@@ -32,9 +37,9 @@ public class TouchButtonAction : MonoBehaviourPun {
             isOn = false;
             transform.position = new Vector3(pos.x, yOffPoss, pos.z);
             videoPlayer.Pause();
+            SyncVideo(videoPlayer.time, isOn);
+
         }
-        if(photonView.IsMine)
-            SyncVideo(videoPlayer.time);
 
 
     }
@@ -56,13 +61,26 @@ public class TouchButtonAction : MonoBehaviourPun {
         GetComponent<Renderer>().material.color = Color.red;
     }
     
-    private void SyncVideo(double time) {
-        photonView.RPC("setVideoTime", RpcTarget.AllBuffered, time);
+    private void SyncVideo(double time, bool on) {
+        photonView.RPC("setVideoTime", RpcTarget.AllBuffered, time, on);
     }
 
     [PunRPC]
-    private void setVideoTime(double time) {
+    private void setVideoTime(double time, bool on) {
         videoPlayer.time = time;
+        if(on)
+            videoPlayer.Play();
+        else 
+            videoPlayer.Pause();
+        
         Debug.Log("Video Time: " + videoPlayer.time);
+    }
+
+    private void Update() {
+        if (!base.photonView.IsMine) return;
+        timePassed -= Time.deltaTime;
+        if (!(timePassed <= 0)) return;
+        SyncVideo(videoPlayer.time, videoPlayer.isPlaying);
+        timePassed = waitTime;
     }
 }
