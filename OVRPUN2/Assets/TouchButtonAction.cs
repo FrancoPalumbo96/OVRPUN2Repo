@@ -81,16 +81,19 @@ public class TouchButtonAction : MonoBehaviourPun {
         Debug.Log("Video Time: " + videoPlayer.time);
     }
 
-    /*private void Update() {
+    private void Update() {
         if (!base.photonView.IsMine) return;
         timePassed -= Time.deltaTime;
         if (!(timePassed <= 0)) return;
         SyncVideo(videoPlayer.time, videoPlayer.isPlaying);
         timePassed = waitTime;
-    }*/
+    }
 
     private System.Action SyncVideoNewPlayer(double time, bool on) {
-        SyncVideo(time, on);
+        Debug.LogWarning("Time : "+time+" On: "+on);
+        if (time == 0) 
+            return null;
+        //SyncVideo(time, on);
         return null;
     }
     
