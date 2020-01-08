@@ -77,9 +77,5 @@ public class PhotonLobby : MonoBehaviourPunCallbacks
         PhotonNetwork.LeaveRoom();
     }
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
+    
 }

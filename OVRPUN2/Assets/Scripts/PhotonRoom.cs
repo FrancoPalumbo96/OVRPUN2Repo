@@ -20,7 +20,11 @@ public class PhotonRoom : MonoBehaviourPunCallbacks, IInRoomCallbacks
     public List<Vector3> spawnPoints;
 
     public static int players;
-    // Start is called before the first frame update
+
+    [Tooltip("0 = Robot Player \n" +
+             "1 = Ghost Player")]
+    public int selectPlayer;
+    
     private void Awake()
     {
         //setup singelton
@@ -95,8 +99,9 @@ public class PhotonRoom : MonoBehaviourPunCallbacks, IInRoomCallbacks
 
     private void CreatePlayer()
     {
-        PhotonNetwork.Instantiate(Path.Combine("PhotonPrefabs", "PhotonNetworkPlayer"), transform.position,
+        GameObject gameObject = PhotonNetwork.Instantiate(Path.Combine("PhotonPrefabs", "PhotonNetworkPlayer"), transform.position,
             Quaternion.identity, 0);
+        gameObject.GetComponent<PhotonPlayer>().playerType = selectPlayer;
     }
 
     public static void AddPlayer() {

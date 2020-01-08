@@ -1017,6 +1017,7 @@
             <e p="PhotonPlayer.cs" t="Include" />
             <e p="PlayerMovement.cs" t="Include" />
           </e>
+          <e p="GhostCamera.cs" t="Include" />
           <e p="MaterialPerOwner.cs" t="Include" />
           <e p="OnClickRequestOwnership.cs" t="Include" />
           <e p="OVRGrabbablePandu.cs" t="Include" />
