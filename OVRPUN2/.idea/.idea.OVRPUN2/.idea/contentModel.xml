@@ -1021,7 +1021,7 @@
           <e p="GhostCamera.cs" t="Include" />
           <e p="MaterialPerOwner.cs" t="Include" />
           <e p="OnClickRequestOwnership.cs" t="Include" />
-          <e p="OVRGrabbablePandu.cs" t="Include" />
+          <e p="OVRGrabbablePUNOwnershipChange.cs" t="Include" />
           <e p="OwnershipTransfer.cs" t="Include" />
           <e p="PhotonGuide" t="Include">
             <e p="NetworkController.cs" t="Include" />

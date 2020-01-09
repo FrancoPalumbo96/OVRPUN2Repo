@@ -17,7 +17,9 @@ public class TouchButtonAction : MonoBehaviourPun {
     private float timePassed = 10f;
 
     private void Start() {
-        MyEvents.current.playerEnteredRoom += SyncVideoNewPlayer(videoPlayer.time, videoPlayer.isPlaying);
+        //MyEvents.current.playerEnteredRoom += SyncVideoNewPlayer(videoPlayer.time, videoPlayer.isPlaying);
+        MyEvents.current.playerEnteredRoom += PlayerEnteredRoom;
+
     }
 
     private void OnTriggerEnter(Collider other) {
@@ -59,7 +61,6 @@ public class TouchButtonAction : MonoBehaviourPun {
         //TODO move down
         /*for (int i = 0; i < 1; i++) {
             
-            
             yield return null;
         }*/
         yield return null;
@@ -67,7 +68,9 @@ public class TouchButtonAction : MonoBehaviourPun {
     }
     
     private void SyncVideo(double time, bool on) {
-        photonView.RPC("setVideoTime", RpcTarget.AllBuffered, time, on);
+        Debug.LogWarning("Sync video executed");
+
+        photonView.RPC("setVideoTime", RpcTarget.Others, time, on);
     }
 
     [PunRPC]
@@ -78,23 +81,36 @@ public class TouchButtonAction : MonoBehaviourPun {
         else 
             videoPlayer.Pause();
         
-        Debug.Log("Video Time: " + videoPlayer.time);
+        Debug.LogWarning("Video Time: " + videoPlayer.time);
+        Debug.LogWarning("Video Status: " + videoPlayer.isPlaying);
+
     }
 
-    private void Update() {
+    /*private void Update() {
         if (!base.photonView.IsMine) return;
         timePassed -= Time.deltaTime;
         if (!(timePassed <= 0)) return;
         SyncVideo(videoPlayer.time, videoPlayer.isPlaying);
         timePassed = waitTime;
-    }
+    }*/
 
-    private System.Action SyncVideoNewPlayer(double time, bool on) {
+    /*private System.Action SyncVideoNewPlayer(double time, bool on) {
         Debug.LogWarning("Time : "+time+" On: "+on);
         if (time == 0) 
             return null;
         //SyncVideo(time, on);
         return null;
+    }*/
+
+    private void PlayerEnteredRoom() {
+        Debug.LogWarning("Send rpc was sent");
+        photonView.RPC("SendRPC", RpcTarget.All);   
+    }
+
+    [PunRPC]
+    private void SendRPC() {
+        Debug.LogWarning("Send rpc was executed");
+        SyncVideo(videoPlayer.time, videoPlayer.isPlaying);
     }
     
     

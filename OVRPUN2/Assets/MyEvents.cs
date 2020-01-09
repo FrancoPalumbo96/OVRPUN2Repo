@@ -12,6 +12,7 @@ public class MyEvents : MonoBehaviour {
 
     public void onPlayerEnteredRoom() {
         if (playerEnteredRoom != null) {
+            Debug.LogWarning("Event not null and called");
             playerEnteredRoom();
         }
     }

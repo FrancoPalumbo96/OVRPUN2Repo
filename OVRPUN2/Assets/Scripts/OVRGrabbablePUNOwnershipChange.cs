@@ -24,7 +24,7 @@ using Random = Unity.Mathematics.Random;
 /// <summary>
 /// An object that can be grabbed and thrown by OVRGrabber.
 /// </summary>
-public class OVRGrabbablePandu : OVRGrabbable {
+public class OVRGrabbablePUNOwnershipChange : OVRGrabbable {
 
 
 	//private OwnershipTransfer ownershipOption;
@@ -47,7 +47,6 @@ public class OVRGrabbablePandu : OVRGrabbable {
 
 	protected override void Start() {
 	    base.Start();
-	    //ownershipOption = GetComponent<OwnershipTransfer>();
 	    photonView = GetComponent<PhotonView>();
 	}
     

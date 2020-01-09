@@ -19,7 +19,14 @@ public class PhotonPlayer : MonoBehaviour
         
         PV = GetComponent<PhotonView>();
 
-       
+
+
+        if (PV.IsMine) {
+            //Call RPC that calls another RPC
+            Debug.LogWarning("Called Event from photon player");
+            MyEvents.current.onPlayerEnteredRoom();
+        }
+        
         /*MyEvents.current.onPlayerEnteredRoom();
         Debug.LogWarning("Message should print to everyone -> possibility on sending event");*/
         if (PV.IsMine)
