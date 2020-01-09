@@ -3,8 +3,11 @@ ScriptsOnlyBuild:
     Assembly-CSharp.dll:
     - CharacterCameraConstraint
     - GameSetup
+    - GhostCamera
+    - MyEvents
     - NetworkedPlayer
     - ONSPSettings
+    - OVRGrabbablePUNOwnershipChange
     - OVRPlayerControllerPUN
     - OVRTouchSample.Hand
     - OVRTouchSample.HandPose
@@ -16,13 +19,14 @@ ScriptsOnlyBuild:
     - PlayerMovement
     - PlayerOVRTest
     - RobotOVR
+    - TouchButtonAction
     - VRRig
+    - VideoPlayerPUN
     Oculus.VR.Editor.dll:
     - OVRConfig
     Oculus.VR.dll:
     - OVRCameraRig
     - OVRDebugInfo
-    - OVRGrabbable
     - OVRGrabber
     - OVRHeadsetEmulator
     - OVRManager
@@ -45,6 +49,7 @@ ScriptsOnlyBuild:
     - Photon.Pun.PhotonAnimatorView
     - Photon.Pun.PhotonRigidbodyView
     - Photon.Pun.PhotonTransformView
+    - Photon.Pun.PhotonTransformViewClassic
     - Photon.Pun.PhotonView
     - Photon.Pun.ServerSettings
     Unity.Animation.Rigging.dll:
@@ -65,11 +70,12 @@ ScriptsOnlyBuild:
     - UnityEngine.UI.CanvasScaler
     - UnityEngine.UI.GraphicRaycaster
     - UnityEngine.UI.Image
+    - UnityEngine.UI.RawImage
     - UnityEngine.UI.Shadow
     - UnityEngine.UI.Slider
     - UnityEngine.UI.Text
   sceneClasses:
-    Assets/Scenes/MainMenuTestFps.unity:
+    Assets/Scenes/MainMenuScene.unity:
     - Class: 1
       Script: {instanceID: 0}
     - Class: 4
@@ -121,99 +127,103 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 10144}
     - Class: 114
-      Script: {instanceID: 10180}
+      Script: {instanceID: 10160}
     - Class: 114
-      Script: {instanceID: 10208}
+      Script: {instanceID: 10184}
     - Class: 114
-      Script: {instanceID: 10276}
+      Script: {instanceID: 10212}
     - Class: 114
-      Script: {instanceID: 10330}
+      Script: {instanceID: 10282}
     - Class: 114
-      Script: {instanceID: 10446}
+      Script: {instanceID: 10336}
     - Class: 114
-      Script: {instanceID: 10594}
+      Script: {instanceID: 10454}
     - Class: 114
-      Script: {instanceID: 10692}
+      Script: {instanceID: 10602}
     - Class: 114
-      Script: {instanceID: 10880}
+      Script: {instanceID: 10702}
     - Class: 114
-      Script: {instanceID: 10884}
+      Script: {instanceID: 10890}
     - Class: 114
-      Script: {instanceID: 10912}
+      Script: {instanceID: 10894}
     - Class: 114
-      Script: {instanceID: 10938}
+      Script: {instanceID: 10922}
     - Class: 114
-      Script: {instanceID: 10942}
+      Script: {instanceID: 10948}
     - Class: 114
-      Script: {instanceID: 11018}
+      Script: {instanceID: 10952}
     - Class: 114
-      Script: {instanceID: 11138}
+      Script: {instanceID: 11028}
     - Class: 114
-      Script: {instanceID: 11178}
+      Script: {instanceID: 11148}
     - Class: 114
-      Script: {instanceID: 11358}
+      Script: {instanceID: 11188}
     - Class: 114
-      Script: {instanceID: 11454}
+      Script: {instanceID: 11368}
     - Class: 114
-      Script: {instanceID: 11484}
+      Script: {instanceID: 11464}
     - Class: 114
-      Script: {instanceID: 11522}
+      Script: {instanceID: 11494}
     - Class: 114
-      Script: {instanceID: 11534}
+      Script: {instanceID: 11532}
     - Class: 114
-      Script: {instanceID: 11548}
+      Script: {instanceID: 11544}
     - Class: 114
-      Script: {instanceID: 11600}
+      Script: {instanceID: 11558}
     - Class: 114
-      Script: {instanceID: 11722}
+      Script: {instanceID: 11610}
     - Class: 114
-      Script: {instanceID: 11808}
+      Script: {instanceID: 11734}
     - Class: 114
-      Script: {instanceID: 11854}
+      Script: {instanceID: 11820}
     - Class: 114
-      Script: {instanceID: 11884}
+      Script: {instanceID: 11866}
     - Class: 114
-      Script: {instanceID: 11934}
+      Script: {instanceID: 11896}
     - Class: 114
-      Script: {instanceID: 11990}
+      Script: {instanceID: 11946}
     - Class: 114
-      Script: {instanceID: 12104}
+      Script: {instanceID: 12002}
     - Class: 114
-      Script: {instanceID: 12112}
+      Script: {instanceID: 12118}
     - Class: 114
-      Script: {instanceID: 12128}
+      Script: {instanceID: 12126}
     - Class: 114
-      Script: {instanceID: 12224}
+      Script: {instanceID: 12142}
     - Class: 114
-      Script: {instanceID: 12442}
+      Script: {instanceID: 12238}
     - Class: 114
-      Script: {instanceID: 12468}
+      Script: {instanceID: 12456}
     - Class: 114
-      Script: {instanceID: 12488}
+      Script: {instanceID: 12482}
     - Class: 114
-      Script: {instanceID: 12490}
+      Script: {instanceID: 12502}
     - Class: 114
-      Script: {instanceID: 12500}
+      Script: {instanceID: 12504}
     - Class: 114
-      Script: {instanceID: 12598}
+      Script: {instanceID: 12514}
     - Class: 114
-      Script: {instanceID: 12668}
+      Script: {instanceID: 12612}
     - Class: 114
-      Script: {instanceID: 12738}
+      Script: {instanceID: 12682}
     - Class: 114
-      Script: {instanceID: 12842}
+      Script: {instanceID: 12752}
     - Class: 114
-      Script: {instanceID: 13028}
+      Script: {instanceID: 12838}
     - Class: 114
-      Script: {instanceID: 13200}
+      Script: {instanceID: 12858}
     - Class: 114
-      Script: {instanceID: 13334}
+      Script: {instanceID: 13044}
     - Class: 114
-      Script: {instanceID: 13380}
+      Script: {instanceID: 13216}
     - Class: 114
-      Script: {instanceID: 13394}
+      Script: {instanceID: 13350}
     - Class: 114
-      Script: {instanceID: 13426}
+      Script: {instanceID: 13396}
+    - Class: 114
+      Script: {instanceID: 13410}
+    - Class: 114
+      Script: {instanceID: 13442}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -265,21 +275,51 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 65
       Script: {instanceID: 0}
+    - Class: 84
+      Script: {instanceID: 0}
+    - Class: 89
+      Script: {instanceID: 0}
     - Class: 104
       Script: {instanceID: 0}
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 11578}
+      Script: {instanceID: 9858}
     - Class: 114
-      Script: {instanceID: 11600}
+      Script: {instanceID: 10174}
     - Class: 114
-      Script: {instanceID: 11734}
+      Script: {instanceID: 10214}
     - Class: 114
-      Script: {instanceID: 13200}
+      Script: {instanceID: 10404}
+    - Class: 114
+      Script: {instanceID: 10612}
+    - Class: 114
+      Script: {instanceID: 11494}
+    - Class: 114
+      Script: {instanceID: 11588}
+    - Class: 114
+      Script: {instanceID: 11610}
+    - Class: 114
+      Script: {instanceID: 11850}
+    - Class: 114
+      Script: {instanceID: 12682}
+    - Class: 114
+      Script: {instanceID: 12838}
+    - Class: 114
+      Script: {instanceID: 13216}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
+      Script: {instanceID: 0}
+    - Class: 222
+      Script: {instanceID: 0}
+    - Class: 223
+      Script: {instanceID: 0}
+    - Class: 224
+      Script: {instanceID: 0}
+    - Class: 328
+      Script: {instanceID: 0}
+    - Class: 329
       Script: {instanceID: 0}
   scriptHashData:
   - hash:
@@ -518,6 +558,12 @@ ScriptsOnlyBuild:
     className: TextToggleIsOnTransition
   - hash:
       serializedVersion: 2
+      Hash: 6b6eb1c6ca08aa83c664b1911a4835e7
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: GhostCamera
+  - hash:
+      serializedVersion: 2
       Hash: a5781dc71a671b1ad2b38de19f24b71f
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
@@ -534,6 +580,12 @@ ScriptsOnlyBuild:
     assemblyName: Assembly-CSharp.dll
     namespaceName: Oculus.Platform.Samples.EntitlementCheck
     className: EntitlementCheck
+  - hash:
+      serializedVersion: 2
+      Hash: e5d83d8736b02d4479d5bb358ec0ff9c
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: TouchButtonAction
   - hash:
       serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
@@ -576,6 +628,12 @@ ScriptsOnlyBuild:
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.UI
     className: Text
+  - hash:
+      serializedVersion: 2
+      Hash: 0182aac3fd8bfdeff27021b9548c3a6a
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: OVRGrabbablePUNOwnershipChange
   - hash:
       serializedVersion: 2
       Hash: 499fd23433e68e265d153aa6b95d0047
@@ -684,6 +742,12 @@ ScriptsOnlyBuild:
     assemblyName: Assembly-CSharp.dll
     namespaceName: Photon.Realtime.Demo
     className: ConnectAndJoinRandomLb
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: MyEvents
   - hash:
       serializedVersion: 2
       Hash: c51d2a1569bb404a12e837742887b609
@@ -804,6 +868,12 @@ ScriptsOnlyBuild:
     assemblyName: Unity.Animation.Rigging.dll
     namespaceName: UnityEngine.Animations.Rigging
     className: MultiParentConstraint
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: VideoPlayerPUN
   - hash:
       serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
@@ -998,7 +1068,7 @@ ScriptsOnlyBuild:
     className: OnClickRpc
   - hash:
       serializedVersion: 2
-      Hash: f7ff1c9c74366f0c761d777c77fbeb5f
+      Hash: 33eb09f371220d0cd4386017eeade737
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: PhotonRoom
@@ -1352,7 +1422,7 @@ ScriptsOnlyBuild:
     className: P2PNetworkBall
   - hash:
       serializedVersion: 2
-      Hash: 72e7ff3fee0dfef0fafec64a24015b94
+      Hash: 2bc9474a46c0df9aea9119062f3dc349
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: PhotonPlayer
@@ -1458,6 +1528,12 @@ ScriptsOnlyBuild:
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: LocomotionController
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: MaterialPerOwner
   - hash:
       serializedVersion: 2
       Hash: 45f2a4e63a8b43166e3f85c4d543f00d
@@ -1794,6 +1870,12 @@ ScriptsOnlyBuild:
     assemblyName: PhotonUnityNetworking.Demos.dll
     namespaceName: Photon.Pun.Demo.Cockpit.Forms
     className: LoadLevelUIForm
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: OwnershipTransfer
   - hash:
       serializedVersion: 2
       Hash: a3b5c7ace69ce05da7ac8052564f6656
@@ -2240,6 +2322,12 @@ ScriptsOnlyBuild:
     className: MatchmakingManager
   - hash:
       serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: OnClickRequestOwnership
+  - hash:
+      serializedVersion: 2
       Hash: 492e4075bfded9fb3f0d520048f29f83
     assemblyName: Oculus.VR.dll
     namespaceName: UnityEngine.EventSystems
@@ -2654,6 +2742,6 @@ ScriptsOnlyBuild:
     className: PlayableTrack
   platform: 5
   scenePathNames:
-  - Assets/Scenes/MainMenuTestFps.unity
+  - Assets/Scenes/MainMenuScene.unity
   - Assets/Scenes/MultiplayerScene.unity
-  playerPath: D:/sandbox/OVRPUN2Repo/OVRPUN2/Builds/Build1/OVRPUN2.exe
+  playerPath: D:/sandbox/OVRPUN2Repo/OVRPUN2/Builds/TestTest/OVRPUN2.exe

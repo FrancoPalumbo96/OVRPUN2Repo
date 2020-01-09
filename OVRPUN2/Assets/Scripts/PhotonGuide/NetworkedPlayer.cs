@@ -13,9 +13,8 @@ public class NetworkedPlayer : MonoBehaviourPun
     {
         Debug.Log("Player instantiated");
 
-        if (photonView.IsMine)
-        {
-            Debug.Log("Player is mine");
+        if (photonView.IsMine) {
+            Debug.LogWarning("Change this a litte for other non robot players");
 
             playerGlobal = GameObject.Find("[CameraRig]").transform;
             playerLocal = playerGlobal.Find("Camera (head)");

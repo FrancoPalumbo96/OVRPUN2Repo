@@ -23,11 +23,15 @@ public class TouchButtonAction : MonoBehaviourPun {
     }
 
     private void OnTriggerEnter(Collider other) {
-        Debug.Log(other.gameObject.name);
+        
         if(!other.gameObject.name.Contains("coll_hands:b_l_index2")) return;
+        
         if(photonView != null) photonView.RequestOwnership();
+        
         if(waiting)return;
+        
         if(!photonView.IsMine) return;
+        
         StartCoroutine(Wait());
         if (!isOn) {
             GetComponent<Renderer>().material.color = Color.red;
@@ -104,7 +108,7 @@ public class TouchButtonAction : MonoBehaviourPun {
 
     private void PlayerEnteredRoom() {
         Debug.LogWarning("Send rpc was sent");
-        photonView.RPC("SendRPC", RpcTarget.All);   
+        photonView.RPC("SendRPC", RpcTarget.MasterClient);   
     }
 
     [PunRPC]
