@@ -2,77 +2,118 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3927592f-fa18-40a1-9ed4-925adcf8bc41" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.OVRPUN2/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.OVRPUN2/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.OVRPUN2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.OVRPUN2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PhotonGuide/NetworkedPlayer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/PhotonGuide/NetworkedPlayer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Photon/PhotonUnityNetworking/Resources/PhotonServerSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Photon/PhotonUnityNetworking/Resources/PhotonServerSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/MultiplayerScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/MultiplayerScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PhotonLobby.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/PhotonLobby.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PhotonRoom.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/PhotonRoom.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/TouchButtonAction.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TouchButtonAction.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Builds/Build1/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Builds/Build1/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Builds/Build1/MonoBleedingEdge/etc/mono/2.0/machine.config" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Builds/Build1/MonoBleedingEdge/etc/mono/2.0/settings.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Builds/Build1/MonoBleedingEdge/etc/mono/2.0/web.config" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Builds/Build1/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Builds/Build1/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Builds/Build1/MonoBleedingEdge/etc/mono/4.0/machine.config" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Builds/Build1/MonoBleedingEdge/etc/mono/4.0/settings.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Builds/Build1/MonoBleedingEdge/etc/mono/4.0/web.config" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Builds/Build1/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Builds/Build1/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Builds/Build1/MonoBleedingEdge/etc/mono/4.5/machine.config" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Builds/Build1/MonoBleedingEdge/etc/mono/4.5/settings.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Builds/Build1/MonoBleedingEdge/etc/mono/4.5/web.config" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Builds/Build1/MonoBleedingEdge/etc/mono/browscap.ini" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Builds/Build1/MonoBleedingEdge/etc/mono/config" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Builds/Build1/MonoBleedingEdge/etc/mono/mconfig/config.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Builds/Build1/OVRPUN2_Data/Plugins/lib_burst_generated.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Builds/Build1/OVRPUN2_Data/Resources/unity default resources" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Builds/Build1/OVRPUN2_Data/Resources/unity_builtin_extra" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Builds/Build1/OVRPUN2_Data/app.info" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Builds/Build1/OVRPUN2_Data/boot.config" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Builds/Build1/OVRPUN2_Data/globalgamemanagers" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Builds/Build1/OVRPUN2_Data/globalgamemanagers.assets" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Builds/Build1/OVRPUN2_Data/level0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Builds/Build1/OVRPUN2_Data/level0.resS" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Builds/Build1/OVRPUN2_Data/level1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Builds/Build1/OVRPUN2_Data/resources.assets" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Builds/Build1/OVRPUN2_Data/resources.assets.resS" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Builds/Build1/OVRPUN2_Data/sharedassets0.assets" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Builds/Build1/OVRPUN2_Data/sharedassets0.assets.resS" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Builds/Build1/OVRPUN2_Data/sharedassets1.assets" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Builds/Builod2/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Builds/Builod2/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Builds/Builod2/MonoBleedingEdge/etc/mono/2.0/machine.config" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Builds/Builod2/MonoBleedingEdge/etc/mono/2.0/settings.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Builds/Builod2/MonoBleedingEdge/etc/mono/2.0/web.config" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Builds/Builod2/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Builds/Builod2/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Builds/Builod2/MonoBleedingEdge/etc/mono/4.0/machine.config" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Builds/Builod2/MonoBleedingEdge/etc/mono/4.0/settings.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Builds/Builod2/MonoBleedingEdge/etc/mono/4.0/web.config" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Builds/Builod2/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Builds/Builod2/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Builds/Builod2/MonoBleedingEdge/etc/mono/4.5/machine.config" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Builds/Builod2/MonoBleedingEdge/etc/mono/4.5/settings.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Builds/Builod2/MonoBleedingEdge/etc/mono/4.5/web.config" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Builds/Builod2/MonoBleedingEdge/etc/mono/browscap.ini" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Builds/Builod2/MonoBleedingEdge/etc/mono/config" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Builds/Builod2/MonoBleedingEdge/etc/mono/mconfig/config.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Builds/Builod2/OVRPUN2_Data/Plugins/lib_burst_generated.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Builds/Builod2/OVRPUN2_Data/Resources/unity default resources" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Builds/Builod2/OVRPUN2_Data/Resources/unity_builtin_extra" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Builds/Builod2/OVRPUN2_Data/app.info" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Builds/Builod2/OVRPUN2_Data/boot.config" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Builds/Builod2/OVRPUN2_Data/globalgamemanagers" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Builds/Builod2/OVRPUN2_Data/globalgamemanagers.assets" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Builds/Builod2/OVRPUN2_Data/level0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Builds/Builod2/OVRPUN2_Data/level0.resS" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Builds/Builod2/OVRPUN2_Data/level1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Builds/Builod2/OVRPUN2_Data/resources.assets" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Builds/Builod2/OVRPUN2_Data/resources.assets.resS" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Builds/Builod2/OVRPUN2_Data/sharedassets0.assets" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Builds/Builod2/OVRPUN2_Data/sharedassets0.assets.resS" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Builds/Builod2/OVRPUN2_Data/sharedassets1.assets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/Buiiold3/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/Buiiold3/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/Buiiold3/MonoBleedingEdge/etc/mono/2.0/machine.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/Buiiold3/MonoBleedingEdge/etc/mono/2.0/settings.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/Buiiold3/MonoBleedingEdge/etc/mono/2.0/web.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/Buiiold3/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/Buiiold3/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/Buiiold3/MonoBleedingEdge/etc/mono/4.0/machine.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/Buiiold3/MonoBleedingEdge/etc/mono/4.0/settings.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/Buiiold3/MonoBleedingEdge/etc/mono/4.0/web.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/Buiiold3/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/Buiiold3/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/Buiiold3/MonoBleedingEdge/etc/mono/4.5/machine.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/Buiiold3/MonoBleedingEdge/etc/mono/4.5/settings.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/Buiiold3/MonoBleedingEdge/etc/mono/4.5/web.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/Buiiold3/MonoBleedingEdge/etc/mono/browscap.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/Buiiold3/MonoBleedingEdge/etc/mono/config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/Buiiold3/MonoBleedingEdge/etc/mono/mconfig/config.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/Buiiold3/OVRPUN2_Data/Plugins/lib_burst_generated.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/Buiiold3/OVRPUN2_Data/Resources/unity default resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/Buiiold3/OVRPUN2_Data/Resources/unity_builtin_extra" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/Buiiold3/OVRPUN2_Data/app.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/Buiiold3/OVRPUN2_Data/boot.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/Buiiold3/OVRPUN2_Data/globalgamemanagers" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/Buiiold3/OVRPUN2_Data/globalgamemanagers.assets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/Buiiold3/OVRPUN2_Data/level0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/Buiiold3/OVRPUN2_Data/level0.resS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/Buiiold3/OVRPUN2_Data/level1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/Buiiold3/OVRPUN2_Data/resources.assets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/Buiiold3/OVRPUN2_Data/resources.assets.resS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/Buiiold3/OVRPUN2_Data/sharedassets0.assets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/Buiiold3/OVRPUN2_Data/sharedassets0.assets.resS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/Buiiold3/OVRPUN2_Data/sharedassets1.assets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/Builllldldldldl/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/Builllldldldldl/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/Builllldldldldl/MonoBleedingEdge/etc/mono/2.0/machine.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/Builllldldldldl/MonoBleedingEdge/etc/mono/2.0/settings.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/Builllldldldldl/MonoBleedingEdge/etc/mono/2.0/web.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/Builllldldldldl/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/Builllldldldldl/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/Builllldldldldl/MonoBleedingEdge/etc/mono/4.0/machine.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/Builllldldldldl/MonoBleedingEdge/etc/mono/4.0/settings.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/Builllldldldldl/MonoBleedingEdge/etc/mono/4.0/web.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/Builllldldldldl/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/Builllldldldldl/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/Builllldldldldl/MonoBleedingEdge/etc/mono/4.5/machine.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/Builllldldldldl/MonoBleedingEdge/etc/mono/4.5/settings.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/Builllldldldldl/MonoBleedingEdge/etc/mono/4.5/web.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/Builllldldldldl/MonoBleedingEdge/etc/mono/browscap.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/Builllldldldldl/MonoBleedingEdge/etc/mono/config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/Builllldldldldl/MonoBleedingEdge/etc/mono/mconfig/config.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/Builllldldldldl/OVRPUN2_Data/Plugins/lib_burst_generated.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/Builllldldldldl/OVRPUN2_Data/Resources/unity default resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/Builllldldldldl/OVRPUN2_Data/Resources/unity_builtin_extra" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/Builllldldldldl/OVRPUN2_Data/app.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/Builllldldldldl/OVRPUN2_Data/boot.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/Builllldldldldl/OVRPUN2_Data/globalgamemanagers" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/Builllldldldldl/OVRPUN2_Data/globalgamemanagers.assets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/Builllldldldldl/OVRPUN2_Data/level0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/Builllldldldldl/OVRPUN2_Data/level0.resS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/Builllldldldldl/OVRPUN2_Data/level1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/Builllldldldldl/OVRPUN2_Data/resources.assets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/Builllldldldldl/OVRPUN2_Data/resources.assets.resS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/Builllldldldldl/OVRPUN2_Data/sharedassets0.assets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/Builllldldldldl/OVRPUN2_Data/sharedassets0.assets.resS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/Builllldldldldl/OVRPUN2_Data/sharedassets1.assets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/Builllldldldldl/OVRPUN2_Data/sharedassets1.assets.resS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/Builllldldldldl/OVRPUN2_Data/sharedassets1.resource" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/TestTest/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/TestTest/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/TestTest/MonoBleedingEdge/etc/mono/2.0/machine.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/TestTest/MonoBleedingEdge/etc/mono/2.0/settings.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/TestTest/MonoBleedingEdge/etc/mono/2.0/web.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/TestTest/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/TestTest/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/TestTest/MonoBleedingEdge/etc/mono/4.0/machine.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/TestTest/MonoBleedingEdge/etc/mono/4.0/settings.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/TestTest/MonoBleedingEdge/etc/mono/4.0/web.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/TestTest/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/TestTest/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/TestTest/MonoBleedingEdge/etc/mono/4.5/machine.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/TestTest/MonoBleedingEdge/etc/mono/4.5/settings.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/TestTest/MonoBleedingEdge/etc/mono/4.5/web.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/TestTest/MonoBleedingEdge/etc/mono/browscap.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/TestTest/MonoBleedingEdge/etc/mono/config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/TestTest/MonoBleedingEdge/etc/mono/mconfig/config.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/TestTest/OVRPUN2_Data/Plugins/lib_burst_generated.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/TestTest/OVRPUN2_Data/Resources/unity default resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/TestTest/OVRPUN2_Data/Resources/unity_builtin_extra" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/TestTest/OVRPUN2_Data/app.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/TestTest/OVRPUN2_Data/boot.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/TestTest/OVRPUN2_Data/globalgamemanagers" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/TestTest/OVRPUN2_Data/globalgamemanagers.assets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/TestTest/OVRPUN2_Data/level0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/TestTest/OVRPUN2_Data/level0.resS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/TestTest/OVRPUN2_Data/level1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/TestTest/OVRPUN2_Data/resources.assets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/TestTest/OVRPUN2_Data/resources.assets.resS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/TestTest/OVRPUN2_Data/sharedassets0.assets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/TestTest/OVRPUN2_Data/sharedassets0.assets.resS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/TestTest/OVRPUN2_Data/sharedassets1.assets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/TestTest/OVRPUN2_Data/sharedassets1.assets.resS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Builds/TestTest/OVRPUN2_Data/sharedassets1.resource" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/CurrentMaximizeLayout.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/Library/CurrentMaximizeLayout.dwlt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/EditorUserBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/EditorUserBuildSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/InspectorExpandedItems.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/InspectorExpandedItems.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/LastBuild.buildreport" beforeDir="false" afterPath="$PROJECT_DIR$/Library/LastBuild.buildreport" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/PlayerDataCache/Win/Data/Managed/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PlayerDataCache/Win/Data/Managed/Assembly-CSharp.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/PlayerDataCache/Win/Data/Managed/Oculus.VR.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PlayerDataCache/Win/Data/Managed/Oculus.VR.dll" afterDir="false" />
@@ -97,14 +138,15 @@
       <change beforePath="$PROJECT_DIR$/Library/PlayerDataCache/Win/Data/sharedassets0.assets" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PlayerDataCache/Win/Data/sharedassets0.assets" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/PlayerDataCache/Win/Data/sharedassets1.assets" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PlayerDataCache/Win/Data/sharedassets1.assets" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/PlayerDataCache/Win/ScriptsOnlyCache.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PlayerDataCache/Win/ScriptsOnlyCache.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/SceneVisibilityState.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/SceneVisibilityState.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp-Editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp-Editor.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/StateCache/Hierarchy/544365-437a097ba1021794a9.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/Hierarchy/544365-437a097ba1021794a9.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/StateCache/Hierarchy/544365-91772a98e38c27e41a.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/Hierarchy/544365-91772a98e38c27e41a.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/BuiltinAssemblies.stamp" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/StateCache/Hierarchy/544365-mainStage.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/Hierarchy/544365-mainStage.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/StateCache/SceneView/c7e9f1-mainStage.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/SceneView/c7e9f1-mainStage.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/assetDatabase3" beforeDir="false" afterPath="$PROJECT_DIR$/Library/assetDatabase3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/75/755797176804b354c8b842e4a125f561" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/75/755797176804b354c8b842e4a125f561" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/26/26672801508ed3a4180cd4b96c14aa2b" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/26/26672801508ed3a4180cd4b96c14aa2b" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/metadata/26/26ee538472351d4478ae08fd037fb063" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/26/26ee538472351d4478ae08fd037fb063" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/metadata/c0/c03f2281668737c44a9710dd03d996cc" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/c0/c03f2281668737c44a9710dd03d996cc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe0.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe0.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe1.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe1.log" afterDir="false" />
@@ -114,8 +156,6 @@
       <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe5.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe5.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe6.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe6.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe7.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe7.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -125,107 +165,129 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/TouchButtonAction.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="609">
-              <caret line="110" column="61" lean-forward="true" selection-start-line="110" selection-start-column="61" selection-end-line="110" selection-end-column="61" />
+            <state relative-caret-position="490">
+              <caret line="125" column="59" selection-start-line="125" selection-start-column="59" selection-end-line="125" selection-end-column="59" />
               <folding>
-                <marker date="1578576860697" expanded="false" signature="6:121" ph="..." />
-                <marker date="1578576860697" expanded="true" signature="173:3330" ph="{...}" />
-                <marker date="1578576860697" expanded="true" signature="449:631" ph="{...}" />
-                <marker date="1578576860697" expanded="true" signature="681:1602" ph="{...}" />
-                <marker date="1578576860697" expanded="true" signature="984:1279" ph="{...}" />
-                <marker date="1578576860697" expanded="true" signature="1279:1594" ph="{...}" />
-                <marker date="1578576860697" expanded="true" signature="1635:1735" ph="{...}" />
-                <marker date="1578576860697" expanded="true" signature="1780:1996" ph="{...}" />
-                <marker date="1578576860697" expanded="true" signature="1815:1902" ph="/* for (int i = 0; i &lt; 1; i++) { ... */" />
-                <marker date="1578576860697" expanded="true" signature="2051:2176" ph="{...}" />
-                <marker date="1578576860697" expanded="true" signature="2243:2516" ph="{...}" />
-                <marker date="1578576860697" expanded="true" signature="2522:2769" ph="/* private void Update() { ... */" />
-                <marker date="1578576860697" expanded="true" signature="2775:3003" ph="/* private System.Action SyncVideoNewPlayer(double time, bool on) { ... */" />
-                <marker date="1578576860697" expanded="true" signature="3042:3158" ph="{...}" />
-                <marker date="1578576860697" expanded="true" signature="3200:3318" ph="{...}" />
+                <marker date="1578668497462" expanded="false" signature="6:121" ph="..." />
+                <marker date="1578668497462" expanded="true" signature="173:4087" ph="{...}" />
+                <marker date="1578668497462" expanded="true" signature="449:631" ph="{...}" />
+                <marker date="1578668497462" expanded="true" signature="681:1602" ph="{...}" />
+                <marker date="1578668497462" expanded="true" signature="984:1279" ph="{...}" />
+                <marker date="1578668497462" expanded="true" signature="1279:1594" ph="{...}" />
+                <marker date="1578668497462" expanded="true" signature="1635:1735" ph="{...}" />
+                <marker date="1578668497462" expanded="true" signature="1780:1996" ph="{...}" />
+                <marker date="1578668497462" expanded="true" signature="1815:1902" ph="/* for (int i = 0; i &lt; 1; i++) { ... */" />
+                <marker date="1578668497462" expanded="true" signature="2051:2257" ph="{...}" />
+                <marker date="1578668497462" expanded="true" signature="2324:2640" ph="{...}" />
+                <marker date="1578668497462" expanded="true" signature="2650:2661" ph="/* [PunRPC] ... */" />
+                <marker date="1578668497462" expanded="true" signature="2667:2914" ph="/* private void Update() { ... */" />
+                <marker date="1578668497462" expanded="true" signature="2920:3148" ph="/* private System.Action SyncVideoNewPlayer(double time, bool on) { ... */" />
+                <marker date="1578668497462" expanded="true" signature="3187:3303" ph="{...}" />
+                <marker date="1578668497462" expanded="true" signature="3345:3592" ph="{...}" />
+                <marker date="1578668497462" expanded="true" signature="3648:4075" ph="{...}" />
+                <marker date="1578668497462" expanded="true" signature="3671:3861" ph="{...}" />
+                <marker date="1578668497462" expanded="true" signature="3861:4069" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/SyncVidos.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="22" column="4" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="4" />
+              <folding>
+                <marker date="1578668497510" expanded="false" signature="6:96" ph="..." />
+                <marker date="1578668497510" expanded="true" signature="181:646" ph="{...}" />
+                <marker date="1578668497510" expanded="true" signature="246:304" ph="{...}" />
+                <marker date="1578668497510" expanded="true" signature="389:636" ph="{...}" />
+                <marker date="1578668497510" expanded="true" signature="421:492" ph="{...}" />
+                <marker date="1578668497510" expanded="true" signature="519:630" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Oculus/VR/Scripts/Util/OVRGrabbable.cs">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/VideoPlayerPUN.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="235">
-              <caret line="114" column="7" selection-start-line="114" selection-start-column="7" selection-end-line="114" selection-end-column="7" />
+            <state>
               <folding>
-                <marker date="1578074407838" expanded="true" signature="0:971" ph="/* Copyright : Copyright (c) Facebook Technologies, LLC and its affiliates. All rights reserved. ... */" />
-                <marker date="1578074407838" expanded="false" signature="979:1005" ph="..." />
-                <marker date="1578074407838" expanded="true" signature="1007:1095" ph="/// An object that can be grabbed and thrown by OVRGrabber. ... " />
-                <marker date="1578074407838" expanded="true" signature="1137:4832" ph="{...}" />
-                <marker date="1578074407838" expanded="true" signature="1608:1688" ph="/// If true, the object can currently be grabbed. ... " />
-                <marker date="1578074407838" expanded="true" signature="1721:1776" ph="{...}" />
-                <marker date="1578074407838" expanded="true" signature="1779:1855" ph="/// If true, the object is currently grabbed. ... " />
-                <marker date="1578074407838" expanded="true" signature="1881:1937" ph="{...}" />
-                <marker date="1578074407838" expanded="true" signature="1940:2049" ph="/// If true, the object's position will snap to match snapOffset when grabbed. ... " />
-                <marker date="1578074407838" expanded="true" signature="2078:2129" ph="{...}" />
-                <marker date="1578074407838" expanded="true" signature="2132:2244" ph="/// If true, the object's orientation will snap to match snapOffset when grabbed. ... " />
-                <marker date="1578074407838" expanded="true" signature="2276:2330" ph="{...}" />
-                <marker date="1578074407838" expanded="true" signature="2333:2445" ph="/// An offset relative to the OVRGrabber where this object can snap when grabbed. ... " />
-                <marker date="1578074407838" expanded="true" signature="2477:2526" ph="{...}" />
-                <marker date="1578074407838" expanded="true" signature="2529:2618" ph="/// Returns the OVRGrabber currently grabbing this object. ... " />
-                <marker date="1578074407838" expanded="true" signature="2650:2698" ph="{...}" />
-                <marker date="1578074407838" expanded="true" signature="2701:2783" ph="/// The transform at which this object was grabbed. ... " />
-                <marker date="1578074407838" expanded="true" signature="2821:2885" ph="{...}" />
-                <marker date="1578074407838" expanded="true" signature="2888:2987" ph="/// The Rigidbody of the collider that was used to grab this object. ... " />
-                <marker date="1578074407838" expanded="true" signature="3025:3097" ph="{...}" />
-                <marker date="1578074407838" expanded="true" signature="3100:3185" ph="/// The contact point(s) where the object was grabbed. ... " />
-                <marker date="1578074407838" expanded="true" signature="3218:3267" ph="{...}" />
-                <marker date="1578074407838" expanded="true" signature="3270:3350" ph="/// Notifies the object that it has been grabbed. ... " />
-                <marker date="1578074407838" expanded="true" signature="3418:3597" ph="{...}" />
-                <marker date="1578074407838" expanded="true" signature="3600:3681" ph="/// Notifies the object that it has been released. ... " />
-                <marker date="1578074407838" expanded="true" signature="3759:4023" ph="{...}" />
-                <marker date="1578074407838" expanded="true" signature="4041:4520" ph="{...}" />
-                <marker date="1578074407838" expanded="true" signature="4085:4514" ph="{...}" />
-                <marker date="1578074407838" expanded="true" signature="4243:4403" ph="{...}" />
-                <marker date="1578074407838" expanded="true" signature="4556:4636" ph="{...}" />
-                <marker date="1578074407838" expanded="true" signature="4658:4830" ph="{...}" />
-                <marker date="1578074407838" expanded="true" signature="4697:4824" ph="{...}" />
+                <marker date="1578338614764" expanded="false" signature="7:62" ph="..." />
+                <marker date="1578338614764" expanded="true" signature="111:604" ph="{...}" />
+                <marker date="1578338614764" expanded="true" signature="225:334" ph="{...}" />
+                <marker date="1578338614764" expanded="true" signature="388:458" ph="{...}" />
+                <marker date="1578338614764" expanded="true" signature="505:596" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/OVRGrabbablePUNOwnershipChange.cs">
+        <entry file="file://$PROJECT_DIR$/Assets/Oculus/VR/Oculus.VR.asmdef">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="609">
-              <caret line="43" column="38" lean-forward="true" selection-start-line="43" selection-start-column="38" selection-end-line="43" selection-end-column="38" />
+            <state>
               <folding>
-                <marker date="1578571849906" expanded="true" signature="0:971" ph="/* Copyright : Copyright (c) Facebook Technologies, LLC and its affiliates. All rights reserved. ... */" />
-                <marker date="1578571849906" expanded="false" signature="979:1087" ph="..." />
-                <marker date="1578571849906" expanded="true" signature="1089:1196" ph="/// An object that can be grabbed and thrown by OVRGrabber. ... " />
-                <marker date="1578571849906" expanded="true" signature="1256:1794" ph="{...}" />
-                <marker date="1578571849906" expanded="true" signature="1339:1419" ph="/* If true, the object can currently be grabbed. ... */" />
-                <marker date="1578571849906" expanded="true" signature="1339:1503" ph="/// If true, the object can currently be grabbed. ... " />
-                <marker date="1578571849906" expanded="true" signature="1423:1503" ph="/* Notifies the object that it has been grabbed. ... */" />
-                <marker date="1578571849906" expanded="true" signature="1573:1683" ph="{...}" />
-                <marker date="1578571849906" expanded="true" signature="1718:1787" ph="{...}" />
+                <marker date="1576696844905" expanded="true" signature="0:480" ph="{...}" />
+                <marker date="1576696844905" expanded="true" signature="192:478" ph="[...]" />
+                <marker date="1576696844905" expanded="true" signature="202:334" ph="{...}" />
+                <marker date="1576696844905" expanded="true" signature="344:472" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/VRRig.cs">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/PhotonRoom.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="24" column="11" selection-start-line="24" selection-start-column="11" selection-end-line="24" selection-end-column="11" />
+            <state>
+              <caret line="25" column="29" lean-forward="true" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
               <folding>
-                <marker date="1576774803552" expanded="false" signature="6:78" ph="..." />
-                <marker date="1576774803552" expanded="true" signature="120:477" ph="{...}" />
-                <marker date="1576774803552" expanded="true" signature="294:475" ph="{...}" />
-                <marker date="1576774803552" expanded="true" signature="513:1271" ph="{...}" />
-                <marker date="1576774803552" expanded="true" signature="780:862" ph="{...}" />
-                <marker date="1576774803552" expanded="true" signature="924:1269" ph="{...}" />
+                <marker date="1578660907666" expanded="false" signature="6:185" ph="..." />
+                <marker date="1578660907666" expanded="true" signature="256:2880" ph="{...}" />
+                <marker date="1578660907666" expanded="true" signature="462:528" ph="[...]" />
+                <marker date="1578660907666" expanded="true" signature="588:1459" ph="{...}" />
+                <marker date="1578660907666" expanded="true" signature="657:1006" ph="{...}" />
+                <marker date="1578660907666" expanded="true" signature="748:995" ph="{...}" />
+                <marker date="1578660907666" expanded="true" signature="1019:1368" ph="{...}" />
+                <marker date="1578660907666" expanded="true" signature="1070:1358" ph="{...}" />
+                <marker date="1578660907666" expanded="true" signature="1226:1326" ph="{...}" />
+                <marker date="1578660907666" expanded="true" signature="1502:1644" ph="{...}" />
+                <marker date="1578660907666" expanded="true" signature="1682:1828" ph="{...}" />
+                <marker date="1578660907666" expanded="true" signature="1869:2020" ph="{...}" />
+                <marker date="1578660907666" expanded="true" signature="2050:2164" ph="{...}" />
+                <marker date="1578660907666" expanded="true" signature="2236:2383" ph="{...}" />
+                <marker date="1578660907666" expanded="true" signature="2329:2377" ph="{...}" />
+                <marker date="1578660907666" expanded="true" signature="2416:2672" ph="{...}" />
+                <marker date="1578660907666" expanded="true" signature="2709:2747" ph="{...}" />
+                <marker date="1578660907666" expanded="true" signature="2779:2812" ph="{...}" />
+                <marker date="1578660907666" expanded="true" signature="2844:2877" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/PhotonLobby.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="56" column="5" lean-forward="true" selection-start-line="56" selection-start-column="5" selection-end-line="56" selection-end-column="5" />
+              <folding>
+                <marker date="1578661032269" expanded="true" signature="6:94" ph="..." />
+                <marker date="1578661032269" expanded="true" signature="148:2028" ph="{...}" />
+                <marker date="1578661032269" expanded="true" signature="339:373" ph="{...}" />
+                <marker date="1578661032269" expanded="true" signature="444:545" ph="{...}" />
+                <marker date="1578661032269" expanded="true" signature="593:835" ph="{...}" />
+                <marker date="1578661032269" expanded="true" signature="914:1018" ph="{...}" />
+                <marker date="1578661032269" expanded="true" signature="1097:1196" ph="{...}" />
+                <marker date="1578661032269" expanded="true" signature="1228:1507" ph="{...}" />
+                <marker date="1578661032269" expanded="true" signature="1549:1722" ph="{...}" />
+                <marker date="1578661032269" expanded="true" signature="1759:1811" ph="{...}" />
+                <marker date="1578661032269" expanded="true" signature="1852:2020" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -250,8 +312,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/GameControllers/PhotonPlayer.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="26" column="39" lean-forward="true" selection-start-line="26" selection-start-column="39" selection-end-line="26" selection-end-column="39" />
+            <state relative-caret-position="374">
+              <caret line="26" column="39" selection-start-line="26" selection-start-column="39" selection-end-line="26" selection-end-column="39" />
               <folding>
                 <marker date="1578573883642" expanded="false" signature="6:113" ph="..." />
                 <marker date="1578573883642" expanded="true" signature="155:2398" ph="{...}" />
@@ -299,6 +361,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Oculus/VR/Scripts/Util/OVRGrabbable.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/SyncVidos.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/SceneManagerTest.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/TouchButtonAction.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Photon/PhotonUnityNetworking/Code/Editor/PhotonViewInspector.cs" root0="FORCE_HIGHLIGHTING" />
@@ -321,6 +384,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/TouchController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/PhotonGuide/NetworkController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/PhotonRoom.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Oculus/VR/Oculus.VR.asmdef" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameControllers/OVRPlayerControllerPUN.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameControllers/PhotonPlayer.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameControllers/GameSetup.cs" root0="FORCE_HIGHLIGHTING" />
@@ -343,15 +407,16 @@
         <option value="$PROJECT_DIR$/Assets/OVRGrabbablePandu.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/OwnershipTransfer.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/VideoPlayerPUN.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/PhotonLobby.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/PhotonRoom.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/GhostCamera.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/OVRGrabbablePandu.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/OVRGrabbablePUNOwnershipChange.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/GameControllers/PhotonPlayer.cs" />
         <option value="$PROJECT_DIR$/Assets/MyEvents.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/PhotonGuide/NetworkedPlayer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PhotonRoom.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PhotonLobby.cs" />
         <option value="$PROJECT_DIR$/Assets/TouchButtonAction.cs" />
+        <option value="$PROJECT_DIR$/Assets/SyncVidos.cs" />
       </list>
     </option>
   </component>
@@ -375,10 +440,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="SolutionExplorer">
-        <option name="show-all-files" value="false" />
-      </pane>
-      <pane id="AssemblyExplorer" />
       <pane id="FileSystemExplorer" />
       <pane id="UnityExplorer">
         <subPane>
@@ -392,6 +453,10 @@
         </subPane>
         <option name="show-hidden-items" value="false" />
       </pane>
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="AssemblyExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -448,7 +513,8 @@
       <workItem from="1577995674727" duration="738000" />
       <workItem from="1578069566156" duration="3500000" />
       <workItem from="1578502540901" duration="5875000" />
-      <workItem from="1578571591960" duration="4538000" />
+      <workItem from="1578571591960" duration="5150000" />
+      <workItem from="1578660813008" duration="6674000" />
     </task>
     <task id="LOCAL-00001" summary="aaaah">
       <created>1576774743314</created>
@@ -461,7 +527,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50033000" />
+    <option name="totallyTimeSpent" value="57319000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -473,7 +539,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14712153" />
@@ -496,7 +562,7 @@
       <window_info anchor="bottom" id="Logcat" order="11" />
       <window_info anchor="bottom" id="Unit Tests" order="12" />
       <window_info anchor="bottom" id="Terminal" order="13" />
-      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" weight="0.32936078" />
       <window_info anchor="bottom" id="Android Profiler" order="15" show_stripe_button="false" />
       <window_info anchor="bottom" id="Unity" order="16" />
       <window_info anchor="bottom" id="Messages" order="17" />
@@ -937,105 +1003,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Photon/PhotonUnityNetworking/Code/PhotonView.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6120">
-          <caret line="367" selection-start-line="367" selection-end-line="367" />
-          <folding>
-            <marker date="1576696845210" expanded="true" signature="0:418" ph="/* Contains the PhotonView class. ... */" />
-            <marker date="1576696845210" expanded="true" signature="441:22197" ph="{...}" />
-            <marker date="1576696845210" expanded="false" signature="454:631" ph="..." />
-            <marker date="1576696845210" expanded="true" signature="650:847" ph="/// A PhotonView identifies an object across the network (viewID) and configures how the controlling client updat ... " />
-            <marker date="1576696845210" expanded="true" signature="947:22195" ph="{...}" />
-            <marker date="1576696845210" expanded="true" signature="1048:1160" ph="{...}" />
-            <marker date="1576696845210" expanded="true" signature="1745:2059" ph="/// Flag to check if ownership of this photonView was set during the lifecycle. Used for checking when joining la ... " />
-            <marker date="1576696845210" expanded="true" signature="2138:2468" ph="/* NOTE: this is now an integer because unity won't serialize short (needed for instantiation). we SEND only a sh ... */" />
-            <marker date="1576696845210" expanded="true" signature="2494:2841" ph="{...}" />
-            <marker date="1576696845210" expanded="true" signature="2520:2785" ph="{...}" />
-            <marker date="1576696845210" expanded="true" signature="2620:2729" ph="{...}" />
-            <marker date="1576696845210" expanded="true" signature="3057:3231" ph="/// This is the InstantiationData that was passed when calling PhotonNetwork.Instantiate* (if that was used to sp ... " />
-            <marker date="1576696845210" expanded="true" signature="3273:3921" ph="{...}" />
-            <marker date="1576696845210" expanded="true" signature="3299:3854" ph="{...}" />
-            <marker date="1576696845210" expanded="true" signature="3349:3788" ph="{...}" />
-            <marker date="1576696845210" expanded="true" signature="3388:3634" ph="/* even though viewID and instantiationID are setup before the GO goes live, this data can't be set. as workaroun ... */" />
-            <marker date="1576696845210" expanded="true" signature="3982:4063" ph="/// For internal use only, don't use ... " />
-            <marker date="1576696845210" expanded="true" signature="4197:4278" ph="/// For internal use only, don't use ... " />
-            <marker date="1576696845210" expanded="true" signature="4463:4852" ph="///Defines if ownership of this PhotonView is fixed, can be requested or simply taken. ... " />
-            <marker date="1576696845210" expanded="true" signature="5104:5308" ph="/// The ID of the PhotonView. Identifies it in a networked game (per room). ... " />
-            <marker date="1576696845210" expanded="true" signature="5334:6451" ph="{...}" />
-            <marker date="1576696845210" expanded="true" signature="5405:6441" ph="{...}" />
-            <marker date="1576696845210" expanded="true" signature="5669:6060" ph="/* int oldValue = this.viewIdField; ... */" />
-            <marker date="1576696845210" expanded="true" signature="6225:6321" ph="{...}" />
-            <marker date="1576696845210" expanded="true" signature="6643:7105" ph="///True if the PhotonView was loaded with the scene (game object) or instantiated with InstantiateSceneObject. ... " />
-            <marker date="1576696845210" expanded="true" signature="7137:7210" ph="{...}" />
-            <marker date="1576696845210" expanded="true" signature="7220:7875" ph="/// The owner of a PhotonView is the player who created the GameObject with that view. Objects in the scene don't ... " />
-            <marker date="1576696845210" expanded="true" signature="7903:8235" ph="{...}" />
-            <marker date="1576696845210" expanded="true" signature="7929:8225" ph="{...}" />
-            <marker date="1576696845210" expanded="true" signature="7960:8089" ph="/* TODO cache Owner ... */" />
-            <marker date="1576696845210" expanded="true" signature="8268:8449" ph="{...}" />
-            <marker date="1576696845210" expanded="true" signature="8483:8778" ph="{...}" />
-            <marker date="1576696845210" expanded="true" signature="8509:8768" ph="{...}" />
-            <marker date="1576696845210" expanded="true" signature="8816:8987" ph="{...}" />
-            <marker date="1576696845210" expanded="true" signature="9022:9115" ph="{...}" />
-            <marker date="1576696845210" expanded="true" signature="9150:9244" ph="{...}" />
-            <marker date="1576696845210" expanded="true" signature="9254:9647" ph="/// True if the PhotonView is &quot;mine&quot; and can be controlled by this client. ... " />
-            <marker date="1576696845210" expanded="true" signature="9674:9991" ph="{...}" />
-            <marker date="1576696845210" expanded="true" signature="9700:9981" ph="{...}" />
-            <marker date="1576696845210" expanded="true" signature="10391:10801" ph="{...}" />
-            <marker date="1576696845210" expanded="true" signature="10435:10756" ph="{...}" />
-            <marker date="1576696845210" expanded="true" signature="10847:11391" ph="{...}" />
-            <marker date="1576696845210" expanded="true" signature="10905:11381" ph="{...}" />
-            <marker date="1576696845210" expanded="true" signature="11152:11367" ph="{...}" />
-            <marker date="1576696845210" expanded="true" signature="11401:11978" ph="/// Depending on the PhotonView's OwnershipTransfer setting, any client can request to become owner of the Photon ... " />
-            <marker date="1576696845210" expanded="true" signature="12017:12108" ph="{...}" />
-            <marker date="1576696845210" expanded="true" signature="12118:12406" ph="/// Transfers the ownership of this PhotonView (and GameObject) to another player. ... " />
-            <marker date="1576696845210" expanded="true" signature="12461:12539" ph="{...}" />
-            <marker date="1576696845210" expanded="true" signature="12549:12837" ph="/// Transfers the ownership of this PhotonView (and GameObject) to another player. ... " />
-            <marker date="1576696845210" expanded="true" signature="12891:13107" ph="{...}" />
-            <marker date="1576696845210" expanded="true" signature="13188:13512" ph="{...}" />
-            <marker date="1576696845210" expanded="true" signature="13284:13502" ph="{...}" />
-            <marker date="1576696845210" expanded="true" signature="13370:13488" ph="{...}" />
-            <marker date="1576696845210" expanded="true" signature="13594:13920" ph="{...}" />
-            <marker date="1576696845210" expanded="true" signature="13690:13910" ph="{...}" />
-            <marker date="1576696845210" expanded="true" signature="13776:13896" ph="{...}" />
-            <marker date="1576696845210" expanded="true" signature="14040:14473" ph="{...}" />
-            <marker date="1576696845210" expanded="true" signature="14155:14247" ph="{...}" />
-            <marker date="1576696845210" expanded="true" signature="14264:14463" ph="{...}" />
-            <marker date="1576696845210" expanded="true" signature="14591:15023" ph="{...}" />
-            <marker date="1576696845210" expanded="true" signature="14706:14798" ph="{...}" />
-            <marker date="1576696845210" expanded="true" signature="14815:15013" ph="{...}" />
-            <marker date="1576696845210" expanded="true" signature="15034:15623" ph="/// Can be used to refesh the list of MonoBehaviours on this GameObject while PhotonNetwork.UseRpcMonoBehaviourCa ... " />
-            <marker date="1576696845210" expanded="true" signature="15674:15768" ph="{...}" />
-            <marker date="1576696845210" expanded="true" signature="15779:17069" ph="/// Call a RPC method of this GameObject on remote clients of this room (or on all, inclunding this client). ... " />
-            <marker date="1576696845210" expanded="true" signature="17158:17254" ph="{...}" />
-            <marker date="1576696845210" expanded="true" signature="17264:18594" ph="/// Call a RPC method of this GameObject on remote clients of this room (or on all, inclunding this client). ... " />
-            <marker date="1576696845210" expanded="true" signature="18703:18801" ph="{...}" />
-            <marker date="1576696845210" expanded="true" signature="18811:19928" ph="/// Call a RPC method of this GameObject on remote clients of this room (or on all, inclunding this client). ... " />
-            <marker date="1576696845210" expanded="true" signature="20020:20122" ph="{...}" />
-            <marker date="1576696845210" expanded="true" signature="20132:21289" ph="/// Call a RPC method of this GameObject on remote clients of this room (or on all, inclunding this client). ... " />
-            <marker date="1576696845210" expanded="true" signature="21401:21505" ph="{...}" />
-            <marker date="1576696845210" expanded="true" signature="21564:21641" ph="{...}" />
-            <marker date="1576696845210" expanded="true" signature="21699:21774" ph="{...}" />
-            <marker date="1576696845210" expanded="true" signature="21825:21901" ph="{...}" />
-            <marker date="1576696845210" expanded="true" signature="21944:22189" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/VideoPlayerPUN.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="27" selection-start-line="27" selection-end-line="27" />
-          <folding>
-            <marker date="1578338614764" expanded="false" signature="7:62" ph="..." />
-            <marker date="1578338614764" expanded="true" signature="111:604" ph="{...}" />
-            <marker date="1578338614764" expanded="true" signature="225:334" ph="{...}" />
-            <marker date="1578338614764" expanded="true" signature="388:458" ph="{...}" />
-            <marker date="1578338614764" expanded="true" signature="505:596" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/PhotonGuide/NetworkController.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
@@ -1094,26 +1061,6 @@
             <marker date="1576696845807" expanded="true" signature="138:612" ph="{...}" />
             <marker date="1576696845807" expanded="true" signature="228:418" ph="{...}" />
             <marker date="1576696845807" expanded="true" signature="469:610" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/PhotonLobby.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
-          <folding>
-            <marker date="1578503999305" expanded="false" signature="6:168" ph="..." />
-            <marker date="1578503999305" expanded="true" signature="222:2102" ph="{...}" />
-            <marker date="1578503999305" expanded="true" signature="413:447" ph="{...}" />
-            <marker date="1578503999305" expanded="true" signature="518:619" ph="{...}" />
-            <marker date="1578503999305" expanded="true" signature="667:909" ph="{...}" />
-            <marker date="1578503999305" expanded="true" signature="988:1092" ph="{...}" />
-            <marker date="1578503999305" expanded="true" signature="1171:1270" ph="{...}" />
-            <marker date="1578503999305" expanded="true" signature="1302:1581" ph="{...}" />
-            <marker date="1578503999305" expanded="true" signature="1623:1796" ph="{...}" />
-            <marker date="1578503999305" expanded="true" signature="1833:1885" ph="{...}" />
-            <marker date="1578503999305" expanded="true" signature="1926:2094" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -1944,101 +1891,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/OVRGrabbablePandu.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="694">
-          <caret line="48" column="21" selection-start-line="48" selection-start-column="21" selection-end-line="48" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/MyEvents.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="14" column="55" selection-start-line="14" selection-start-column="55" selection-end-line="14" selection-end-column="55" />
-          <folding>
-            <marker date="1578573883579" expanded="false" signature="6:92" ph="..." />
-            <marker date="1578573883579" expanded="true" signature="132:523" ph="{...}" />
-            <marker date="1578573883579" expanded="true" signature="259:409" ph="{...}" />
-            <marker date="1578573883579" expanded="true" signature="300:403" ph="{...}" />
-            <marker date="1578573883579" expanded="true" signature="485:516" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Oculus/VR/Scripts/Util/OVRGrabbable.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="235">
-          <caret line="114" column="7" selection-start-line="114" selection-start-column="7" selection-end-line="114" selection-end-column="7" />
-          <folding>
-            <marker date="1578074407838" expanded="true" signature="0:971" ph="/* Copyright : Copyright (c) Facebook Technologies, LLC and its affiliates. All rights reserved. ... */" />
-            <marker date="1578074407838" expanded="false" signature="979:1005" ph="..." />
-            <marker date="1578074407838" expanded="true" signature="1007:1095" ph="/// An object that can be grabbed and thrown by OVRGrabber. ... " />
-            <marker date="1578074407838" expanded="true" signature="1137:4832" ph="{...}" />
-            <marker date="1578074407838" expanded="true" signature="1608:1688" ph="/// If true, the object can currently be grabbed. ... " />
-            <marker date="1578074407838" expanded="true" signature="1721:1776" ph="{...}" />
-            <marker date="1578074407838" expanded="true" signature="1779:1855" ph="/// If true, the object is currently grabbed. ... " />
-            <marker date="1578074407838" expanded="true" signature="1881:1937" ph="{...}" />
-            <marker date="1578074407838" expanded="true" signature="1940:2049" ph="/// If true, the object's position will snap to match snapOffset when grabbed. ... " />
-            <marker date="1578074407838" expanded="true" signature="2078:2129" ph="{...}" />
-            <marker date="1578074407838" expanded="true" signature="2132:2244" ph="/// If true, the object's orientation will snap to match snapOffset when grabbed. ... " />
-            <marker date="1578074407838" expanded="true" signature="2276:2330" ph="{...}" />
-            <marker date="1578074407838" expanded="true" signature="2333:2445" ph="/// An offset relative to the OVRGrabber where this object can snap when grabbed. ... " />
-            <marker date="1578074407838" expanded="true" signature="2477:2526" ph="{...}" />
-            <marker date="1578074407838" expanded="true" signature="2529:2618" ph="/// Returns the OVRGrabber currently grabbing this object. ... " />
-            <marker date="1578074407838" expanded="true" signature="2650:2698" ph="{...}" />
-            <marker date="1578074407838" expanded="true" signature="2701:2783" ph="/// The transform at which this object was grabbed. ... " />
-            <marker date="1578074407838" expanded="true" signature="2821:2885" ph="{...}" />
-            <marker date="1578074407838" expanded="true" signature="2888:2987" ph="/// The Rigidbody of the collider that was used to grab this object. ... " />
-            <marker date="1578074407838" expanded="true" signature="3025:3097" ph="{...}" />
-            <marker date="1578074407838" expanded="true" signature="3100:3185" ph="/// The contact point(s) where the object was grabbed. ... " />
-            <marker date="1578074407838" expanded="true" signature="3218:3267" ph="{...}" />
-            <marker date="1578074407838" expanded="true" signature="3270:3350" ph="/// Notifies the object that it has been grabbed. ... " />
-            <marker date="1578074407838" expanded="true" signature="3418:3597" ph="{...}" />
-            <marker date="1578074407838" expanded="true" signature="3600:3681" ph="/// Notifies the object that it has been released. ... " />
-            <marker date="1578074407838" expanded="true" signature="3759:4023" ph="{...}" />
-            <marker date="1578074407838" expanded="true" signature="4041:4520" ph="{...}" />
-            <marker date="1578074407838" expanded="true" signature="4085:4514" ph="{...}" />
-            <marker date="1578074407838" expanded="true" signature="4243:4403" ph="{...}" />
-            <marker date="1578074407838" expanded="true" signature="4556:4636" ph="{...}" />
-            <marker date="1578074407838" expanded="true" signature="4658:4830" ph="{...}" />
-            <marker date="1578074407838" expanded="true" signature="4697:4824" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/OVRGrabbablePUNOwnershipChange.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="609">
-          <caret line="43" column="38" lean-forward="true" selection-start-line="43" selection-start-column="38" selection-end-line="43" selection-end-column="38" />
-          <folding>
-            <marker date="1578571849906" expanded="true" signature="0:971" ph="/* Copyright : Copyright (c) Facebook Technologies, LLC and its affiliates. All rights reserved. ... */" />
-            <marker date="1578571849906" expanded="false" signature="979:1087" ph="..." />
-            <marker date="1578571849906" expanded="true" signature="1089:1196" ph="/// An object that can be grabbed and thrown by OVRGrabber. ... " />
-            <marker date="1578571849906" expanded="true" signature="1256:1794" ph="{...}" />
-            <marker date="1578571849906" expanded="true" signature="1339:1419" ph="/* If true, the object can currently be grabbed. ... */" />
-            <marker date="1578571849906" expanded="true" signature="1339:1503" ph="/// If true, the object can currently be grabbed. ... " />
-            <marker date="1578571849906" expanded="true" signature="1423:1503" ph="/* Notifies the object that it has been grabbed. ... */" />
-            <marker date="1578571849906" expanded="true" signature="1573:1683" ph="{...}" />
-            <marker date="1578571849906" expanded="true" signature="1718:1787" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/VRRig.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="24" column="11" selection-start-line="24" selection-start-column="11" selection-end-line="24" selection-end-column="11" />
-          <folding>
-            <marker date="1576774803552" expanded="false" signature="6:78" ph="..." />
-            <marker date="1576774803552" expanded="true" signature="120:477" ph="{...}" />
-            <marker date="1576774803552" expanded="true" signature="294:475" ph="{...}" />
-            <marker date="1576774803552" expanded="true" signature="513:1271" ph="{...}" />
-            <marker date="1576774803552" expanded="true" signature="780:862" ph="{...}" />
-            <marker date="1576774803552" expanded="true" signature="924:1269" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/OVRGrabbablePandu.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/Photon/PhotonUnityNetworking/Code/PhotonNetwork.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-357">
@@ -2536,38 +2389,106 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/PhotonRoom.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/Oculus/VR/LICENSE.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="728">
-          <caret line="115" column="25" selection-start-line="115" selection-start-column="25" selection-end-line="115" selection-end-column="25" />
+        <state relative-caret-position="-2771" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Oculus/VR/NOTICE.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Oculus/VR/Scripts/Util/OVRGrabbable.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1921">
+          <caret line="114" column="7" selection-start-line="114" selection-start-column="7" selection-end-line="114" selection-end-column="7" />
           <folding>
-            <marker date="1578506737664" expanded="false" signature="6:185" ph="..." />
-            <marker date="1578506737664" expanded="true" signature="256:2879" ph="{...}" />
-            <marker date="1578506737664" expanded="true" signature="462:528" ph="[...]" />
-            <marker date="1578506737664" expanded="true" signature="587:1458" ph="{...}" />
-            <marker date="1578506737664" expanded="true" signature="656:1005" ph="{...}" />
-            <marker date="1578506737664" expanded="true" signature="747:994" ph="{...}" />
-            <marker date="1578506737664" expanded="true" signature="1018:1367" ph="{...}" />
-            <marker date="1578506737664" expanded="true" signature="1069:1357" ph="{...}" />
-            <marker date="1578506737664" expanded="true" signature="1225:1325" ph="{...}" />
-            <marker date="1578506737664" expanded="true" signature="1501:1643" ph="{...}" />
-            <marker date="1578506737664" expanded="true" signature="1681:1827" ph="{...}" />
-            <marker date="1578506737664" expanded="true" signature="1868:2019" ph="{...}" />
-            <marker date="1578506737664" expanded="true" signature="2049:2163" ph="{...}" />
-            <marker date="1578506737664" expanded="true" signature="2235:2382" ph="{...}" />
-            <marker date="1578506737664" expanded="true" signature="2328:2376" ph="{...}" />
-            <marker date="1578506737664" expanded="true" signature="2415:2671" ph="{...}" />
-            <marker date="1578506737664" expanded="true" signature="2708:2746" ph="{...}" />
-            <marker date="1578506737664" expanded="true" signature="2778:2811" ph="{...}" />
-            <marker date="1578506737664" expanded="true" signature="2843:2876" ph="{...}" />
+            <marker date="1578074407838" expanded="true" signature="0:971" ph="/* Copyright : Copyright (c) Facebook Technologies, LLC and its affiliates. All rights reserved. ... */" />
+            <marker date="1578074407838" expanded="false" signature="979:1005" ph="..." />
+            <marker date="1578074407838" expanded="true" signature="1007:1095" ph="/// An object that can be grabbed and thrown by OVRGrabber. ... " />
+            <marker date="1578074407838" expanded="true" signature="1137:4832" ph="{...}" />
+            <marker date="1578074407838" expanded="true" signature="1608:1688" ph="/// If true, the object can currently be grabbed. ... " />
+            <marker date="1578074407838" expanded="true" signature="1721:1776" ph="{...}" />
+            <marker date="1578074407838" expanded="true" signature="1779:1855" ph="/// If true, the object is currently grabbed. ... " />
+            <marker date="1578074407838" expanded="true" signature="1881:1937" ph="{...}" />
+            <marker date="1578074407838" expanded="true" signature="1940:2049" ph="/// If true, the object's position will snap to match snapOffset when grabbed. ... " />
+            <marker date="1578074407838" expanded="true" signature="2078:2129" ph="{...}" />
+            <marker date="1578074407838" expanded="true" signature="2132:2244" ph="/// If true, the object's orientation will snap to match snapOffset when grabbed. ... " />
+            <marker date="1578074407838" expanded="true" signature="2276:2330" ph="{...}" />
+            <marker date="1578074407838" expanded="true" signature="2333:2445" ph="/// An offset relative to the OVRGrabber where this object can snap when grabbed. ... " />
+            <marker date="1578074407838" expanded="true" signature="2477:2526" ph="{...}" />
+            <marker date="1578074407838" expanded="true" signature="2529:2618" ph="/// Returns the OVRGrabber currently grabbing this object. ... " />
+            <marker date="1578074407838" expanded="true" signature="2650:2698" ph="{...}" />
+            <marker date="1578074407838" expanded="true" signature="2701:2783" ph="/// The transform at which this object was grabbed. ... " />
+            <marker date="1578074407838" expanded="true" signature="2821:2885" ph="{...}" />
+            <marker date="1578074407838" expanded="true" signature="2888:2987" ph="/// The Rigidbody of the collider that was used to grab this object. ... " />
+            <marker date="1578074407838" expanded="true" signature="3025:3097" ph="{...}" />
+            <marker date="1578074407838" expanded="true" signature="3100:3185" ph="/// The contact point(s) where the object was grabbed. ... " />
+            <marker date="1578074407838" expanded="true" signature="3218:3267" ph="{...}" />
+            <marker date="1578074407838" expanded="true" signature="3270:3350" ph="/// Notifies the object that it has been grabbed. ... " />
+            <marker date="1578074407838" expanded="true" signature="3418:3597" ph="{...}" />
+            <marker date="1578074407838" expanded="true" signature="3600:3681" ph="/// Notifies the object that it has been released. ... " />
+            <marker date="1578074407838" expanded="true" signature="3759:4023" ph="{...}" />
+            <marker date="1578074407838" expanded="true" signature="4041:4520" ph="{...}" />
+            <marker date="1578074407838" expanded="true" signature="4085:4514" ph="{...}" />
+            <marker date="1578074407838" expanded="true" signature="4243:4403" ph="{...}" />
+            <marker date="1578074407838" expanded="true" signature="4556:4636" ph="{...}" />
+            <marker date="1578074407838" expanded="true" signature="4658:4830" ph="{...}" />
+            <marker date="1578074407838" expanded="true" signature="4697:4824" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/OVRGrabbablePUNOwnershipChange.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="43" column="38" selection-start-line="43" selection-start-column="38" selection-end-line="43" selection-end-column="38" />
+          <folding>
+            <marker date="1578571849906" expanded="true" signature="0:971" ph="/* Copyright : Copyright (c) Facebook Technologies, LLC and its affiliates. All rights reserved. ... */" />
+            <marker date="1578571849906" expanded="false" signature="979:1087" ph="..." />
+            <marker date="1578571849906" expanded="true" signature="1089:1196" ph="/// An object that can be grabbed and thrown by OVRGrabber. ... " />
+            <marker date="1578571849906" expanded="true" signature="1256:1794" ph="{...}" />
+            <marker date="1578571849906" expanded="true" signature="1339:1419" ph="/* If true, the object can currently be grabbed. ... */" />
+            <marker date="1578571849906" expanded="true" signature="1339:1503" ph="/// If true, the object can currently be grabbed. ... " />
+            <marker date="1578571849906" expanded="true" signature="1423:1503" ph="/* Notifies the object that it has been grabbed. ... */" />
+            <marker date="1578571849906" expanded="true" signature="1573:1683" ph="{...}" />
+            <marker date="1578571849906" expanded="true" signature="1718:1787" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/VRRig.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="24" column="11" selection-start-line="24" selection-start-column="11" selection-end-line="24" selection-end-column="11" />
+          <folding>
+            <marker date="1576774803552" expanded="false" signature="6:78" ph="..." />
+            <marker date="1576774803552" expanded="true" signature="120:477" ph="{...}" />
+            <marker date="1576774803552" expanded="true" signature="294:475" ph="{...}" />
+            <marker date="1576774803552" expanded="true" signature="513:1271" ph="{...}" />
+            <marker date="1576774803552" expanded="true" signature="780:862" ph="{...}" />
+            <marker date="1576774803552" expanded="true" signature="924:1269" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/MyEvents.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="14" column="55" selection-start-line="14" selection-start-column="55" selection-end-line="14" selection-end-column="55" />
+          <folding>
+            <marker date="1578573883579" expanded="false" signature="6:92" ph="..." />
+            <marker date="1578573883579" expanded="true" signature="132:523" ph="{...}" />
+            <marker date="1578573883579" expanded="true" signature="259:409" ph="{...}" />
+            <marker date="1578573883579" expanded="true" signature="300:403" ph="{...}" />
+            <marker date="1578573883579" expanded="true" signature="485:516" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/GameControllers/PhotonPlayer.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="26" column="39" lean-forward="true" selection-start-line="26" selection-start-column="39" selection-end-line="26" selection-end-column="39" />
+        <state relative-caret-position="374">
+          <caret line="26" column="39" selection-start-line="26" selection-start-column="39" selection-end-line="26" selection-end-column="39" />
           <folding>
             <marker date="1578573883642" expanded="false" signature="6:113" ph="..." />
             <marker date="1578573883642" expanded="true" signature="155:2398" ph="{...}" />
@@ -2597,31 +2518,203 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Oculus/VR/LICENSE.txt">
+    <entry file="file://$PROJECT_DIR$/Assets/Oculus/VR/Oculus.VR.asmdef">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2771" />
+        <state>
+          <folding>
+            <marker date="1576696844905" expanded="true" signature="0:480" ph="{...}" />
+            <marker date="1576696844905" expanded="true" signature="192:478" ph="[...]" />
+            <marker date="1576696844905" expanded="true" signature="202:334" ph="{...}" />
+            <marker date="1576696844905" expanded="true" signature="344:472" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/PhotonLobby.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="56" column="5" lean-forward="true" selection-start-line="56" selection-start-column="5" selection-end-line="56" selection-end-column="5" />
+          <folding>
+            <marker date="1578661032269" expanded="true" signature="6:94" ph="..." />
+            <marker date="1578661032269" expanded="true" signature="148:2028" ph="{...}" />
+            <marker date="1578661032269" expanded="true" signature="339:373" ph="{...}" />
+            <marker date="1578661032269" expanded="true" signature="444:545" ph="{...}" />
+            <marker date="1578661032269" expanded="true" signature="593:835" ph="{...}" />
+            <marker date="1578661032269" expanded="true" signature="914:1018" ph="{...}" />
+            <marker date="1578661032269" expanded="true" signature="1097:1196" ph="{...}" />
+            <marker date="1578661032269" expanded="true" signature="1228:1507" ph="{...}" />
+            <marker date="1578661032269" expanded="true" signature="1549:1722" ph="{...}" />
+            <marker date="1578661032269" expanded="true" signature="1759:1811" ph="{...}" />
+            <marker date="1578661032269" expanded="true" signature="1852:2020" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/PhotonRoom.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="25" column="29" lean-forward="true" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
+          <folding>
+            <marker date="1578660907666" expanded="false" signature="6:185" ph="..." />
+            <marker date="1578660907666" expanded="true" signature="256:2880" ph="{...}" />
+            <marker date="1578660907666" expanded="true" signature="462:528" ph="[...]" />
+            <marker date="1578660907666" expanded="true" signature="588:1459" ph="{...}" />
+            <marker date="1578660907666" expanded="true" signature="657:1006" ph="{...}" />
+            <marker date="1578660907666" expanded="true" signature="748:995" ph="{...}" />
+            <marker date="1578660907666" expanded="true" signature="1019:1368" ph="{...}" />
+            <marker date="1578660907666" expanded="true" signature="1070:1358" ph="{...}" />
+            <marker date="1578660907666" expanded="true" signature="1226:1326" ph="{...}" />
+            <marker date="1578660907666" expanded="true" signature="1502:1644" ph="{...}" />
+            <marker date="1578660907666" expanded="true" signature="1682:1828" ph="{...}" />
+            <marker date="1578660907666" expanded="true" signature="1869:2020" ph="{...}" />
+            <marker date="1578660907666" expanded="true" signature="2050:2164" ph="{...}" />
+            <marker date="1578660907666" expanded="true" signature="2236:2383" ph="{...}" />
+            <marker date="1578660907666" expanded="true" signature="2329:2377" ph="{...}" />
+            <marker date="1578660907666" expanded="true" signature="2416:2672" ph="{...}" />
+            <marker date="1578660907666" expanded="true" signature="2709:2747" ph="{...}" />
+            <marker date="1578660907666" expanded="true" signature="2779:2812" ph="{...}" />
+            <marker date="1578660907666" expanded="true" signature="2844:2877" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/VideoPlayerPUN.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1578338614764" expanded="false" signature="7:62" ph="..." />
+            <marker date="1578338614764" expanded="true" signature="111:604" ph="{...}" />
+            <marker date="1578338614764" expanded="true" signature="225:334" ph="{...}" />
+            <marker date="1578338614764" expanded="true" signature="388:458" ph="{...}" />
+            <marker date="1578338614764" expanded="true" signature="505:596" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Photon/PhotonUnityNetworking/Code/PhotonView.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="864">
+          <caret line="367" selection-start-line="367" selection-end-line="367" />
+          <folding>
+            <marker date="1576696845210" expanded="true" signature="0:418" ph="/* Contains the PhotonView class. ... */" />
+            <marker date="1576696845210" expanded="true" signature="441:22197" ph="{...}" />
+            <marker date="1576696845210" expanded="false" signature="454:631" ph="..." />
+            <marker date="1576696845210" expanded="true" signature="650:847" ph="/// A PhotonView identifies an object across the network (viewID) and configures how the controlling client updat ... " />
+            <marker date="1576696845210" expanded="true" signature="947:22195" ph="{...}" />
+            <marker date="1576696845210" expanded="true" signature="1048:1160" ph="{...}" />
+            <marker date="1576696845210" expanded="true" signature="1745:2059" ph="/// Flag to check if ownership of this photonView was set during the lifecycle. Used for checking when joining la ... " />
+            <marker date="1576696845210" expanded="true" signature="2138:2468" ph="/* NOTE: this is now an integer because unity won't serialize short (needed for instantiation). we SEND only a sh ... */" />
+            <marker date="1576696845210" expanded="true" signature="2494:2841" ph="{...}" />
+            <marker date="1576696845210" expanded="true" signature="2520:2785" ph="{...}" />
+            <marker date="1576696845210" expanded="true" signature="2620:2729" ph="{...}" />
+            <marker date="1576696845210" expanded="true" signature="3057:3231" ph="/// This is the InstantiationData that was passed when calling PhotonNetwork.Instantiate* (if that was used to sp ... " />
+            <marker date="1576696845210" expanded="true" signature="3273:3921" ph="{...}" />
+            <marker date="1576696845210" expanded="true" signature="3299:3854" ph="{...}" />
+            <marker date="1576696845210" expanded="true" signature="3349:3788" ph="{...}" />
+            <marker date="1576696845210" expanded="true" signature="3388:3634" ph="/* even though viewID and instantiationID are setup before the GO goes live, this data can't be set. as workaroun ... */" />
+            <marker date="1576696845210" expanded="true" signature="3982:4063" ph="/// For internal use only, don't use ... " />
+            <marker date="1576696845210" expanded="true" signature="4197:4278" ph="/// For internal use only, don't use ... " />
+            <marker date="1576696845210" expanded="true" signature="4463:4852" ph="///Defines if ownership of this PhotonView is fixed, can be requested or simply taken. ... " />
+            <marker date="1576696845210" expanded="true" signature="5104:5308" ph="/// The ID of the PhotonView. Identifies it in a networked game (per room). ... " />
+            <marker date="1576696845210" expanded="true" signature="5334:6451" ph="{...}" />
+            <marker date="1576696845210" expanded="true" signature="5405:6441" ph="{...}" />
+            <marker date="1576696845210" expanded="true" signature="5669:6060" ph="/* int oldValue = this.viewIdField; ... */" />
+            <marker date="1576696845210" expanded="true" signature="6225:6321" ph="{...}" />
+            <marker date="1576696845210" expanded="true" signature="6643:7105" ph="///True if the PhotonView was loaded with the scene (game object) or instantiated with InstantiateSceneObject. ... " />
+            <marker date="1576696845210" expanded="true" signature="7137:7210" ph="{...}" />
+            <marker date="1576696845210" expanded="true" signature="7220:7875" ph="/// The owner of a PhotonView is the player who created the GameObject with that view. Objects in the scene don't ... " />
+            <marker date="1576696845210" expanded="true" signature="7903:8235" ph="{...}" />
+            <marker date="1576696845210" expanded="true" signature="7929:8225" ph="{...}" />
+            <marker date="1576696845210" expanded="true" signature="7960:8089" ph="/* TODO cache Owner ... */" />
+            <marker date="1576696845210" expanded="true" signature="8268:8449" ph="{...}" />
+            <marker date="1576696845210" expanded="true" signature="8483:8778" ph="{...}" />
+            <marker date="1576696845210" expanded="true" signature="8509:8768" ph="{...}" />
+            <marker date="1576696845210" expanded="true" signature="8816:8987" ph="{...}" />
+            <marker date="1576696845210" expanded="true" signature="9022:9115" ph="{...}" />
+            <marker date="1576696845210" expanded="true" signature="9150:9244" ph="{...}" />
+            <marker date="1576696845210" expanded="true" signature="9254:9647" ph="/// True if the PhotonView is &quot;mine&quot; and can be controlled by this client. ... " />
+            <marker date="1576696845210" expanded="true" signature="9674:9991" ph="{...}" />
+            <marker date="1576696845210" expanded="true" signature="9700:9981" ph="{...}" />
+            <marker date="1576696845210" expanded="true" signature="10391:10801" ph="{...}" />
+            <marker date="1576696845210" expanded="true" signature="10435:10756" ph="{...}" />
+            <marker date="1576696845210" expanded="true" signature="10847:11391" ph="{...}" />
+            <marker date="1576696845210" expanded="true" signature="10905:11381" ph="{...}" />
+            <marker date="1576696845210" expanded="true" signature="11152:11367" ph="{...}" />
+            <marker date="1576696845210" expanded="true" signature="11401:11978" ph="/// Depending on the PhotonView's OwnershipTransfer setting, any client can request to become owner of the Photon ... " />
+            <marker date="1576696845210" expanded="true" signature="12017:12108" ph="{...}" />
+            <marker date="1576696845210" expanded="true" signature="12118:12406" ph="/// Transfers the ownership of this PhotonView (and GameObject) to another player. ... " />
+            <marker date="1576696845210" expanded="true" signature="12461:12539" ph="{...}" />
+            <marker date="1576696845210" expanded="true" signature="12549:12837" ph="/// Transfers the ownership of this PhotonView (and GameObject) to another player. ... " />
+            <marker date="1576696845210" expanded="true" signature="12891:13107" ph="{...}" />
+            <marker date="1576696845210" expanded="true" signature="13188:13512" ph="{...}" />
+            <marker date="1576696845210" expanded="true" signature="13284:13502" ph="{...}" />
+            <marker date="1576696845210" expanded="true" signature="13370:13488" ph="{...}" />
+            <marker date="1576696845210" expanded="true" signature="13594:13920" ph="{...}" />
+            <marker date="1576696845210" expanded="true" signature="13690:13910" ph="{...}" />
+            <marker date="1576696845210" expanded="true" signature="13776:13896" ph="{...}" />
+            <marker date="1576696845210" expanded="true" signature="14040:14473" ph="{...}" />
+            <marker date="1576696845210" expanded="true" signature="14155:14247" ph="{...}" />
+            <marker date="1576696845210" expanded="true" signature="14264:14463" ph="{...}" />
+            <marker date="1576696845210" expanded="true" signature="14591:15023" ph="{...}" />
+            <marker date="1576696845210" expanded="true" signature="14706:14798" ph="{...}" />
+            <marker date="1576696845210" expanded="true" signature="14815:15013" ph="{...}" />
+            <marker date="1576696845210" expanded="true" signature="15034:15623" ph="/// Can be used to refesh the list of MonoBehaviours on this GameObject while PhotonNetwork.UseRpcMonoBehaviourCa ... " />
+            <marker date="1576696845210" expanded="true" signature="15674:15768" ph="{...}" />
+            <marker date="1576696845210" expanded="true" signature="15779:17069" ph="/// Call a RPC method of this GameObject on remote clients of this room (or on all, inclunding this client). ... " />
+            <marker date="1576696845210" expanded="true" signature="17158:17254" ph="{...}" />
+            <marker date="1576696845210" expanded="true" signature="17264:18594" ph="/// Call a RPC method of this GameObject on remote clients of this room (or on all, inclunding this client). ... " />
+            <marker date="1576696845210" expanded="true" signature="18703:18801" ph="{...}" />
+            <marker date="1576696845210" expanded="true" signature="18811:19928" ph="/// Call a RPC method of this GameObject on remote clients of this room (or on all, inclunding this client). ... " />
+            <marker date="1576696845210" expanded="true" signature="20020:20122" ph="{...}" />
+            <marker date="1576696845210" expanded="true" signature="20132:21289" ph="/// Call a RPC method of this GameObject on remote clients of this room (or on all, inclunding this client). ... " />
+            <marker date="1576696845210" expanded="true" signature="21401:21505" ph="{...}" />
+            <marker date="1576696845210" expanded="true" signature="21564:21641" ph="{...}" />
+            <marker date="1576696845210" expanded="true" signature="21699:21774" ph="{...}" />
+            <marker date="1576696845210" expanded="true" signature="21825:21901" ph="{...}" />
+            <marker date="1576696845210" expanded="true" signature="21944:22189" ph="{...}" />
+          </folding>
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/TouchButtonAction.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="609">
-          <caret line="110" column="61" lean-forward="true" selection-start-line="110" selection-start-column="61" selection-end-line="110" selection-end-column="61" />
+        <state relative-caret-position="490">
+          <caret line="125" column="59" selection-start-line="125" selection-start-column="59" selection-end-line="125" selection-end-column="59" />
           <folding>
-            <marker date="1578576860697" expanded="false" signature="6:121" ph="..." />
-            <marker date="1578576860697" expanded="true" signature="173:3330" ph="{...}" />
-            <marker date="1578576860697" expanded="true" signature="449:631" ph="{...}" />
-            <marker date="1578576860697" expanded="true" signature="681:1602" ph="{...}" />
-            <marker date="1578576860697" expanded="true" signature="984:1279" ph="{...}" />
-            <marker date="1578576860697" expanded="true" signature="1279:1594" ph="{...}" />
-            <marker date="1578576860697" expanded="true" signature="1635:1735" ph="{...}" />
-            <marker date="1578576860697" expanded="true" signature="1780:1996" ph="{...}" />
-            <marker date="1578576860697" expanded="true" signature="1815:1902" ph="/* for (int i = 0; i &lt; 1; i++) { ... */" />
-            <marker date="1578576860697" expanded="true" signature="2051:2176" ph="{...}" />
-            <marker date="1578576860697" expanded="true" signature="2243:2516" ph="{...}" />
-            <marker date="1578576860697" expanded="true" signature="2522:2769" ph="/* private void Update() { ... */" />
-            <marker date="1578576860697" expanded="true" signature="2775:3003" ph="/* private System.Action SyncVideoNewPlayer(double time, bool on) { ... */" />
-            <marker date="1578576860697" expanded="true" signature="3042:3158" ph="{...}" />
-            <marker date="1578576860697" expanded="true" signature="3200:3318" ph="{...}" />
+            <marker date="1578668497462" expanded="false" signature="6:121" ph="..." />
+            <marker date="1578668497462" expanded="true" signature="173:4087" ph="{...}" />
+            <marker date="1578668497462" expanded="true" signature="449:631" ph="{...}" />
+            <marker date="1578668497462" expanded="true" signature="681:1602" ph="{...}" />
+            <marker date="1578668497462" expanded="true" signature="984:1279" ph="{...}" />
+            <marker date="1578668497462" expanded="true" signature="1279:1594" ph="{...}" />
+            <marker date="1578668497462" expanded="true" signature="1635:1735" ph="{...}" />
+            <marker date="1578668497462" expanded="true" signature="1780:1996" ph="{...}" />
+            <marker date="1578668497462" expanded="true" signature="1815:1902" ph="/* for (int i = 0; i &lt; 1; i++) { ... */" />
+            <marker date="1578668497462" expanded="true" signature="2051:2257" ph="{...}" />
+            <marker date="1578668497462" expanded="true" signature="2324:2640" ph="{...}" />
+            <marker date="1578668497462" expanded="true" signature="2650:2661" ph="/* [PunRPC] ... */" />
+            <marker date="1578668497462" expanded="true" signature="2667:2914" ph="/* private void Update() { ... */" />
+            <marker date="1578668497462" expanded="true" signature="2920:3148" ph="/* private System.Action SyncVideoNewPlayer(double time, bool on) { ... */" />
+            <marker date="1578668497462" expanded="true" signature="3187:3303" ph="{...}" />
+            <marker date="1578668497462" expanded="true" signature="3345:3592" ph="{...}" />
+            <marker date="1578668497462" expanded="true" signature="3648:4075" ph="{...}" />
+            <marker date="1578668497462" expanded="true" signature="3671:3861" ph="{...}" />
+            <marker date="1578668497462" expanded="true" signature="3861:4069" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/SyncVidos.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="22" column="4" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="4" />
+          <folding>
+            <marker date="1578668497510" expanded="false" signature="6:96" ph="..." />
+            <marker date="1578668497510" expanded="true" signature="181:646" ph="{...}" />
+            <marker date="1578668497510" expanded="true" signature="246:304" ph="{...}" />
+            <marker date="1578668497510" expanded="true" signature="389:636" ph="{...}" />
+            <marker date="1578668497510" expanded="true" signature="421:492" ph="{...}" />
+            <marker date="1578668497510" expanded="true" signature="519:630" ph="{...}" />
           </folding>
         </state>
       </provider>

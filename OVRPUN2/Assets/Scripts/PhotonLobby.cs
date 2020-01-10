@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections;
-using System.Collections.Generic;
-using Photon.Pun;
+﻿using Photon.Pun;
 using Photon.Realtime;
 using UnityEngine;
 using Random = UnityEngine.Random;
@@ -28,7 +25,7 @@ public class PhotonLobby : MonoBehaviourPunCallbacks
 
     public override void OnConnectedToMaster()
     {
-        Debug.Log("Player jas connected to the Photon master server");
+        Debug.Log("Player has connected to the Photon master server");
         //All the clients will load to the same scene as the master
         PhotonNetwork.AutomaticallySyncScene = true;
         battleButton.SetActive(true);
@@ -58,7 +55,7 @@ public class PhotonLobby : MonoBehaviourPunCallbacks
 
     public void OnBattlerButtonClicked()
     {
-        Debug.Log("Batlle button clicked");
+        Debug.Log("Battle button clicked");
         battleButton.SetActive(false);
         cancelButton.SetActive(true);
         PhotonNetwork.JoinRandomRoom();

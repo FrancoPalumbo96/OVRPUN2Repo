@@ -1037,6 +1037,7 @@
           <e p="VideoPlayerPUN.cs" t="Include" />
           <e p="VRRig.cs" t="Include" />
         </e>
+        <e p="SyncVidos.cs" t="Include" />
         <e p="TouchButtonAction.cs" t="Include" />
       </e>
       <e p="Library" t="ExcludeRecursive" />

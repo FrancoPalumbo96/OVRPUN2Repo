@@ -23,7 +23,7 @@ public class PhotonRoom : MonoBehaviourPunCallbacks, IInRoomCallbacks
 
     [Tooltip("0 = Robot Player \n" +
              "1 = Ghost Player")]
-    public int selectPlayer;
+    private int selectPlayer;
     
     private void Awake()
     {

@@ -74,21 +74,28 @@ public class TouchButtonAction : MonoBehaviourPun {
     private void SyncVideo(double time, bool on) {
         Debug.LogWarning("Sync video executed");
 
-        photonView.RPC("setVideoTime", RpcTarget.Others, time, on);
+        photonView.RPC("setVideoTime", RpcTarget.AllViaServer, time, on);
+        photonView.RPC("setVideoTime", RpcTarget.MasterClient, time, on);
+
     }
 
     [PunRPC]
     private void setVideoTime(double time, bool on) {
-        videoPlayer.time = time;
         if(on)
             videoPlayer.Play();
         else 
             videoPlayer.Pause();
-        
+
+        ChangeButtonStatus(on);
+        videoPlayer.time = time;
+        isOn = on;
         Debug.LogWarning("Video Time: " + videoPlayer.time);
         Debug.LogWarning("Video Status: " + videoPlayer.isPlaying);
 
     }
+    
+    /* 
+    }*/
 
     /*private void Update() {
         if (!base.photonView.IsMine) return;
@@ -114,7 +121,22 @@ public class TouchButtonAction : MonoBehaviourPun {
     [PunRPC]
     private void SendRPC() {
         Debug.LogWarning("Send rpc was executed");
+        Debug.LogWarning("Video Time: " + videoPlayer.time);
+        Debug.LogWarning("Video Status: " + videoPlayer.isPlaying);
         SyncVideo(videoPlayer.time, videoPlayer.isPlaying);
+    }
+    
+    private void ChangeButtonStatus(bool isPress) {
+        if (isPress) {
+            GetComponent<Renderer>().material.color = Color.red;
+            Vector3 pos = transform.position;
+            transform.position = new Vector3(pos.x, yOnPos, pos.z);
+        }
+        else {
+            GetComponent<Renderer>().material.color = Color.green;
+            Vector3 pos = transform.position;
+            transform.position = new Vector3(pos.x, yOffPoss, pos.z);
+        }
     }
     
     
