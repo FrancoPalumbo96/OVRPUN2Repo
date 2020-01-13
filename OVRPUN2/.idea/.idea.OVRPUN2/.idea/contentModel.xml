@@ -7,6 +7,7 @@
       <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
+        <e p="LazerActivator.cs" t="Include" />
         <e p="MyEvents.cs" t="Include" />
         <e p="Oculus" t="Include">
           <e p="AudioManager" t="Include">
@@ -662,6 +663,24 @@
             </e>
           </e>
         </e>
+        <e p="OVRInputSelection" t="Include">
+          <e p="InputSystem" t="Include">
+            <e p="OVRInputHelpers.cs" t="Include" />
+            <e p="OVRInputModule.cs" t="Include" />
+            <e p="OVRPhysicsRaycaster.cs" t="Include" />
+            <e p="OVRPointerVisualizer.cs" t="Include" />
+            <e p="OVRRawRaycaster.cs" t="Include" />
+            <e p="OVRRaycaster.cs" t="Include" />
+            <e p="OVRRayPointerEventData.cs" t="Include" />
+          </e>
+          <e p="Scripts" t="Include">
+            <e p="BackButtonLogic.cs" t="Include" />
+            <e p="MainMenuInteraction.cs" t="Include" />
+            <e p="PhysicsInteraction.cs" t="Include" />
+            <e p="RawInteraction.cs" t="Include" />
+            <e p="UIInteraction.cs" t="Include" />
+          </e>
+        </e>
         <e p="Photon" t="Include">
           <e p="PhotonChat" t="Include">
             <e p="Code" t="Include">
@@ -1037,6 +1056,7 @@
           <e p="VideoPlayerPUN.cs" t="Include" />
           <e p="VRRig.cs" t="Include" />
         </e>
+        <e p="SerializationTest.cs" t="Include" />
         <e p="SyncVidos.cs" t="Include" />
         <e p="TouchButtonAction.cs" t="Include" />
       </e>
