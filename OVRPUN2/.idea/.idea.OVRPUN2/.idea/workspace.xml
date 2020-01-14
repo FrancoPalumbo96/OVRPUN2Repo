@@ -2,79 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="de4fb3c0-53d5-472a-8f43-0a1dad565123" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.OVRPUN2/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.OVRPUN2/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.OVRPUN2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.OVRPUN2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Oculus/SampleFramework/Core/DebugUI/Scripts/LaserPointer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Oculus/SampleFramework/Core/DebugUI/Scripts/LaserPointer.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Oculus/SampleFramework/Core/Locomotion/Materials/TeleportLaser.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Oculus/SampleFramework/Core/Locomotion/Materials/TeleportLaser.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Oculus/SampleFramework/Core/TouchControllers/Materials/L_controller_MAT.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Oculus/SampleFramework/Core/TouchControllers/Materials/L_controller_MAT.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Oculus/SampleFramework/Core/TouchControllers/Materials/L_controller_gloss_MAT.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Oculus/SampleFramework/Core/TouchControllers/Materials/L_controller_gloss_MAT.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Oculus/SampleFramework/Core/TouchControllers/Materials/R_controller_MAT.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Oculus/SampleFramework/Core/TouchControllers/Materials/R_controller_MAT.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Oculus/SampleFramework/Core/TouchControllers/Models/left_touch_controller_model_skel.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Oculus/SampleFramework/Core/TouchControllers/Models/left_touch_controller_model_skel.fbx.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Oculus/SampleFramework/Core/TouchControllers/Models/right_touch_controller_model_skel.fbx.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Oculus/SampleFramework/Core/TouchControllers/Models/right_touch_controller_model_skel.fbx.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Oculus/VR/Prefabs/OVRPlayerController.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Oculus/VR/Prefabs/OVRPlayerController.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Oculus/VR/Scripts/Util/OVRControllerHelper.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Oculus/VR/Scripts/Util/OVRControllerHelper.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/PhotonPrefabs/PhotonNetworkPlayer.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/PhotonPrefabs/PhotonNetworkPlayer.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/PhotonPrefabs/PlayerAvatarRobotOVR.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/PhotonPrefabs/PlayerAvatarRobotOVR.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/MainMenuSceneQuest.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/MainMenuSceneQuest.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/TestScene_Teleport.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/TestScene_Teleport.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/InspectorExpandedItems.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/InspectorExpandedItems.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/SceneVisibilityState.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/SceneVisibilityState.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp-Editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp-Editor.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Oculus.VR.Editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Oculus.VR.Editor.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Oculus.VR.Scripts.Editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Oculus.VR.Scripts.Editor.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Oculus.VR.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Oculus.VR.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ShaderCache/EditorEncounteredVariants" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ShaderCache/EditorEncounteredVariants" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/StateCache/Hierarchy/544365-mainStage.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/Hierarchy/544365-mainStage.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/StateCache/SceneView/c7e9f1-ebdd82e75092b664fb.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/SceneView/c7e9f1-ebdd82e75092b664fb.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/StateCache/SceneView/c7e9f1-mainStage.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/SceneView/c7e9f1-mainStage.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/assetDatabase3" beforeDir="false" afterPath="$PROJECT_DIR$/Library/assetDatabase3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/03/0370871d1a940ef40a917701595becee" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/03/0370871d1a940ef40a917701595becee" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/03/0370871d1a940ef40a917701595becee.info" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/03/0370871d1a940ef40a917701595becee.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/07/07abaaa5cbaa81a48beb175e75e7d7ae.info" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/07/07abaaa5cbaa81a48beb175e75e7d7ae.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/0b/0b3b4753a9e06e14080142b1cfca80d8" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/0b/0b3b4753a9e06e14080142b1cfca80d8" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/0f/0ff51c0175f4bf74a85d0a8a5718b3d8" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/0f/0ff51c0175f4bf74a85d0a8a5718b3d8" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/0f/0ff51c0175f4bf74a85d0a8a5718b3d8.info" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/0f/0ff51c0175f4bf74a85d0a8a5718b3d8.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/14/14179725cf9421448b565469bfc84247" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/14/14179725cf9421448b565469bfc84247" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/14/14179725cf9421448b565469bfc84247.info" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/14/14179725cf9421448b565469bfc84247.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/16/165c00e6a6441ba4c928870ca72b6395" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/16/165c00e6a6441ba4c928870ca72b6395" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/16/165c00e6a6441ba4c928870ca72b6395.info" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/16/165c00e6a6441ba4c928870ca72b6395.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/1b/1bf8f52eeebe8e149b9d6e3477251532" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/1b/1bf8f52eeebe8e149b9d6e3477251532" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/1b/1bf8f52eeebe8e149b9d6e3477251532.info" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/1b/1bf8f52eeebe8e149b9d6e3477251532.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/27/270ca9aaa39af4d4bb26754fdce0c971" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/27/270ca9aaa39af4d4bb26754fdce0c971" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/27/270ca9aaa39af4d4bb26754fdce0c971.info" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/27/270ca9aaa39af4d4bb26754fdce0c971.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/3a/3adde9fa3366b0d429c83698a8a2d373" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/3a/3adde9fa3366b0d429c83698a8a2d373" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/64/64a88d13c2f2f5643b7ec8b3f0b0884d.info" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/64/64a88d13c2f2f5643b7ec8b3f0b0884d.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/7b/7b403468daf8cf741b02ad81612bacfe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/91/91772a98e38c27e41ab57541aee8ea7a" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/91/91772a98e38c27e41ab57541aee8ea7a" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/91/91772a98e38c27e41ab57541aee8ea7a.info" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/91/91772a98e38c27e41ab57541aee8ea7a.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/9b/9bb0554f2b40c3d4097f54839e9b3229.info" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/9b/9bb0554f2b40c3d4097f54839e9b3229.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/9d/9dbf6a81bc517a44daf6e5fb1c9c45c7" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/a1/a143a69b9ba876048a2869477ce281b1" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/a1/a143a69b9ba876048a2869477ce281b1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/a3/a379cec2ba497874788d17eb312c61be" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/a3/a379cec2ba497874788d17eb312c61be" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/a3/a379cec2ba497874788d17eb312c61be.info" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/a3/a379cec2ba497874788d17eb312c61be.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/a6/a6af94332b296fc4c8093299b96163dc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/ac/ac2c0339aced1b246b05a27d20e95a39" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/ac/ac2c0339aced1b246b05a27d20e95a39" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/ac/ac2c0339aced1b246b05a27d20e95a39.info" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/ac/ac2c0339aced1b246b05a27d20e95a39.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/ae/aed62bf3ae2456c408f247f96808ce96" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/ae/aed62bf3ae2456c408f247f96808ce96" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/b3/b36f4300ec314574c9f6f5a9f3961c35" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/b5/b558aa8ebb866bd4da56c536a7b4eb71" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/b5/b558aa8ebb866bd4da56c536a7b4eb71" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/cd/cd71a1d7b01b9ce47809c12672e347d0" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/cd/cd71a1d7b01b9ce47809c12672e347d0" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/cd/cd71a1d7b01b9ce47809c12672e347d0.info" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/cd/cd71a1d7b01b9ce47809c12672e347d0.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/ce/ce816f2e6abb0504092c23ed9b970dfd" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/ce/ce816f2e6abb0504092c23ed9b970dfd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/d3/d30e46603f858924984f4278778722c0.info" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/d3/d30e46603f858924984f4278778722c0.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/eb/ebdd82e75092b664fb66ea62304cfea2" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/eb/ebdd82e75092b664fb66ea62304cfea2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/eb/ebdd82e75092b664fb66ea62304cfea2.info" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/eb/ebdd82e75092b664fb66ea62304cfea2.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe0.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe0.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe2.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe2.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe3.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe3.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe4.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe4.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe5.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe5.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe6.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe6.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/Oculus.VR.Editor.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Oculus.VR.Editor.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/Oculus.VR.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Oculus.VR.csprojAssemblyReference.cache" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -593,7 +521,7 @@
       <workItem from="1578502540901" duration="5875000" />
       <workItem from="1578571591960" duration="5150000" />
       <workItem from="1578660813008" duration="6674000" />
-      <workItem from="1578917991852" duration="2968000" />
+      <workItem from="1578917991852" duration="3580000" />
     </task>
     <task id="LOCAL-00001" summary="aaaah">
       <created>1576774743314</created>
@@ -606,7 +534,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="60291000" />
+    <option name="totallyTimeSpent" value="60903000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
