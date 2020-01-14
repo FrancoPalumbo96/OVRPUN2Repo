@@ -1,12 +1,3 @@
-fileFormatVersion: 2
-guid: 7615d9f489209084094103007bd07041
-labels:
-- Metal
-- Plates
-- Basic
-NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 0
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
+version https://git-lfs.github.com/spec/v1
+oid sha256:599910231afa90cc38b0293c686bce3c79361e733110beb5186ad4867fa99eaa
+size 227
