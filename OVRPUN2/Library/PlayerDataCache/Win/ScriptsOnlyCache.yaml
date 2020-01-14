@@ -1,9 +1,16 @@
 ScriptsOnlyBuild:
   usedScripts:
     Assembly-CSharp.dll:
+    - BackButtonLogic
     - CharacterCameraConstraint
+    - ControllerSelection.OVRInputModule
+    - ControllerSelection.OVRPhysicsRaycaster
+    - ControllerSelection.OVRPointerVisualizer
+    - ControllerSelection.OVRRaycaster
     - GameSetup
     - GhostCamera
+    - LazerActivator
+    - LineRendererPhoton
     - MyEvents
     - NetworkedPlayer
     - ONSPSettings
@@ -20,6 +27,7 @@ ScriptsOnlyBuild:
     - PlayerOVRTest
     - RobotOVR
     - TouchButtonAction
+    - UIInteraction
     - VRRig
     Oculus.VR.Editor.dll:
     - OVRConfig
@@ -42,6 +50,8 @@ ScriptsOnlyBuild:
     - Photon.Pun.Demo.PunBasics.PlayerUI
     - Photon.Pun.Demo.SlotRacer.PlayerControl
     - Photon.Pun.Demo.SlotRacer.Utils.SplineWalker
+    PhotonUnityNetworking.Editor.dll:
+    - Photon.Pun.PunSceneSettings
     PhotonUnityNetworking.dll:
     - Photon.Pun.PhotonAnimatorView
     - Photon.Pun.PhotonRigidbodyView
@@ -71,6 +81,7 @@ ScriptsOnlyBuild:
     - UnityEngine.UI.Shadow
     - UnityEngine.UI.Slider
     - UnityEngine.UI.Text
+    - UnityEngine.UI.Toggle
   sceneClasses:
     Assets/Scenes/MainMenuScene.unity:
     - Class: 1
@@ -120,108 +131,122 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 10062}
     - Class: 114
-      Script: {instanceID: 10104}
+      Script: {instanceID: 10088}
+    - Class: 114
+      Script: {instanceID: 10106}
     - Class: 114
       Script: {instanceID: 10144}
     - Class: 114
-      Script: {instanceID: 10160}
+      Script: {instanceID: 10148}
     - Class: 114
-      Script: {instanceID: 10184}
+      Script: {instanceID: 10164}
     - Class: 114
-      Script: {instanceID: 10212}
+      Script: {instanceID: 10188}
     - Class: 114
-      Script: {instanceID: 10282}
+      Script: {instanceID: 10216}
     - Class: 114
-      Script: {instanceID: 10336}
+      Script: {instanceID: 10286}
     - Class: 114
-      Script: {instanceID: 10454}
+      Script: {instanceID: 10340}
     - Class: 114
-      Script: {instanceID: 10602}
+      Script: {instanceID: 10458}
     - Class: 114
-      Script: {instanceID: 10702}
+      Script: {instanceID: 10554}
     - Class: 114
-      Script: {instanceID: 10890}
+      Script: {instanceID: 10608}
     - Class: 114
-      Script: {instanceID: 10894}
+      Script: {instanceID: 10710}
     - Class: 114
-      Script: {instanceID: 10922}
+      Script: {instanceID: 10898}
     - Class: 114
-      Script: {instanceID: 10948}
+      Script: {instanceID: 10902}
     - Class: 114
-      Script: {instanceID: 10952}
+      Script: {instanceID: 10930}
     - Class: 114
-      Script: {instanceID: 11028}
+      Script: {instanceID: 10956}
     - Class: 114
-      Script: {instanceID: 11148}
+      Script: {instanceID: 10960}
     - Class: 114
-      Script: {instanceID: 11188}
+      Script: {instanceID: 11036}
     - Class: 114
-      Script: {instanceID: 11368}
+      Script: {instanceID: 11156}
     - Class: 114
-      Script: {instanceID: 11464}
+      Script: {instanceID: 11196}
     - Class: 114
-      Script: {instanceID: 11494}
+      Script: {instanceID: 11378}
     - Class: 114
-      Script: {instanceID: 11532}
+      Script: {instanceID: 11474}
     - Class: 114
-      Script: {instanceID: 11544}
+      Script: {instanceID: 11504}
     - Class: 114
-      Script: {instanceID: 11558}
+      Script: {instanceID: 11542}
     - Class: 114
-      Script: {instanceID: 11610}
+      Script: {instanceID: 11554}
     - Class: 114
-      Script: {instanceID: 11734}
+      Script: {instanceID: 11570}
     - Class: 114
-      Script: {instanceID: 11820}
+      Script: {instanceID: 11624}
     - Class: 114
-      Script: {instanceID: 11866}
+      Script: {instanceID: 11748}
     - Class: 114
-      Script: {instanceID: 11896}
+      Script: {instanceID: 11834}
     - Class: 114
-      Script: {instanceID: 11946}
+      Script: {instanceID: 11880}
     - Class: 114
-      Script: {instanceID: 12002}
+      Script: {instanceID: 11910}
     - Class: 114
-      Script: {instanceID: 12118}
+      Script: {instanceID: 11960}
     - Class: 114
-      Script: {instanceID: 12126}
+      Script: {instanceID: 12016}
     - Class: 114
-      Script: {instanceID: 12142}
+      Script: {instanceID: 12132}
     - Class: 114
-      Script: {instanceID: 12238}
+      Script: {instanceID: 12140}
     - Class: 114
-      Script: {instanceID: 12456}
+      Script: {instanceID: 12156}
     - Class: 114
-      Script: {instanceID: 12482}
+      Script: {instanceID: 12254}
     - Class: 114
-      Script: {instanceID: 12502}
+      Script: {instanceID: 12472}
     - Class: 114
-      Script: {instanceID: 12504}
+      Script: {instanceID: 12498}
     - Class: 114
-      Script: {instanceID: 12514}
+      Script: {instanceID: 12518}
     - Class: 114
-      Script: {instanceID: 12612}
+      Script: {instanceID: 12520}
     - Class: 114
-      Script: {instanceID: 12682}
+      Script: {instanceID: 12534}
     - Class: 114
-      Script: {instanceID: 12752}
+      Script: {instanceID: 12632}
     - Class: 114
-      Script: {instanceID: 12838}
+      Script: {instanceID: 12702}
     - Class: 114
-      Script: {instanceID: 12858}
+      Script: {instanceID: 12776}
     - Class: 114
-      Script: {instanceID: 13044}
+      Script: {instanceID: 12840}
     - Class: 114
-      Script: {instanceID: 13216}
+      Script: {instanceID: 12864}
     - Class: 114
-      Script: {instanceID: 13350}
+      Script: {instanceID: 12884}
     - Class: 114
-      Script: {instanceID: 13396}
+      Script: {instanceID: 13070}
     - Class: 114
-      Script: {instanceID: 13410}
+      Script: {instanceID: 13222}
     - Class: 114
-      Script: {instanceID: 13442}
+      Script: {instanceID: 13244}
+    - Class: 114
+      Script: {instanceID: 13380}
+    - Class: 114
+      Script: {instanceID: 13426}
+    - Class: 114
+      Script: {instanceID: 13440}
+    - Class: 114
+      Script: {instanceID: 13472}
+    - Class: 114
+      Script: {instanceID: 42312}
     - Class: 115
+      Script: {instanceID: 0}
+    - Class: 120
       Script: {instanceID: 0}
     - Class: 128
       Script: {instanceID: 0}
@@ -283,28 +308,46 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 9858}
     - Class: 114
-      Script: {instanceID: 10174}
+      Script: {instanceID: 10178}
     - Class: 114
-      Script: {instanceID: 10214}
+      Script: {instanceID: 10216}
     - Class: 114
-      Script: {instanceID: 10404}
+      Script: {instanceID: 10218}
     - Class: 114
-      Script: {instanceID: 11494}
+      Script: {instanceID: 10286}
     - Class: 114
-      Script: {instanceID: 11588}
+      Script: {instanceID: 10408}
     - Class: 114
-      Script: {instanceID: 11610}
+      Script: {instanceID: 11504}
     - Class: 114
-      Script: {instanceID: 11850}
+      Script: {instanceID: 11600}
     - Class: 114
-      Script: {instanceID: 12682}
+      Script: {instanceID: 11616}
     - Class: 114
-      Script: {instanceID: 12838}
+      Script: {instanceID: 11624}
     - Class: 114
-      Script: {instanceID: 13216}
+      Script: {instanceID: 11834}
+    - Class: 114
+      Script: {instanceID: 11864}
+    - Class: 114
+      Script: {instanceID: 12702}
+    - Class: 114
+      Script: {instanceID: 12740}
+    - Class: 114
+      Script: {instanceID: 12864}
+    - Class: 114
+      Script: {instanceID: 13244}
+    - Class: 114
+      Script: {instanceID: 13394}
+    - Class: 114
+      Script: {instanceID: 13440}
     - Class: 115
       Script: {instanceID: 0}
+    - Class: 128
+      Script: {instanceID: 0}
     - Class: 157
+      Script: {instanceID: 0}
+    - Class: 213
       Script: {instanceID: 0}
     - Class: 222
       Script: {instanceID: 0}
@@ -499,6 +542,12 @@ ScriptsOnlyBuild:
     className: LocomotionSampleSupport
   - hash:
       serializedVersion: 2
+      Hash: 782ecac3a0f9a9d22a4205fec2fd8f6f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: ControllerSelection
+    className: OVRPointerVisualizer
+  - hash:
+      serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
     assemblyName: Assembly-CSharp.dll
     namespaceName: Oculus.Platform.Samples.VrHoops
@@ -533,6 +582,12 @@ ScriptsOnlyBuild:
     assemblyName: Oculus.VR.dll
     namespaceName: 
     className: OVRDebugHeadController
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: BackButtonLogic
   - hash:
       serializedVersion: 2
       Hash: 2b1d1de79e4d31f1861f586502176c81
@@ -817,6 +872,12 @@ ScriptsOnlyBuild:
     className: BezierCurve
   - hash:
       serializedVersion: 2
+      Hash: 12beffd532f9c188df50d53384ec35da
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: ControllerSelection
+    className: OVRPhysicsRaycaster
+  - hash:
+      serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
     assemblyName: PhotonUnityNetworking.Demos.dll
     namespaceName: Photon.Pun.Demo.Hub
@@ -925,6 +986,12 @@ ScriptsOnlyBuild:
     className: RectMask2D
   - hash:
       serializedVersion: 2
+      Hash: d129870b34a410a865be3d82120871ca
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: RawInteraction
+  - hash:
+      serializedVersion: 2
       Hash: 3c57b8f003a609b71388600415b1d3c4
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
@@ -967,7 +1034,7 @@ ScriptsOnlyBuild:
     className: MultiAimConstraint
   - hash:
       serializedVersion: 2
-      Hash: caf27b6b72eb1c27445495431511c61a
+      Hash: c852834080a1b9196880261cf243c36f
     assemblyName: Oculus.VR.dll
     namespaceName: 
     className: OVRControllerHelper
@@ -1453,6 +1520,12 @@ ScriptsOnlyBuild:
     className: PlayerDetailsController
   - hash:
       serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: SerializationTest
+  - hash:
+      serializedVersion: 2
       Hash: 32cb18cd5ad8276bea4ff86b3a04274b
     assemblyName: Assembly-CSharp.dll
     namespaceName: OVRTouchSample
@@ -1505,6 +1578,12 @@ ScriptsOnlyBuild:
     assemblyName: Assembly-CSharp.dll
     namespaceName: OculusSampleFramework
     className: ColorGrabbable
+  - hash:
+      serializedVersion: 2
+      Hash: ae83e830e7a90c0aff918c4c2e520825
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: ControllerSelection
+    className: OVRRaycaster
   - hash:
       serializedVersion: 2
       Hash: 259988b2d867e1586634d64379c5ff81
@@ -2155,6 +2234,18 @@ ScriptsOnlyBuild:
     className: BoneRenderer
   - hash:
       serializedVersion: 2
+      Hash: 7a6d1793f9c4b9499a0b1baaf6adfaa4
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: ControllerSelection
+    className: OVRRawRaycaster
+  - hash:
+      serializedVersion: 2
+      Hash: 306b2ba5106fb001b6eebac631126143
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: ControllerSelection
+    className: PhysicsInteraction
+  - hash:
+      serializedVersion: 2
       Hash: a8d3c943d9168cbdd8596f040ff02ff4
     assemblyName: PhotonUnityNetworking.Demos.dll
     namespaceName: Photon.Pun.Demo.Asteroids
@@ -2275,6 +2366,12 @@ ScriptsOnlyBuild:
     className: OVRGridCube
   - hash:
       serializedVersion: 2
+      Hash: cb284fadb8e39645038ce8579603d518
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: UIInteraction
+  - hash:
+      serializedVersion: 2
       Hash: 88cc9df3c6fc697bfbeacd24c0d6f2d7
     assemblyName: UnityEngine.TestRunner.dll
     namespaceName: UnityEngine.TestTools
@@ -2285,6 +2382,12 @@ ScriptsOnlyBuild:
     assemblyName: PhotonUnityNetworking.Demos.dll
     namespaceName: Photon.Pun.Demo.Cockpit
     className: PlayerListView
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: SyncVidos
   - hash:
       serializedVersion: 2
       Hash: b00ce1f32326f1cd1160488ffd14965a
@@ -2303,6 +2406,12 @@ ScriptsOnlyBuild:
     assemblyName: PhotonUnityNetworking.Demos.dll
     namespaceName: Photon.Pun.Demo.Procedural
     className: ProceduralController
+  - hash:
+      serializedVersion: 2
+      Hash: f6663f59c4a6a3b5c4192715ebbadecd
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: ControllerSelection
+    className: OVRInputModule
   - hash:
       serializedVersion: 2
       Hash: c5fd97cc10b89deaf7c60af66a6b0d5a
@@ -2509,6 +2618,12 @@ ScriptsOnlyBuild:
     className: PlayModeRunnerCallback
   - hash:
       serializedVersion: 2
+      Hash: be53f94d69fa6bc7a8d5a6222b66cafe
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: LazerActivator
+  - hash:
+      serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.EventSystems
@@ -2603,6 +2718,12 @@ ScriptsOnlyBuild:
     assemblyName: PhotonUnityNetworking.Demos.dll
     namespaceName: Photon.Pun.Demo.Cockpit
     className: CurrentRoomIsOfflineProperty
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: MainMenuInteraction
   - hash:
       serializedVersion: 2
       Hash: c3bd598ebf26a1734f4e48c8dfe999af
@@ -2740,9 +2861,9 @@ ScriptsOnlyBuild:
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
-    className: SyncVidos
+    className: LineRendererPhoton
   platform: 5
   scenePathNames:
   - Assets/Scenes/MainMenuScene.unity
   - Assets/Scenes/MultiplayerScene.unity
-  playerPath: D:/sandbox/OVRPUN2Repo/OVRPUN2/Builds/Build/OVRPUN2.exe
+  playerPath: D:/sandbox/OVRPUN2Repo/OVRPUN2/Builds/Build2/OVRPUN2.exe

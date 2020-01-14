@@ -1508,6 +1508,11 @@ PrefabInstance:
       propertyPath: viewIdField
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 4076926058151234814, guid: ce816f2e6abb0504092c23ed9b970dfd,
+        type: 3}
+      propertyPath: viewIdField
+      value: 3
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ce816f2e6abb0504092c23ed9b970dfd, type: 3}
 --- !u!1 &693766518 stripped
@@ -3904,6 +3909,11 @@ PrefabInstance:
     - target: {fileID: 1069503024, guid: ce816f2e6abb0504092c23ed9b970dfd, type: 3}
       propertyPath: viewIdField
       value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4076926058151234814, guid: ce816f2e6abb0504092c23ed9b970dfd,
+        type: 3}
+      propertyPath: viewIdField
+      value: 4
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ce816f2e6abb0504092c23ed9b970dfd, type: 3}
