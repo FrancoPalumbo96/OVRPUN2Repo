@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.IO;
 using Photon.Pun;
+using Unity.Mathematics;
 using UnityEngine;
 
 public class RobotOVR : MonoBehaviour {
@@ -35,7 +36,9 @@ public class RobotOVR : MonoBehaviour {
         PV = GetComponent<PhotonView>();
         if (PV.IsMine) {
 
-            GameObject ovr = Instantiate(ovrPrefab, transform.position, ovrPrefab.transform.rotation);
+            GameObject ovr = PhotonNetwork.Instantiate(Path.Combine("PhotonPrefabs", "PlayerAvatarOVR"),
+                transform.position, ovrPrefab.transform.rotation);
+            //GameObject ovr = Instantiate(ovrPrefab, transform.position, ovrPrefab.transform.rotation);
             _rig = GetComponent<VRRig>();
 
             string ovrName = ovr.name;
