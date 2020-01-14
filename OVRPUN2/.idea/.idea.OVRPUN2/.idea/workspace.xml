@@ -1,79 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="de4fb3c0-53d5-472a-8f43-0a1dad565123" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.OVRPUN2/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.OVRPUN2/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.OVRPUN2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.OVRPUN2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/LazerActivator.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LazerActivator.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Oculus/VR/Prefabs/OVRPlayerController.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Oculus/VR/Prefabs/OVRPlayerController.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Photon/PhotonUnityNetworking/Resources/PhotonServerSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Photon/PhotonUnityNetworking/Resources/PhotonServerSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/PhotonPrefabs/Ghost.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/PhotonPrefabs/Ghost.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/PhotonPrefabs/PlayerAvatarOVR.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/PhotonPrefabs/PlayerAvatarOVR.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Resources/PhotonPrefabs/PlayerAvatarRobotOVR.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Resources/PhotonPrefabs/PlayerAvatarRobotOVR.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/MainMenuScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/MainMenuScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/MainMenuSceneQuest 1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/MainMenuSceneQuest 1.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PhotonGuide/NetworkedPlayer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/PhotonGuide/NetworkedPlayer.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/RobotOVR.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/RobotOVR.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/EditorUserBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/EditorUserBuildSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/InspectorExpandedItems.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/InspectorExpandedItems.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/LastBuild.buildreport" beforeDir="false" afterPath="$PROJECT_DIR$/Library/LastBuild.buildreport" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PlayerDataCache/Win/Data/Managed/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PlayerDataCache/Win/Data/Managed/Assembly-CSharp.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PlayerDataCache/Win/Data/Managed/Oculus.VR.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PlayerDataCache/Win/Data/Managed/Oculus.VR.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PlayerDataCache/Win/Data/Managed/PhotonChat.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PlayerDataCache/Win/Data/Managed/PhotonChat.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PlayerDataCache/Win/Data/Managed/PhotonRealtime.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PlayerDataCache/Win/Data/Managed/PhotonRealtime.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PlayerDataCache/Win/Data/Managed/PhotonUnityNetworking.Demos.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PlayerDataCache/Win/Data/Managed/PhotonUnityNetworking.Demos.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PlayerDataCache/Win/Data/Managed/PhotonUnityNetworking.Utilities.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PlayerDataCache/Win/Data/Managed/PhotonUnityNetworking.Utilities.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PlayerDataCache/Win/Data/Managed/PhotonUnityNetworking.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PlayerDataCache/Win/Data/Managed/PhotonUnityNetworking.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PlayerDataCache/Win/Data/Managed/PhotonWebSocket.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PlayerDataCache/Win/Data/Managed/PhotonWebSocket.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PlayerDataCache/Win/Data/Managed/Unity.Animation.Rigging.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PlayerDataCache/Win/Data/Managed/Unity.Animation.Rigging.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PlayerDataCache/Win/Data/Managed/Unity.Burst.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PlayerDataCache/Win/Data/Managed/Unity.Burst.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PlayerDataCache/Win/Data/Managed/Unity.Mathematics.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PlayerDataCache/Win/Data/Managed/Unity.Mathematics.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PlayerDataCache/Win/Data/Managed/Unity.TextMeshPro.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PlayerDataCache/Win/Data/Managed/Unity.TextMeshPro.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PlayerDataCache/Win/Data/Managed/Unity.Timeline.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PlayerDataCache/Win/Data/Managed/Unity.Timeline.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PlayerDataCache/Win/Data/Managed/UnityEngine.UI.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PlayerDataCache/Win/Data/Managed/UnityEngine.UI.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PlayerDataCache/Win/Data/Plugins/lib_burst_generated.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PlayerDataCache/Win/Data/Plugins/lib_burst_generated.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PlayerDataCache/Win/Data/globalgamemanagers" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PlayerDataCache/Win/Data/globalgamemanagers" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PlayerDataCache/Win/Data/globalgamemanagers.assets" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PlayerDataCache/Win/Data/globalgamemanagers.assets" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PlayerDataCache/Win/Data/level0" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PlayerDataCache/Win/Data/level0" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PlayerDataCache/Win/Data/level1" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PlayerDataCache/Win/Data/level1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PlayerDataCache/Win/Data/resources.assets" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PlayerDataCache/Win/Data/resources.assets" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PlayerDataCache/Win/Data/sharedassets0.assets" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PlayerDataCache/Win/Data/sharedassets0.assets" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PlayerDataCache/Win/Data/sharedassets1.assets" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PlayerDataCache/Win/Data/sharedassets1.assets" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PlayerDataCache/Win/Data/sharedassets1.assets.resS" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PlayerDataCache/Win/Data/sharedassets1.assets.resS" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/PlayerDataCache/Win/ScriptsOnlyCache.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Library/PlayerDataCache/Win/ScriptsOnlyCache.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp-Editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp-Editor.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/StateCache/Hierarchy/544365-07abaaa5cbaa81a48b.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/Hierarchy/544365-07abaaa5cbaa81a48b.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/StateCache/Hierarchy/544365-819bd676745ab7645b.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/Hierarchy/544365-819bd676745ab7645b.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/StateCache/Hierarchy/544365-91772a98e38c27e41a.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/Hierarchy/544365-91772a98e38c27e41a.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/StateCache/Hierarchy/544365-ce816f2e6abb050409.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/Hierarchy/544365-ce816f2e6abb050409.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/StateCache/Hierarchy/544365-ebdd82e75092b664fb.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/Hierarchy/544365-ebdd82e75092b664fb.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/StateCache/Hierarchy/544365-mainStage.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/Hierarchy/544365-mainStage.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/StateCache/SceneView/c7e9f1-mainStage.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/SceneView/c7e9f1-mainStage.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/assetDatabase3" beforeDir="false" afterPath="$PROJECT_DIR$/Library/assetDatabase3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/07/07abaaa5cbaa81a48beb175e75e7d7ae.info" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/07/07abaaa5cbaa81a48beb175e75e7d7ae.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/0b/0b3b4753a9e06e14080142b1cfca80d8" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/0b/0b3b4753a9e06e14080142b1cfca80d8" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/0b/0b3b4753a9e06e14080142b1cfca80d8.info" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/0b/0b3b4753a9e06e14080142b1cfca80d8.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/13/13e424ae9a9c9b24c9ae97771470c0c3" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/13/13e424ae9a9c9b24c9ae97771470c0c3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/43/437a097ba1021794a90faac3d4e4ae8b.info" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/43/437a097ba1021794a90faac3d4e4ae8b.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/65/651228bf6f027864983672d019db11c9" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/65/651228bf6f027864983672d019db11c9" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/75/755797176804b354c8b842e4a125f561" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/75/755797176804b354c8b842e4a125f561" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/91/91772a98e38c27e41ab57541aee8ea7a" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/91/91772a98e38c27e41ab57541aee8ea7a" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/91/91772a98e38c27e41ab57541aee8ea7a.info" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/91/91772a98e38c27e41ab57541aee8ea7a.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/ce/ce816f2e6abb0504092c23ed9b970dfd" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/ce/ce816f2e6abb0504092c23ed9b970dfd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/ce/ce816f2e6abb0504092c23ed9b970dfd.info" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/ce/ce816f2e6abb0504092c23ed9b970dfd.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/eb/ebdd82e75092b664fb66ea62304cfea2" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/eb/ebdd82e75092b664fb66ea62304cfea2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/eb/ebdd82e75092b664fb66ea62304cfea2.info" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/eb/ebdd82e75092b664fb66ea62304cfea2.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe0.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe0.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe1.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe1.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe2.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe2.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe3.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe3.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe4.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe4.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe5.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe5.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe6.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe6.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe7.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe7.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
-    </list>
+    <list default="true" id="de4fb3c0-53d5-472a-8f43-0a1dad565123" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,16 +13,16 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/PhotonGuide/NetworkedPlayer.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+            <state relative-caret-position="493">
+              <caret line="30" column="75" selection-start-line="30" selection-start-column="75" selection-end-line="30" selection-end-column="75" />
               <folding>
-                <marker date="1579016602018" expanded="false" signature="6:36" ph="..." />
-                <marker date="1579016602018" expanded="true" signature="120:1488" ph="{...}" />
-                <marker date="1579016602018" expanded="true" signature="270:801" ph="{...}" />
-                <marker date="1579016602018" expanded="true" signature="443:795" ph="{...}" />
-                <marker date="1579016602018" expanded="true" signature="879:1486" ph="{...}" />
-                <marker date="1579016602018" expanded="true" signature="915:1151" ph="{...}" />
-                <marker date="1579016602018" expanded="true" signature="1164:1480" ph="{...}" />
+                <marker date="1579027308977" expanded="false" signature="6:36" ph="..." />
+                <marker date="1579027308977" expanded="true" signature="120:1488" ph="{...}" />
+                <marker date="1579027308977" expanded="true" signature="270:801" ph="{...}" />
+                <marker date="1579027308977" expanded="true" signature="443:795" ph="{...}" />
+                <marker date="1579027308977" expanded="true" signature="879:1486" ph="{...}" />
+                <marker date="1579027308977" expanded="true" signature="915:1151" ph="{...}" />
+                <marker date="1579027308977" expanded="true" signature="1164:1480" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -103,7 +31,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/PhotonRoom.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1108">
+            <state>
               <folding>
                 <marker date="1578680207622" expanded="false" signature="6:185" ph="..." />
                 <marker date="1578680207622" expanded="true" signature="256:2880" ph="{...}" />
@@ -130,47 +58,9 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/LazerActivator.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="21" selection-start-line="21" selection-end-line="21" />
-              <folding>
-                <marker date="1579015052934" expanded="false" signature="6:128" ph="..." />
-                <marker date="1579015052934" expanded="true" signature="177:2160" ph="{...}" />
-                <marker date="1579015052934" expanded="true" signature="411:656" ph="{...}" />
-                <marker date="1579015052934" expanded="true" signature="684:779" ph="{...}" />
-                <marker date="1579015052934" expanded="true" signature="815:1721" ph="{...}" />
-                <marker date="1579015052934" expanded="true" signature="971:1269" ph="{...}" />
-                <marker date="1579015052934" expanded="true" signature="1269:1570" ph="{...}" />
-                <marker date="1579015052934" expanded="true" signature="1579:1715" ph="/* if (OVRInput.Get(OVRInput.Button.One, OVRInput.Controller.LTouch)) { ... */" />
-                <marker date="1579015052934" expanded="true" signature="1771:1938" ph="{...}" />
-                <marker date="1579015052934" expanded="true" signature="1986:2147" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/LineRendererPhoton.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="23" column="14" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
-              <folding>
-                <marker date="1579013632062" expanded="false" signature="6:96" ph="..." />
-                <marker date="1579013632062" expanded="true" signature="149:1175" ph="{...}" />
-                <marker date="1579013632062" expanded="true" signature="296:429" ph="{...}" />
-                <marker date="1579013632062" expanded="true" signature="508:601" ph="{...}" />
-                <marker date="1579013632062" expanded="true" signature="638:770" ph="{...}" />
-                <marker date="1579013632062" expanded="true" signature="777:1173" ph="/* public void OnPhotonSerializeView(PhotonStream stream, PhotonMessageInfo info) { ... */" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/GameControllers/PhotonPlayer.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="439">
+            <state relative-caret-position="663">
               <caret line="43" column="94" selection-start-line="43" selection-start-column="57" selection-end-line="43" selection-end-column="94" />
               <folding>
                 <marker date="1578680207621" expanded="false" signature="6:113" ph="..." />
@@ -189,16 +79,16 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/RobotOVR.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="18" column="18" lean-forward="true" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+            <state relative-caret-position="238">
+              <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
               <folding>
-                <marker date="1579015504612" expanded="false" signature="6:138" ph="..." />
-                <marker date="1579015504612" expanded="true" signature="178:1782" ph="{...}" />
-                <marker date="1579015504612" expanded="true" signature="391:1779" ph="{...}" />
-                <marker date="1579015504612" expanded="true" signature="466:698" ph="{...}" />
-                <marker date="1579015504612" expanded="true" signature="558:688" ph="/* GameObject cube = GameObject.CreatePrimitive(PrimitiveType.Cube); ... */" />
-                <marker date="1579015504612" expanded="true" signature="733:849" ph="{...}" />
-                <marker date="1579015504612" expanded="true" signature="923:1765" ph="{...}" />
+                <marker date="1579027308977" expanded="true" signature="6:138" ph="..." />
+                <marker date="1579027308977" expanded="true" signature="178:1782" ph="{...}" />
+                <marker date="1579027308977" expanded="true" signature="391:1779" ph="{...}" />
+                <marker date="1579027308977" expanded="true" signature="466:698" ph="{...}" />
+                <marker date="1579027308977" expanded="true" signature="558:688" ph="/* GameObject cube = GameObject.CreatePrimitive(PrimitiveType.Cube); ... */" />
+                <marker date="1579027308977" expanded="true" signature="733:849" ph="{...}" />
+                <marker date="1579027308977" expanded="true" signature="923:1765" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -229,7 +119,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/TouchButtonAction.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="717">
+            <state relative-caret-position="1921">
               <caret line="117" column="61" selection-start-line="117" selection-start-column="8" selection-end-line="117" selection-end-column="61" />
               <folding>
                 <marker date="1578680207623" expanded="false" signature="6:121" ph="..." />
@@ -283,26 +173,27 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/VideoPlayerPUN.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Oculus/VR/Scripts/Util/OVRGrabber.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Oculus/VR/Scripts/Util/OVRControllerHelper.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/OVRInputSelection/Scripts/RawInteraction.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Photon/PhotonUnityNetworking/Code/PhotonView.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/OVRGrabbablePUNOwnershipChange.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/OVRInputSelection/Scripts/RawInteraction.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Photon/PhotonUnityNetworking/Code/PhotonNetwork.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Oculus/SampleFramework/Core/CustomHands/Scripts/Hand.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/MyEvents.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Photon/PhotonUnityNetworking/Code/PhotonNetworkPart.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/OVRInputSelection/InputSystem/OVRPointerVisualizer.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/PhotonGuide/NetworkedPlayer.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/OVRInputSelection/InputSystem/OVRRawRaycaster.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/OwnershipTransfer.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Oculus/VR/Scripts/OVRManager.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Oculus/VR/Scripts/Util/OVRPlayerController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Photon/PhotonRealtime/Code/LoadBalancingClient.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/OVRInputSelection/InputSystem/OVRPhysicsRaycaster.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/RobotOVR.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Photon/PhotonUnityNetworking/Demos/PunBasics-Tutorial/Scripts/Launcher.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/OVRInputSelection/InputSystem/OVRPhysicsRaycaster.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/LazerActivator.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/OVRInputSelection/InputSystem/OVRPointerVisualizer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/LineRendererPhoton.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/VRRig.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/GhostCamera.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/LazerActivator.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/PhotonLobby.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/TouchController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/PhotonGuide/NetworkController.cs" root0="FORCE_HIGHLIGHTING" />
@@ -313,7 +204,6 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameControllers/GameSetup.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameControllers/PlayerMovement.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Oculus/SampleFramework/Core/DebugUI/Scripts/LaserPointer.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/LineRendererPhoton.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -369,10 +259,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="SolutionExplorer">
-        <option name="show-all-files" value="false" />
-      </pane>
-      <pane id="FileSystemExplorer" />
       <pane id="UnityExplorer">
         <subPane>
           <expand>
@@ -390,6 +276,10 @@
         </subPane>
         <option name="show-hidden-items" value="false" />
       </pane>
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="FileSystemExplorer" />
       <pane id="AssemblyExplorer" />
     </panes>
   </component>
@@ -463,7 +353,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="68596000" />
+    <option name="totallyTimeSpent" value="68693000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -2336,7 +2226,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/TouchButtonAction.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="717">
+        <state relative-caret-position="1921">
           <caret line="117" column="61" selection-start-line="117" selection-start-column="8" selection-end-line="117" selection-end-column="61" />
           <folding>
             <marker date="1578680207623" expanded="false" signature="6:121" ph="..." />
@@ -3312,7 +3202,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/GameControllers/PhotonPlayer.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="439">
+        <state relative-caret-position="663">
           <caret line="43" column="94" selection-start-line="43" selection-start-column="57" selection-end-line="43" selection-end-column="94" />
           <folding>
             <marker date="1578680207621" expanded="false" signature="6:113" ph="..." />
@@ -3329,23 +3219,23 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/RobotOVR.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="18" column="18" lean-forward="true" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+        <state relative-caret-position="238">
+          <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
           <folding>
-            <marker date="1579015504612" expanded="false" signature="6:138" ph="..." />
-            <marker date="1579015504612" expanded="true" signature="178:1782" ph="{...}" />
-            <marker date="1579015504612" expanded="true" signature="391:1779" ph="{...}" />
-            <marker date="1579015504612" expanded="true" signature="466:698" ph="{...}" />
-            <marker date="1579015504612" expanded="true" signature="558:688" ph="/* GameObject cube = GameObject.CreatePrimitive(PrimitiveType.Cube); ... */" />
-            <marker date="1579015504612" expanded="true" signature="733:849" ph="{...}" />
-            <marker date="1579015504612" expanded="true" signature="923:1765" ph="{...}" />
+            <marker date="1579027308977" expanded="true" signature="6:138" ph="..." />
+            <marker date="1579027308977" expanded="true" signature="178:1782" ph="{...}" />
+            <marker date="1579027308977" expanded="true" signature="391:1779" ph="{...}" />
+            <marker date="1579027308977" expanded="true" signature="466:698" ph="{...}" />
+            <marker date="1579027308977" expanded="true" signature="558:688" ph="/* GameObject cube = GameObject.CreatePrimitive(PrimitiveType.Cube); ... */" />
+            <marker date="1579027308977" expanded="true" signature="733:849" ph="{...}" />
+            <marker date="1579027308977" expanded="true" signature="923:1765" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/PhotonRoom.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1108">
+        <state>
           <folding>
             <marker date="1578680207622" expanded="false" signature="6:185" ph="..." />
             <marker date="1578680207622" expanded="true" signature="256:2880" ph="{...}" />
@@ -3372,16 +3262,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/PhotonGuide/NetworkedPlayer.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+        <state relative-caret-position="493">
+          <caret line="30" column="75" selection-start-line="30" selection-start-column="75" selection-end-line="30" selection-end-column="75" />
           <folding>
-            <marker date="1579016602018" expanded="false" signature="6:36" ph="..." />
-            <marker date="1579016602018" expanded="true" signature="120:1488" ph="{...}" />
-            <marker date="1579016602018" expanded="true" signature="270:801" ph="{...}" />
-            <marker date="1579016602018" expanded="true" signature="443:795" ph="{...}" />
-            <marker date="1579016602018" expanded="true" signature="879:1486" ph="{...}" />
-            <marker date="1579016602018" expanded="true" signature="915:1151" ph="{...}" />
-            <marker date="1579016602018" expanded="true" signature="1164:1480" ph="{...}" />
+            <marker date="1579027308977" expanded="false" signature="6:36" ph="..." />
+            <marker date="1579027308977" expanded="true" signature="120:1488" ph="{...}" />
+            <marker date="1579027308977" expanded="true" signature="270:801" ph="{...}" />
+            <marker date="1579027308977" expanded="true" signature="443:795" ph="{...}" />
+            <marker date="1579027308977" expanded="true" signature="879:1486" ph="{...}" />
+            <marker date="1579027308977" expanded="true" signature="915:1151" ph="{...}" />
+            <marker date="1579027308977" expanded="true" signature="1164:1480" ph="{...}" />
           </folding>
         </state>
       </provider>
