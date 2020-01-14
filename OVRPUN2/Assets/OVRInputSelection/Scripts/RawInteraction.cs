@@ -30,6 +30,7 @@ public class RawInteraction : MonoBehaviour {
     public UnityEngine.UI.Text outText;
 
     public void OnHoverEnter(Transform t) {
+        Debug.LogWarning("Hover enter!! " + t);
         if (t.gameObject.name == "BackButton") {
             t.gameObject.GetComponent<Renderer>().material = backACtive;
         }
